@@ -1,0 +1,1632 @@
+Date/Time,ID,Description,Status
+08.07.2025 16:26:01,PS,Power supply panel,Panel okay
+08.07.2025 16:26:01,PS-T,Power supply track circuits,Okay
+08.07.2025 16:26:01,PS-P,Power supply points,Okay
+08.07.2025 16:26:01,PS-S,Power supply signals,Okay
+08.07.2025 16:26:01,EL,Earth leakage,Earth leakage detected
+08.07.2025 16:26:01,MSA,Main supply A available,Mains A available
+08.07.2025 16:26:01,MSB,Main supply B available,Mains B available
+08.07.2025 16:26:01,MSA-F,Main supply A feeding,Mains A not feeding
+08.07.2025 16:26:01,LOAD,Load on inverter / bypass,Load on inverter
+08.07.2025 16:26:01,BATT,Battery,Battery okay
+08.07.2025 16:26:01,BAT-U,Battery undervoltage,Battery Voltage okay
+08.07.2025 16:26:01,BAT-O,Battery operation,Battery not in operation
+08.07.2025 16:26:01,BYP,Bypass operation (single point operation),Bypass not in Operation
+08.07.2025 16:26:01,M-BYP,Manual bypass,Manual Bypass not active
+08.07.2025 16:26:01,FAN,Fan,Okay
+08.07.2025 16:26:01,UPS,UPS,UPS is okay
+08.07.2025 16:26:01,TEMP,Overtemperature alarm,Temperature okay
+08.07.2025 16:26:02,PS,Power supply panel,Panel okay
+08.07.2025 16:26:02,PS-T,Power supply track circuits,Okay
+08.07.2025 16:26:02,PS-P,Power supply points,Okay
+08.07.2025 16:26:02,PS-S,Power supply signals,Okay
+08.07.2025 16:26:02,EL,Earth leakage,Earth leakage detected
+08.07.2025 16:26:02,MSA,Main supply A available,Mains A available
+08.07.2025 16:26:02,MSB,Main supply B available,Mains B available
+08.07.2025 16:26:02,MSA-F,Main supply A feeding,Mains A not feeding
+08.07.2025 16:26:02,LOAD,Load on inverter / bypass,Load on inverter
+08.07.2025 16:26:02,BATT,Battery,Battery okay
+08.07.2025 16:26:02,BAT-U,Battery undervoltage,Battery Voltage okay
+08.07.2025 16:26:02,BAT-O,Battery operation,Battery not in operation
+08.07.2025 16:26:02,BYP,Bypass operation (single point operation),Bypass not in Operation
+08.07.2025 16:26:02,M-BYP,Manual bypass,Manual Bypass not active
+08.07.2025 16:26:02,FAN,Fan,Okay
+08.07.2025 16:26:02,UPS,UPS,UPS is okay
+08.07.2025 16:26:02,TEMP,Overtemperature alarm,Temperature okay
+08.07.2025 16:26:03,PS,Power supply panel,Panel okay
+08.07.2025 16:26:03,PS-T,Power supply track circuits,Okay
+08.07.2025 16:26:03,PS-P,Power supply points,Okay
+08.07.2025 16:26:03,PS-S,Power supply signals,Okay
+08.07.2025 16:26:03,EL,Earth leakage,Earth leakage detected
+08.07.2025 16:26:03,MSA,Main supply A available,Mains A available
+08.07.2025 16:26:03,MSB,Main supply B available,Mains B available
+08.07.2025 16:26:03,MSA-F,Main supply A feeding,Mains A not feeding
+08.07.2025 16:26:03,LOAD,Load on inverter / bypass,Load on inverter
+08.07.2025 16:26:03,BATT,Battery,Battery okay
+08.07.2025 16:26:03,BAT-U,Battery undervoltage,Battery Voltage okay
+08.07.2025 16:26:03,BAT-O,Battery operation,Battery not in operation
+08.07.2025 16:26:03,BYP,Bypass operation (single point operation),Bypass not in Operation
+08.07.2025 16:26:03,M-BYP,Manual bypass,Manual Bypass not active
+08.07.2025 16:26:03,FAN,Fan,Okay
+08.07.2025 16:26:03,UPS,UPS,UPS is okay
+08.07.2025 16:26:03,TEMP,Overtemperature alarm,Temperature okay
+08.07.2025 16:26:04,PS,Power supply panel,Panel okay
+08.07.2025 16:26:04,PS-T,Power supply track circuits,Okay
+08.07.2025 16:26:04,PS-P,Power supply points,Okay
+08.07.2025 16:26:04,PS-S,Power supply signals,Okay
+08.07.2025 16:26:04,EL,Earth leakage,Earth leakage detected
+08.07.2025 16:26:04,MSA,Main supply A available,Mains A available
+08.07.2025 16:26:04,MSB,Main supply B available,Mains B available
+08.07.2025 16:26:04,MSA-F,Main supply A feeding,Mains A not feeding
+08.07.2025 16:26:04,LOAD,Load on inverter / bypass,Load on inverter
+08.07.2025 16:26:04,BATT,Battery,Battery okay
+08.07.2025 16:26:04,BAT-U,Battery undervoltage,Battery Voltage okay
+08.07.2025 16:26:04,BAT-O,Battery operation,Battery not in operation
+08.07.2025 16:26:04,BYP,Bypass operation (single point operation),Bypass not in Operation
+08.07.2025 16:26:04,M-BYP,Manual bypass,Manual Bypass not active
+08.07.2025 16:26:04,FAN,Fan,Okay
+08.07.2025 16:26:04,UPS,UPS,UPS is okay
+08.07.2025 16:26:04,TEMP,Overtemperature alarm,Temperature okay
+08.07.2025 16:26:05,PS,Power supply panel,Panel okay
+08.07.2025 16:26:05,PS-T,Power supply track circuits,Okay
+08.07.2025 16:26:05,PS-P,Power supply points,Okay
+08.07.2025 16:26:05,PS-S,Power supply signals,Okay
+08.07.2025 16:26:05,EL,Earth leakage,Earth leakage detected
+08.07.2025 16:26:05,MSA,Main supply A available,Mains A available
+08.07.2025 16:26:05,MSB,Main supply B available,Mains B available
+08.07.2025 16:26:05,MSA-F,Main supply A feeding,Mains A not feeding
+08.07.2025 16:26:05,LOAD,Load on inverter / bypass,Load on inverter
+08.07.2025 16:26:05,BATT,Battery,Battery okay
+08.07.2025 16:26:05,BAT-U,Battery undervoltage,Battery Voltage okay
+08.07.2025 16:26:05,BAT-O,Battery operation,Battery not in operation
+08.07.2025 16:26:05,BYP,Bypass operation (single point operation),Bypass not in Operation
+08.07.2025 16:26:05,M-BYP,Manual bypass,Manual Bypass not active
+08.07.2025 16:26:05,FAN,Fan,Okay
+08.07.2025 16:26:05,UPS,UPS,UPS is okay
+08.07.2025 16:26:05,TEMP,Overtemperature alarm,Temperature okay
+08.07.2025 16:26:06,PS,Power supply panel,Panel okay
+08.07.2025 16:26:06,PS-T,Power supply track circuits,Okay
+08.07.2025 16:26:06,PS-P,Power supply points,Okay
+08.07.2025 16:26:06,PS-S,Power supply signals,Okay
+08.07.2025 16:26:06,EL,Earth leakage,Earth leakage detected
+08.07.2025 16:26:06,MSA,Main supply A available,Mains A available
+08.07.2025 16:26:06,MSB,Main supply B available,Mains B available
+08.07.2025 16:26:06,MSA-F,Main supply A feeding,Mains A not feeding
+08.07.2025 16:26:06,LOAD,Load on inverter / bypass,Load on inverter
+08.07.2025 16:26:06,BATT,Battery,Battery okay
+08.07.2025 16:26:06,BAT-U,Battery undervoltage,Battery Voltage okay
+08.07.2025 16:26:06,BYP,Bypass operation (single point operation),Bypass not in Operation
+08.07.2025 16:26:06,M-BYP,Manual bypass,Manual Bypass not active
+08.07.2025 16:26:06,FAN,Fan,Okay
+08.07.2025 16:26:06,UPS,UPS,UPS is okay
+08.07.2025 16:26:06,TEMP,Overtemperature alarm,Temperature okay
+08.07.2025 16:26:07,PS,Power supply panel,Panel okay
+08.07.2025 16:26:07,PS-T,Power supply track circuits,Okay
+08.07.2025 16:26:07,PS-P,Power supply points,Okay
+08.07.2025 16:26:07,PS-S,Power supply signals,Okay
+08.07.2025 16:26:07,EL,Earth leakage,Earth leakage detected
+08.07.2025 16:26:07,MSA,Main supply A available,Mains A available
+08.07.2025 16:26:07,MSB,Main supply B available,Mains B available
+08.07.2025 16:26:07,MSA-F,Main supply A feeding,Mains A not feeding
+08.07.2025 16:26:07,MSB,Main supply B available,Mains B available
+08.07.2025 16:26:07,LOAD,Load on inverter / bypass,Load on inverter
+08.07.2025 16:26:07,BATT,Battery,Battery okay
+08.07.2025 16:26:07,BAT-U,Battery undervoltage,Battery Voltage okay
+08.07.2025 16:26:07,BAT-O,Battery operation,Battery not in operation
+08.07.2025 16:26:07,BYP,Bypass operation (single point operation),Bypass not in Operation
+08.07.2025 16:26:07,M-BYP,Manual bypass,Manual Bypass not active
+08.07.2025 16:26:07,FAN,Fan,Okay
+08.07.2025 16:26:07,UPS,UPS,UPS is okay
+08.07.2025 16:26:07,TEMP,Overtemperature alarm,Temperature okay
+08.07.2025 16:26:08,PS,Power supply panel,Panel okay
+08.07.2025 16:26:08,PS-T,Power supply track circuits,Okay
+08.07.2025 16:26:08,PS-P,Power supply points,Okay
+08.07.2025 16:26:08,PS-S,Power supply signals,Okay
+08.07.2025 16:26:08,EL,Earth leakage,Earth leakage detected
+08.07.2025 16:26:08,MSA,Main supply A available,Mains A available
+08.07.2025 16:26:08,MSB,Main supply B available,Mains B available
+08.07.2025 16:26:08,MSA-F,Main supply A feeding,Mains A not feeding
+08.07.2025 16:26:08,MSB,Main supply B available,Mains B available
+08.07.2025 16:26:08,LOAD,Load on inverter / bypass,Load on inverter
+08.07.2025 16:26:08,BATT,Battery,Battery okay
+08.07.2025 16:26:08,BAT-U,Battery undervoltage,Battery Voltage okay
+08.07.2025 16:26:08,BAT-O,Battery operation,Battery not in operation
+08.07.2025 16:26:08,BYP,Bypass operation (single point operation),Bypass not in Operation
+08.07.2025 16:26:08,M-BYP,Manual bypass,Manual Bypass not active
+08.07.2025 16:26:08,FAN,Fan,Okay
+08.07.2025 16:26:08,UPS,UPS,UPS is okay
+08.07.2025 16:26:08,TEMP,Overtemperature alarm,Temperature okay
+08.07.2025 16:26:09,PS,Power supply panel,Panel okay
+08.07.2025 16:26:09,PS-T,Power supply track circuits,Okay
+08.07.2025 16:26:09,PS-P,Power supply points,Okay
+08.07.2025 16:26:09,PS-S,Power supply signals,Okay
+08.07.2025 16:26:09,EL,Earth leakage,Earth leakage detected
+08.07.2025 16:26:09,MSA,Main supply A available,Mains A available
+08.07.2025 16:26:09,MSB,Main supply B available,Mains B available
+08.07.2025 16:26:09,MSA-F,Main supply A feeding,Mains A not feeding
+08.07.2025 16:26:09,LOAD,Load on inverter / bypass,Load on inverter
+08.07.2025 16:26:09,BATT,Battery,Battery okay
+08.07.2025 16:26:09,BAT-U,Battery undervoltage,Battery Voltage okay
+08.07.2025 16:26:09,BAT-O,Battery operation,Battery not in operation
+08.07.2025 16:26:09,BYP,Bypass operation (single point operation),Bypass not in Operation
+08.07.2025 16:26:09,M-BYP,Manual bypass,Manual Bypass not active
+08.07.2025 16:26:09,FAN,Fan,Okay
+08.07.2025 16:26:09,UPS,UPS,UPS is okay
+08.07.2025 16:26:09,TEMP,Overtemperature alarm,Temperature okay
+08.07.2025 16:26:09,PS,Power supply panel,Panel okay
+08.07.2025 16:26:09,PS-T,Power supply track circuits,Okay
+08.07.2025 16:26:09,PS-P,Power supply points,Okay
+08.07.2025 16:26:09,PS-S,Power supply signals,Okay
+08.07.2025 16:26:09,EL,Earth leakage,Earth leakage detected
+08.07.2025 16:26:09,MSA,Main supply A available,Mains A available
+08.07.2025 16:26:09,MSB,Main supply B available,Mains B available
+08.07.2025 16:26:09,MSA-F,Main supply A feeding,Mains A not feeding
+08.07.2025 16:26:09,LOAD,Load on inverter / bypass,Load on inverter
+08.07.2025 16:26:09,BATT,Battery,Battery okay
+08.07.2025 16:26:09,BAT-U,Battery undervoltage,Battery Voltage okay
+08.07.2025 16:26:09,BAT-O,Battery operation,Battery not in operation
+08.07.2025 16:26:09,BYP,Bypass operation (single point operation),Bypass not in Operation
+08.07.2025 16:26:09,M-BYP,Manual bypass,Manual Bypass not active
+08.07.2025 16:26:09,FAN,Fan,Okay
+08.07.2025 16:26:09,UPS,UPS,UPS is okay
+08.07.2025 16:26:09,TEMP,Overtemperature alarm,Temperature okay
+08.07.2025 16:26:10,PS,Power supply panel,Panel okay
+08.07.2025 16:26:10,PS-T,Power supply track circuits,Okay
+08.07.2025 16:26:10,PS-P,Power supply points,Okay
+08.07.2025 16:26:10,PS-S,Power supply signals,Okay
+08.07.2025 16:26:10,EL,Earth leakage,Earth leakage detected
+08.07.2025 16:26:10,MSA,Main supply A available,Mains A available
+08.07.2025 16:26:10,MSB,Main supply B available,Mains B available
+08.07.2025 16:26:10,MSA-F,Main supply A feeding,Mains A not feeding
+08.07.2025 16:26:10,LOAD,Load on inverter / bypass,Load on inverter
+08.07.2025 16:26:10,BATT,Battery,Battery okay
+08.07.2025 16:26:10,BAT-U,Battery undervoltage,Battery Voltage okay
+08.07.2025 16:26:10,BAT-O,Battery operation,Battery not in operation
+08.07.2025 16:26:10,BYP,Bypass operation (single point operation),Bypass not in Operation
+08.07.2025 16:26:10,M-BYP,Manual bypass,Manual Bypass not active
+08.07.2025 16:26:10,FAN,Fan,Okay
+08.07.2025 16:26:10,UPS,UPS,UPS is okay
+08.07.2025 16:26:10,TEMP,Overtemperature alarm,Temperature okay
+08.07.2025 16:26:11,PS,Power supply panel,Panel okay
+08.07.2025 16:26:11,PS-T,Power supply track circuits,Okay
+08.07.2025 16:26:11,PS-P,Power supply points,Okay
+08.07.2025 16:26:11,PS-S,Power supply signals,Okay
+08.07.2025 16:26:11,EL,Earth leakage,Earth leakage detected
+08.07.2025 16:26:11,MSA,Main supply A available,Mains A available
+08.07.2025 16:26:11,MSB,Main supply B available,Mains B available
+08.07.2025 16:26:11,MSA-F,Main supply A feeding,Mains A not feeding
+08.07.2025 16:26:11,LOAD,Load on inverter / bypass,Load on inverter
+08.07.2025 16:26:11,BATT,Battery,Battery okay
+08.07.2025 16:26:11,BAT-U,Battery undervoltage,Battery Voltage okay
+08.07.2025 16:26:11,BAT-O,Battery operation,Battery not in operation
+08.07.2025 16:26:11,BYP,Bypass operation (single point operation),Bypass not in Operation
+08.07.2025 16:26:11,M-BYP,Manual bypass,Manual Bypass not active
+08.07.2025 16:26:11,FAN,Fan,Okay
+08.07.2025 16:26:11,UPS,UPS,UPS is okay
+08.07.2025 16:26:11,TEMP,Overtemperature alarm,Temperature okay
+08.07.2025 16:26:11,PS,Power supply panel,Panel okay
+08.07.2025 16:26:11,PS-T,Power supply track circuits,Okay
+08.07.2025 16:26:11,PS-P,Power supply points,Okay
+08.07.2025 16:26:11,PS-S,Power supply signals,Okay
+08.07.2025 16:26:11,EL,Earth leakage,Earth leakage detected
+08.07.2025 16:26:11,MSA,Main supply A available,Mains A available
+08.07.2025 16:26:11,MSB,Main supply B available,Mains B available
+08.07.2025 16:26:11,MSA-F,Main supply A feeding,Mains A not feeding
+08.07.2025 16:26:11,LOAD,Load on inverter / bypass,Load on inverter
+08.07.2025 16:26:11,BATT,Battery,Battery okay
+08.07.2025 16:26:11,BAT-U,Battery undervoltage,Battery Voltage okay
+08.07.2025 16:26:11,BAT-O,Battery operation,Battery not in operation
+08.07.2025 16:26:11,BYP,Bypass operation (single point operation),Bypass not in Operation
+08.07.2025 16:26:11,M-BYP,Manual bypass,Manual Bypass not active
+08.07.2025 16:26:11,FAN,Fan,Okay
+08.07.2025 16:26:11,UPS,UPS,UPS is okay
+08.07.2025 16:26:11,TEMP,Overtemperature alarm,Temperature okay
+08.07.2025 16:26:12,PS,Power supply panel,Panel okay
+08.07.2025 16:26:12,PS-T,Power supply track circuits,Okay
+08.07.2025 16:26:12,PS-P,Power supply points,Okay
+08.07.2025 16:26:12,PS-S,Power supply signals,Okay
+08.07.2025 16:26:12,EL,Earth leakage,Earth leakage detected
+08.07.2025 16:26:12,MSA,Main supply A available,Mains A available
+08.07.2025 16:26:12,MSB,Main supply B available,Mains B available
+08.07.2025 16:26:12,MSA-F,Main supply A feeding,Mains A not feeding
+08.07.2025 16:26:12,LOAD,Load on inverter / bypass,Load on inverter
+08.07.2025 16:26:12,BATT,Battery,Battery okay
+08.07.2025 16:26:12,BAT-U,Battery undervoltage,Battery Voltage okay
+08.07.2025 16:26:12,BAT-O,Battery operation,Battery not in operation
+08.07.2025 16:26:12,BYP,Bypass operation (single point operation),Bypass not in Operation
+08.07.2025 16:26:12,M-BYP,Manual bypass,Manual Bypass not active
+08.07.2025 16:26:12,FAN,Fan,Okay
+08.07.2025 16:26:12,UPS,UPS,UPS is okay
+08.07.2025 16:26:12,TEMP,Overtemperature alarm,Temperature okay
+08.07.2025 16:26:13,PS,Power supply panel,Panel okay
+08.07.2025 16:26:13,PS-T,Power supply track circuits,Okay
+08.07.2025 16:26:13,PS-P,Power supply points,Okay
+08.07.2025 16:26:13,PS-S,Power supply signals,Okay
+08.07.2025 16:26:13,EL,Earth leakage,Earth leakage detected
+08.07.2025 16:26:13,MSA,Main supply A available,Mains A available
+08.07.2025 16:26:13,MSB,Main supply B available,Mains B available
+08.07.2025 16:26:13,MSA-F,Main supply A feeding,Mains A not feeding
+08.07.2025 16:26:13,LOAD,Load on inverter / bypass,Load on inverter
+08.07.2025 16:26:13,BATT,Battery,Battery okay
+08.07.2025 16:26:13,BAT-U,Battery undervoltage,Battery Voltage okay
+08.07.2025 16:26:13,BAT-O,Battery operation,Battery not in operation
+08.07.2025 16:26:13,BYP,Bypass operation (single point operation),Bypass not in Operation
+08.07.2025 16:26:13,M-BYP,Manual bypass,Manual Bypass not active
+08.07.2025 16:26:13,FAN,Fan,Okay
+08.07.2025 16:26:13,UPS,UPS,UPS is okay
+08.07.2025 16:26:13,TEMP,Overtemperature alarm,Temperature okay
+08.07.2025 16:26:14,PS,Power supply panel,Panel okay
+08.07.2025 16:26:14,PS-T,Power supply track circuits,Okay
+08.07.2025 16:26:14,PS-P,Power supply points,Okay
+08.07.2025 16:26:14,PS-S,Power supply signals,Okay
+08.07.2025 16:26:14,EL,Earth leakage,Earth leakage detected
+08.07.2025 16:26:14,MSA,Main supply A available,Mains A available
+08.07.2025 16:26:14,MSB,Main supply B available,Mains B available
+08.07.2025 16:26:14,MSA-F,Main supply A feeding,Mains A not feeding
+08.07.2025 16:26:14,LOAD,Load on inverter / bypass,Load on inverter
+08.07.2025 16:26:14,BATT,Battery,Battery okay
+08.07.2025 16:26:14,BAT-U,Battery undervoltage,Battery Voltage okay
+08.07.2025 16:26:14,BAT-O,Battery operation,Battery not in operation
+08.07.2025 16:26:14,BYP,Bypass operation (single point operation),Bypass not in Operation
+08.07.2025 16:26:14,M-BYP,Manual bypass,Manual Bypass not active
+08.07.2025 16:26:14,FAN,Fan,Okay
+08.07.2025 16:26:14,UPS,UPS,UPS is okay
+08.07.2025 16:26:14,TEMP,Overtemperature alarm,Temperature okay
+08.07.2025 16:26:14,PS,Power supply panel,Panel okay
+08.07.2025 16:26:14,PS-T,Power supply track circuits,Okay
+08.07.2025 16:26:14,PS-P,Power supply points,Okay
+08.07.2025 16:26:14,PS-S,Power supply signals,Okay
+08.07.2025 16:26:14,EL,Earth leakage,Earth leakage detected
+08.07.2025 16:26:14,MSA,Main supply A available,Mains A available
+08.07.2025 16:26:14,MSB,Main supply B available,Mains B available
+08.07.2025 16:26:14,MSA-F,Main supply A feeding,Mains A not feeding
+08.07.2025 16:26:14,LOAD,Load on inverter / bypass,Load on inverter
+08.07.2025 16:26:14,BATT,Battery,Battery okay
+08.07.2025 16:26:14,BAT-U,Battery undervoltage,Battery Voltage okay
+08.07.2025 16:26:14,BAT-O,Battery operation,Battery not in operation
+08.07.2025 16:26:14,BYP,Bypass operation (single point operation),Bypass not in Operation
+08.07.2025 16:26:14,M-BYP,Manual bypass,Manual Bypass not active
+08.07.2025 16:26:14,FAN,Fan,Okay
+08.07.2025 16:26:14,UPS,UPS,UPS is okay
+08.07.2025 16:26:14,TEMP,Overtemperature alarm,Temperature okay
+08.07.2025 16:26:15,PS,Power supply panel,Panel okay
+08.07.2025 16:26:15,PS-T,Power supply track circuits,Okay
+08.07.2025 16:26:15,PS-P,Power supply points,Okay
+08.07.2025 16:26:15,PS-S,Power supply signals,Okay
+08.07.2025 16:26:15,EL,Earth leakage,Earth leakage detected
+08.07.2025 16:26:15,MSA,Main supply A available,Mains A available
+08.07.2025 16:26:15,MSB,Main supply B available,Mains B available
+08.07.2025 16:26:15,MSA-F,Main supply A feeding,Mains A not feeding
+08.07.2025 16:26:15,LOAD,Load on inverter / bypass,Load on inverter
+08.07.2025 16:26:15,BATT,Battery,Battery okay
+08.07.2025 16:26:15,BAT-U,Battery undervoltage,Battery Voltage okay
+08.07.2025 16:26:15,BAT-O,Battery operation,Battery not in operation
+08.07.2025 16:26:15,BYP,Bypass operation (single point operation),Bypass not in Operation
+08.07.2025 16:26:15,M-BYP,Manual bypass,Manual Bypass not active
+08.07.2025 16:26:15,FAN,Fan,Okay
+08.07.2025 16:26:15,UPS,UPS,UPS is okay
+08.07.2025 16:26:15,TEMP,Overtemperature alarm,Temperature okay
+08.07.2025 16:26:16,PS,Power supply panel,Panel okay
+08.07.2025 16:26:16,PS-T,Power supply track circuits,Okay
+08.07.2025 16:26:16,PS-P,Power supply points,Okay
+08.07.2025 16:26:16,PS-S,Power supply signals,Okay
+08.07.2025 16:26:16,EL,Earth leakage,Earth leakage detected
+08.07.2025 16:26:16,MSA,Main supply A available,Mains A available
+08.07.2025 16:26:16,MSB,Main supply B available,Mains B available
+08.07.2025 16:26:16,MSA-F,Main supply A feeding,Mains A not feeding
+08.07.2025 16:26:16,LOAD,Load on inverter / bypass,Load on inverter
+08.07.2025 16:26:16,BATT,Battery,Battery okay
+08.07.2025 16:26:16,BAT-U,Battery undervoltage,Battery Voltage okay
+08.07.2025 16:26:16,BAT-O,Battery operation,Battery not in operation
+08.07.2025 16:26:16,BYP,Bypass operation (single point operation),Bypass not in Operation
+08.07.2025 16:26:16,M-BYP,Manual bypass,Manual Bypass not active
+08.07.2025 16:26:16,FAN,Fan,Okay
+08.07.2025 16:26:16,UPS,UPS,UPS is okay
+08.07.2025 16:26:16,TEMP,Overtemperature alarm,Temperature okay
+08.07.2025 16:26:17,PS,Power supply panel,Panel okay
+08.07.2025 16:26:17,PS-T,Power supply track circuits,Okay
+08.07.2025 16:26:17,PS-P,Power supply points,Okay
+08.07.2025 16:26:17,PS-S,Power supply signals,Okay
+08.07.2025 16:26:17,EL,Earth leakage,Earth leakage detected
+08.07.2025 16:26:17,MSA,Main supply A available,Mains A available
+08.07.2025 16:26:17,MSB,Main supply B available,Mains B available
+08.07.2025 16:26:17,MSA-F,Main supply A feeding,Mains A not feeding
+08.07.2025 16:26:17,LOAD,Load on inverter / bypass,Load on inverter
+08.07.2025 16:26:17,BATT,Battery,Battery okay
+08.07.2025 16:26:17,BAT-U,Battery undervoltage,Battery Voltage okay
+08.07.2025 16:26:17,BAT-O,Battery operation,Battery not in operation
+08.07.2025 16:26:17,BYP,Bypass operation (single point operation),Bypass not in Operation
+08.07.2025 16:26:17,M-BYP,Manual bypass,Manual Bypass not active
+08.07.2025 16:26:17,FAN,Fan,Okay
+08.07.2025 16:26:17,UPS,UPS,UPS is okay
+08.07.2025 16:26:17,TEMP,Overtemperature alarm,Temperature okay
+08.07.2025 16:26:17,PS,Power supply panel,Panel okay
+08.07.2025 16:26:17,PS-T,Power supply track circuits,Okay
+08.07.2025 16:26:17,PS-P,Power supply points,Okay
+08.07.2025 16:26:17,PS-S,Power supply signals,Okay
+08.07.2025 16:26:17,EL,Earth leakage,Earth leakage detected
+08.07.2025 16:26:17,MSA,Main supply A available,Mains A available
+08.07.2025 16:26:17,MSB,Main supply B available,Mains B available
+08.07.2025 16:26:17,MSA-F,Main supply A feeding,Mains A not feeding
+08.07.2025 16:26:17,LOAD,Load on inverter / bypass,Load on inverter
+08.07.2025 16:26:17,BATT,Battery,Battery okay
+08.07.2025 16:26:17,BAT-U,Battery undervoltage,Battery Voltage okay
+08.07.2025 16:26:17,BYP,Bypass operation (single point operation),Bypass not in Operation
+08.07.2025 16:26:17,M-BYP,Manual bypass,Manual Bypass not active
+08.07.2025 16:26:17,FAN,Fan,Okay
+08.07.2025 16:26:17,UPS,UPS,UPS is okay
+08.07.2025 16:26:17,TEMP,Overtemperature alarm,Temperature okay
+08.07.2025 16:26:18,PS,Power supply panel,Panel okay
+08.07.2025 16:26:18,PS-T,Power supply track circuits,Okay
+08.07.2025 16:26:18,PS-P,Power supply points,Okay
+08.07.2025 16:26:18,PS-S,Power supply signals,Okay
+08.07.2025 16:26:18,EL,Earth leakage,Earth leakage detected
+08.07.2025 16:26:18,MSA,Main supply A available,Mains A available
+08.07.2025 16:26:18,MSB,Main supply B available,Mains B available
+08.07.2025 16:26:18,MSA-F,Main supply A feeding,Mains A not feeding
+08.07.2025 16:26:18,LOAD,Load on inverter / bypass,Load on inverter
+08.07.2025 16:26:18,BATT,Battery,Battery okay
+08.07.2025 16:26:18,BAT-U,Battery undervoltage,Battery Voltage okay
+08.07.2025 16:26:18,BAT-O,Battery operation,Battery not in operation
+08.07.2025 16:26:18,BYP,Bypass operation (single point operation),Bypass not in Operation
+08.07.2025 16:26:18,M-BYP,Manual bypass,Manual Bypass not active
+08.07.2025 16:26:18,FAN,Fan,Okay
+08.07.2025 16:26:18,UPS,UPS,UPS is okay
+08.07.2025 16:26:18,TEMP,Overtemperature alarm,Temperature okay
+08.07.2025 16:26:19,PS,Power supply panel,Panel okay
+08.07.2025 16:26:19,PS-T,Power supply track circuits,Okay
+08.07.2025 16:26:19,PS-P,Power supply points,Okay
+08.07.2025 16:26:19,PS-S,Power supply signals,Okay
+08.07.2025 16:26:19,EL,Earth leakage,Earth leakage detected
+08.07.2025 16:26:19,MSA,Main supply A available,Mains A available
+08.07.2025 16:26:19,MSB,Main supply B available,Mains B available
+08.07.2025 16:26:19,MSA-F,Main supply A feeding,Mains A not feeding
+08.07.2025 16:26:19,LOAD,Load on inverter / bypass,Load on inverter
+08.07.2025 16:26:19,BATT,Battery,Battery okay
+08.07.2025 16:26:19,BAT-U,Battery undervoltage,Battery Voltage okay
+08.07.2025 16:26:19,BAT-O,Battery operation,Battery not in operation
+08.07.2025 16:26:19,BYP,Bypass operation (single point operation),Bypass not in Operation
+08.07.2025 16:26:19,M-BYP,Manual bypass,Manual Bypass not active
+08.07.2025 16:26:19,FAN,Fan,Okay
+08.07.2025 16:26:19,UPS,UPS,UPS is okay
+08.07.2025 16:26:19,TEMP,Overtemperature alarm,Temperature okay
+08.07.2025 16:26:19,PS,Power supply panel,Panel okay
+08.07.2025 16:26:19,PS-T,Power supply track circuits,Okay
+08.07.2025 16:26:19,PS-P,Power supply points,Okay
+08.07.2025 16:26:19,PS-S,Power supply signals,Okay
+08.07.2025 16:26:19,EL,Earth leakage,Earth leakage detected
+08.07.2025 16:26:19,MSA,Main supply A available,Mains A available
+08.07.2025 16:26:19,MSB,Main supply B available,Mains B available
+08.07.2025 16:26:19,MSA-F,Main supply A feeding,Mains A not feeding
+08.07.2025 16:26:19,LOAD,Load on inverter / bypass,Load on inverter
+08.07.2025 16:26:19,BATT,Battery,Battery okay
+08.07.2025 16:26:19,BAT-U,Battery undervoltage,Battery Voltage okay
+08.07.2025 16:26:19,BAT-O,Battery operation,Battery not in operation
+08.07.2025 16:26:19,BYP,Bypass operation (single point operation),Bypass not in Operation
+08.07.2025 16:26:19,M-BYP,Manual bypass,Manual Bypass not active
+08.07.2025 16:26:19,FAN,Fan,Okay
+08.07.2025 16:26:19,UPS,UPS,UPS is okay
+08.07.2025 16:26:19,TEMP,Overtemperature alarm,Temperature okay
+08.07.2025 16:26:20,PS,Power supply panel,Panel okay
+08.07.2025 16:26:20,PS-T,Power supply track circuits,Okay
+08.07.2025 16:26:20,PS-P,Power supply points,Okay
+08.07.2025 16:26:20,PS-S,Power supply signals,Okay
+08.07.2025 16:26:20,EL,Earth leakage,Earth leakage detected
+08.07.2025 16:26:20,MSA,Main supply A available,Mains A available
+08.07.2025 16:26:20,MSB,Main supply B available,Mains B available
+08.07.2025 16:26:20,MSA-F,Main supply A feeding,Mains A not feeding
+08.07.2025 16:26:20,MSB,Main supply B available,Mains B available
+08.07.2025 16:26:20,LOAD,Load on inverter / bypass,Load on inverter
+08.07.2025 16:26:20,BATT,Battery,Battery okay
+08.07.2025 16:26:20,BAT-U,Battery undervoltage,Battery Voltage okay
+08.07.2025 16:26:20,BAT-O,Battery operation,Battery not in operation
+08.07.2025 16:26:20,BYP,Bypass operation (single point operation),Bypass not in Operation
+08.07.2025 16:26:20,M-BYP,Manual bypass,Manual Bypass not active
+08.07.2025 16:26:20,FAN,Fan,Okay
+08.07.2025 16:26:20,UPS,UPS,UPS is okay
+08.07.2025 16:26:20,TEMP,Overtemperature alarm,Temperature okay
+08.07.2025 16:26:21,PS,Power supply panel,Panel okay
+08.07.2025 16:26:21,PS-T,Power supply track circuits,Okay
+08.07.2025 16:26:21,PS-P,Power supply points,Okay
+08.07.2025 16:26:21,PS-S,Power supply signals,Okay
+08.07.2025 16:26:21,EL,Earth leakage,Earth leakage detected
+08.07.2025 16:26:21,MSA,Main supply A available,Mains A available
+08.07.2025 16:26:21,MSB,Main supply B available,Mains B available
+08.07.2025 16:26:21,MSA-F,Main supply A feeding,Mains A not feeding
+08.07.2025 16:26:21,LOAD,Load on inverter / bypass,Load on inverter
+08.07.2025 16:26:21,BATT,Battery,Battery okay
+08.07.2025 16:26:21,BAT-U,Battery undervoltage,Battery Voltage okay
+08.07.2025 16:26:21,BAT-O,Battery operation,Battery not in operation
+08.07.2025 16:26:21,BYP,Bypass operation (single point operation),Bypass not in Operation
+08.07.2025 16:26:21,M-BYP,Manual bypass,Manual Bypass not active
+08.07.2025 16:26:21,FAN,Fan,Okay
+08.07.2025 16:26:21,UPS,UPS,UPS is okay
+08.07.2025 16:26:21,TEMP,Overtemperature alarm,Temperature okay
+08.07.2025 16:26:22,PS,Power supply panel,Panel okay
+08.07.2025 16:26:22,PS-T,Power supply track circuits,Okay
+08.07.2025 16:26:22,PS-P,Power supply points,Okay
+08.07.2025 16:26:22,PS-S,Power supply signals,Okay
+08.07.2025 16:26:22,EL,Earth leakage,Earth leakage detected
+08.07.2025 16:26:22,MSA,Main supply A available,Mains A available
+08.07.2025 16:26:22,MSB,Main supply B available,Mains B available
+08.07.2025 16:26:22,MSA-F,Main supply A feeding,Mains A not feeding
+08.07.2025 16:26:22,LOAD,Load on inverter / bypass,Load on inverter
+08.07.2025 16:26:22,BATT,Battery,Battery okay
+08.07.2025 16:26:22,BAT-U,Battery undervoltage,Battery Voltage okay
+08.07.2025 16:26:22,BAT-O,Battery operation,Battery not in operation
+08.07.2025 16:26:22,BYP,Bypass operation (single point operation),Bypass not in Operation
+08.07.2025 16:26:22,M-BYP,Manual bypass,Manual Bypass not active
+08.07.2025 16:26:22,FAN,Fan,Okay
+08.07.2025 16:26:22,UPS,UPS,UPS is okay
+08.07.2025 16:26:22,TEMP,Overtemperature alarm,Temperature okay
+08.07.2025 16:26:22,PS,Power supply panel,Panel okay
+08.07.2025 16:26:22,PS-T,Power supply track circuits,Okay
+08.07.2025 16:26:22,PS-P,Power supply points,Okay
+08.07.2025 16:26:22,PS-S,Power supply signals,Okay
+08.07.2025 16:26:22,EL,Earth leakage,Earth leakage detected
+08.07.2025 16:26:22,MSA,Main supply A available,Mains A available
+08.07.2025 16:26:22,MSB,Main supply B available,Mains B available
+08.07.2025 16:26:22,MSA-F,Main supply A feeding,Mains A not feeding
+08.07.2025 16:26:22,LOAD,Load on inverter / bypass,Load on inverter
+08.07.2025 16:26:22,BATT,Battery,Battery okay
+08.07.2025 16:26:22,BAT-U,Battery undervoltage,Battery Voltage okay
+08.07.2025 16:26:22,BAT-O,Battery operation,Battery not in operation
+08.07.2025 16:26:22,BYP,Bypass operation (single point operation),Bypass not in Operation
+08.07.2025 16:26:22,M-BYP,Manual bypass,Manual Bypass not active
+08.07.2025 16:26:22,FAN,Fan,Okay
+08.07.2025 16:26:22,UPS,UPS,UPS is okay
+08.07.2025 16:26:22,TEMP,Overtemperature alarm,Temperature okay
+08.07.2025 16:26:23,PS,Power supply panel,Panel okay
+08.07.2025 16:26:23,PS-T,Power supply track circuits,Okay
+08.07.2025 16:26:23,PS-P,Power supply points,Okay
+08.07.2025 16:26:23,PS-S,Power supply signals,Okay
+08.07.2025 16:26:23,EL,Earth leakage,Earth leakage detected
+08.07.2025 16:26:23,MSA,Main supply A available,Mains A available
+08.07.2025 16:26:23,MSB,Main supply B available,Mains B available
+08.07.2025 16:26:23,MSA-F,Main supply A feeding,Mains A not feeding
+08.07.2025 16:26:23,LOAD,Load on inverter / bypass,Load on inverter
+08.07.2025 16:26:23,BATT,Battery,Battery okay
+08.07.2025 16:26:23,BAT-U,Battery undervoltage,Battery Voltage okay
+08.07.2025 16:26:23,BAT-O,Battery operation,Battery not in operation
+08.07.2025 16:26:23,BYP,Bypass operation (single point operation),Bypass not in Operation
+08.07.2025 16:26:23,M-BYP,Manual bypass,Manual Bypass not active
+08.07.2025 16:26:23,FAN,Fan,Okay
+08.07.2025 16:26:23,UPS,UPS,UPS is okay
+08.07.2025 16:26:23,TEMP,Overtemperature alarm,Temperature okay
+08.07.2025 16:26:23,PS,Power supply panel,Panel okay
+08.07.2025 16:26:23,PS-T,Power supply track circuits,Okay
+08.07.2025 16:26:23,PS-P,Power supply points,Okay
+08.07.2025 16:26:23,PS-S,Power supply signals,Okay
+08.07.2025 16:26:23,EL,Earth leakage,Earth leakage detected
+08.07.2025 16:26:23,MSA,Main supply A available,Mains A available
+08.07.2025 16:26:23,MSB,Main supply B available,Mains B available
+08.07.2025 16:26:23,MSA-F,Main supply A feeding,Mains A not feeding
+08.07.2025 16:26:23,LOAD,Load on inverter / bypass,Load on inverter
+08.07.2025 16:26:23,BATT,Battery,Battery okay
+08.07.2025 16:26:23,BAT-U,Battery undervoltage,Battery Voltage okay
+08.07.2025 16:26:23,BAT-O,Battery operation,Battery not in operation
+08.07.2025 16:26:23,BYP,Bypass operation (single point operation),Bypass not in Operation
+08.07.2025 16:26:23,M-BYP,Manual bypass,Manual Bypass not active
+08.07.2025 16:26:23,FAN,Fan,Okay
+08.07.2025 16:26:23,UPS,UPS,UPS is okay
+08.07.2025 16:26:23,TEMP,Overtemperature alarm,Temperature okay
+08.07.2025 16:26:24,PS,Power supply panel,Panel okay
+08.07.2025 16:26:24,PS-T,Power supply track circuits,Okay
+08.07.2025 16:26:24,PS-P,Power supply points,Okay
+08.07.2025 16:26:24,PS-S,Power supply signals,Okay
+08.07.2025 16:26:24,EL,Earth leakage,Earth leakage detected
+08.07.2025 16:26:24,MSA,Main supply A available,Mains A available
+08.07.2025 16:26:24,MSB,Main supply B available,Mains B available
+08.07.2025 16:26:24,MSA-F,Main supply A feeding,Mains A not feeding
+08.07.2025 16:26:24,LOAD,Load on inverter / bypass,Load on inverter
+08.07.2025 16:26:24,BATT,Battery,Battery okay
+08.07.2025 16:26:24,BAT-U,Battery undervoltage,Battery Voltage okay
+08.07.2025 16:26:24,BAT-O,Battery operation,Battery not in operation
+08.07.2025 16:26:24,BYP,Bypass operation (single point operation),Bypass not in Operation
+08.07.2025 16:26:24,M-BYP,Manual bypass,Manual Bypass not active
+08.07.2025 16:26:24,FAN,Fan,Okay
+08.07.2025 16:26:24,UPS,UPS,UPS is okay
+08.07.2025 16:26:24,TEMP,Overtemperature alarm,Temperature okay
+08.07.2025 16:26:24,PS,Power supply panel,Panel okay
+08.07.2025 16:26:24,PS-T,Power supply track circuits,Okay
+08.07.2025 16:26:24,PS-P,Power supply points,Okay
+08.07.2025 16:26:24,PS-S,Power supply signals,Okay
+08.07.2025 16:26:24,EL,Earth leakage,Earth leakage detected
+08.07.2025 16:26:24,MSA,Main supply A available,Mains A available
+08.07.2025 16:26:24,MSB,Main supply B available,Mains B available
+08.07.2025 16:26:24,MSA-F,Main supply A feeding,Mains A not feeding
+08.07.2025 16:26:24,LOAD,Load on inverter / bypass,Load on inverter
+08.07.2025 16:26:24,BATT,Battery,Battery okay
+08.07.2025 16:26:24,BAT-U,Battery undervoltage,Battery Voltage okay
+08.07.2025 16:26:24,BAT-O,Battery operation,Battery not in operation
+08.07.2025 16:26:24,BYP,Bypass operation (single point operation),Bypass not in Operation
+08.07.2025 16:26:24,M-BYP,Manual bypass,Manual Bypass not active
+08.07.2025 16:26:24,FAN,Fan,Okay
+08.07.2025 16:26:24,UPS,UPS,UPS is okay
+08.07.2025 16:26:24,TEMP,Overtemperature alarm,Temperature okay
+08.07.2025 16:26:25,PS,Power supply panel,Panel okay
+08.07.2025 16:26:25,PS-T,Power supply track circuits,Okay
+08.07.2025 16:26:25,PS-P,Power supply points,Okay
+08.07.2025 16:26:25,PS-S,Power supply signals,Okay
+08.07.2025 16:26:25,EL,Earth leakage,Earth leakage detected
+08.07.2025 16:26:25,MSA,Main supply A available,Mains A available
+08.07.2025 16:26:25,MSB,Main supply B available,Mains B available
+08.07.2025 16:26:25,MSA-F,Main supply A feeding,Mains A not feeding
+08.07.2025 16:26:25,MSB,Main supply B available,Mains B available
+08.07.2025 16:26:25,LOAD,Load on inverter / bypass,Load on inverter
+08.07.2025 16:26:25,BATT,Battery,Battery okay
+08.07.2025 16:26:25,BAT-U,Battery undervoltage,Battery Voltage okay
+08.07.2025 16:26:25,BYP,Bypass operation (single point operation),Bypass not in Operation
+08.07.2025 16:26:25,M-BYP,Manual bypass,Manual Bypass not active
+08.07.2025 16:26:25,FAN,Fan,Okay
+08.07.2025 16:26:25,UPS,UPS,UPS is okay
+08.07.2025 16:26:25,TEMP,Overtemperature alarm,Temperature okay
+08.07.2025 16:26:25,PS,Power supply panel,Panel okay
+08.07.2025 16:26:25,PS-T,Power supply track circuits,Okay
+08.07.2025 16:26:25,PS-P,Power supply points,Okay
+08.07.2025 16:26:25,PS-S,Power supply signals,Okay
+08.07.2025 16:26:25,EL,Earth leakage,Earth leakage detected
+08.07.2025 16:26:25,MSA,Main supply A available,Mains A available
+08.07.2025 16:26:25,MSB,Main supply B available,Mains B available
+08.07.2025 16:26:25,MSA-F,Main supply A feeding,Mains A not feeding
+08.07.2025 16:26:25,LOAD,Load on inverter / bypass,Load on inverter
+08.07.2025 16:26:25,BATT,Battery,Battery okay
+08.07.2025 16:26:25,BAT-U,Battery undervoltage,Battery Voltage okay
+08.07.2025 16:26:25,BAT-O,Battery operation,Battery not in operation
+08.07.2025 16:26:25,BYP,Bypass operation (single point operation),Bypass not in Operation
+08.07.2025 16:26:25,M-BYP,Manual bypass,Manual Bypass not active
+08.07.2025 16:26:25,FAN,Fan,Okay
+08.07.2025 16:26:25,UPS,UPS,UPS is okay
+08.07.2025 16:26:25,TEMP,Overtemperature alarm,Temperature okay
+08.07.2025 16:26:26,PS,Power supply panel,Panel okay
+08.07.2025 16:26:26,PS-T,Power supply track circuits,Okay
+08.07.2025 16:26:26,PS-P,Power supply points,Okay
+08.07.2025 16:26:26,PS-S,Power supply signals,Okay
+08.07.2025 16:26:26,EL,Earth leakage,Earth leakage detected
+08.07.2025 16:26:26,MSA,Main supply A available,Mains A available
+08.07.2025 16:26:26,MSB,Main supply B available,Mains B available
+08.07.2025 16:26:26,MSA-F,Main supply A feeding,Mains A not feeding
+08.07.2025 16:26:26,LOAD,Load on inverter / bypass,Load on inverter
+08.07.2025 16:26:26,BATT,Battery,Battery okay
+08.07.2025 16:26:26,BAT-U,Battery undervoltage,Battery Voltage okay
+08.07.2025 16:26:26,BYP,Bypass operation (single point operation),Bypass not in Operation
+08.07.2025 16:26:26,M-BYP,Manual bypass,Manual Bypass not active
+08.07.2025 16:26:26,FAN,Fan,Okay
+08.07.2025 16:26:26,UPS,UPS,UPS is okay
+08.07.2025 16:26:26,TEMP,Overtemperature alarm,Temperature okay
+08.07.2025 16:26:28,PS,Power supply panel,Panel okay
+08.07.2025 16:26:28,PS-T,Power supply track circuits,Okay
+08.07.2025 16:26:28,PS-P,Power supply points,Okay
+08.07.2025 16:26:28,PS-S,Power supply signals,Okay
+08.07.2025 16:26:28,EL,Earth leakage,Earth leakage detected
+08.07.2025 16:26:28,MSA,Main supply A available,Mains A available
+08.07.2025 16:26:28,MSB,Main supply B available,Mains B available
+08.07.2025 16:26:28,MSA-F,Main supply A feeding,Mains A not feeding
+08.07.2025 16:26:28,LOAD,Load on inverter / bypass,Load on inverter
+08.07.2025 16:26:28,BATT,Battery,Battery okay
+08.07.2025 16:26:28,BAT-U,Battery undervoltage,Battery Voltage okay
+08.07.2025 16:26:28,BAT-O,Battery operation,Battery not in operation
+08.07.2025 16:26:28,BYP,Bypass operation (single point operation),Bypass not in Operation
+08.07.2025 16:26:28,M-BYP,Manual bypass,Manual Bypass not active
+08.07.2025 16:26:28,FAN,Fan,Okay
+08.07.2025 16:26:28,UPS,UPS,UPS is okay
+08.07.2025 16:26:28,TEMP,Overtemperature alarm,Temperature okay
+08.07.2025 16:26:29,PS,Power supply panel,Panel okay
+08.07.2025 16:26:29,PS-T,Power supply track circuits,Okay
+08.07.2025 16:26:29,PS-P,Power supply points,Okay
+08.07.2025 16:26:29,PS-S,Power supply signals,Okay
+08.07.2025 16:26:29,EL,Earth leakage,Earth leakage detected
+08.07.2025 16:26:29,MSA,Main supply A available,Mains A available
+08.07.2025 16:26:29,MSB,Main supply B available,Mains B available
+08.07.2025 16:26:29,MSA-F,Main supply A feeding,Mains A not feeding
+08.07.2025 16:26:29,LOAD,Load on inverter / bypass,Load on inverter
+08.07.2025 16:26:29,BATT,Battery,Battery okay
+08.07.2025 16:26:29,BAT-U,Battery undervoltage,Battery Voltage okay
+08.07.2025 16:26:29,BAT-O,Battery operation,Battery not in operation
+08.07.2025 16:26:29,BYP,Bypass operation (single point operation),Bypass not in Operation
+08.07.2025 16:26:29,M-BYP,Manual bypass,Manual Bypass not active
+08.07.2025 16:26:29,FAN,Fan,Okay
+08.07.2025 16:26:29,UPS,UPS,UPS is okay
+08.07.2025 16:26:29,TEMP,Overtemperature alarm,Temperature okay
+08.07.2025 16:26:29,PS,Power supply panel,Panel okay
+08.07.2025 16:26:29,PS-T,Power supply track circuits,Okay
+08.07.2025 16:26:29,PS-P,Power supply points,Okay
+08.07.2025 16:26:29,PS-S,Power supply signals,Okay
+08.07.2025 16:26:29,EL,Earth leakage,Earth leakage detected
+08.07.2025 16:26:29,MSA,Main supply A available,Mains A available
+08.07.2025 16:26:29,MSB,Main supply B available,Mains B available
+08.07.2025 16:26:29,MSA-F,Main supply A feeding,Mains A not feeding
+08.07.2025 16:26:29,LOAD,Load on inverter / bypass,Load on inverter
+08.07.2025 16:26:29,BATT,Battery,Battery okay
+08.07.2025 16:26:29,BAT-U,Battery undervoltage,Battery Voltage okay
+08.07.2025 16:26:29,BAT-O,Battery operation,Battery not in operation
+08.07.2025 16:26:29,BYP,Bypass operation (single point operation),Bypass not in Operation
+08.07.2025 16:26:29,M-BYP,Manual bypass,Manual Bypass not active
+08.07.2025 16:26:29,FAN,Fan,Okay
+08.07.2025 16:26:29,UPS,UPS,UPS is okay
+08.07.2025 16:26:29,TEMP,Overtemperature alarm,Temperature okay
+08.07.2025 16:26:30,PS,Power supply panel,Panel okay
+08.07.2025 16:26:30,PS-T,Power supply track circuits,Okay
+08.07.2025 16:26:30,PS-P,Power supply points,Okay
+08.07.2025 16:26:30,PS-S,Power supply signals,Okay
+08.07.2025 16:26:30,EL,Earth leakage,Earth leakage detected
+08.07.2025 16:26:30,MSA,Main supply A available,Mains A available
+08.07.2025 16:26:30,MSB,Main supply B available,Mains B available
+08.07.2025 16:26:30,MSA-F,Main supply A feeding,Mains A not feeding
+08.07.2025 16:26:30,LOAD,Load on inverter / bypass,Load on inverter
+08.07.2025 16:26:30,BATT,Battery,Battery okay
+08.07.2025 16:26:30,BAT-U,Battery undervoltage,Battery Voltage okay
+08.07.2025 16:26:30,BAT-O,Battery operation,Battery not in operation
+08.07.2025 16:26:30,BYP,Bypass operation (single point operation),Bypass not in Operation
+08.07.2025 16:26:30,M-BYP,Manual bypass,Manual Bypass not active
+08.07.2025 16:26:30,FAN,Fan,Okay
+08.07.2025 16:26:30,UPS,UPS,UPS is okay
+08.07.2025 16:26:30,TEMP,Overtemperature alarm,Temperature okay
+08.07.2025 16:26:31,PS,Power supply panel,Panel okay
+08.07.2025 16:26:31,PS-T,Power supply track circuits,Okay
+08.07.2025 16:26:31,PS-P,Power supply points,Okay
+08.07.2025 16:26:31,PS-S,Power supply signals,Okay
+08.07.2025 16:26:31,EL,Earth leakage,Earth leakage detected
+08.07.2025 16:26:31,MSA,Main supply A available,Mains A available
+08.07.2025 16:26:31,MSB,Main supply B available,Mains B available
+08.07.2025 16:26:31,MSA-F,Main supply A feeding,Mains A not feeding
+08.07.2025 16:26:31,LOAD,Load on inverter / bypass,Load on inverter
+08.07.2025 16:26:31,BATT,Battery,Battery okay
+08.07.2025 16:26:31,BAT-U,Battery undervoltage,Battery Voltage okay
+08.07.2025 16:26:31,BYP,Bypass operation (single point operation),Bypass not in Operation
+08.07.2025 16:26:31,M-BYP,Manual bypass,Manual Bypass not active
+08.07.2025 16:26:31,FAN,Fan,Okay
+08.07.2025 16:26:31,UPS,UPS,UPS is okay
+08.07.2025 16:26:31,TEMP,Overtemperature alarm,Temperature okay
+08.07.2025 16:26:31,PS,Power supply panel,Panel okay
+08.07.2025 16:26:31,PS-T,Power supply track circuits,Okay
+08.07.2025 16:26:31,PS-P,Power supply points,Okay
+08.07.2025 16:26:31,PS-S,Power supply signals,Okay
+08.07.2025 16:26:31,EL,Earth leakage,Earth leakage detected
+08.07.2025 16:26:31,MSA,Main supply A available,Mains A available
+08.07.2025 16:26:31,MSB,Main supply B available,Mains B available
+08.07.2025 16:26:31,MSA-F,Main supply A feeding,Mains A not feeding
+08.07.2025 16:26:31,LOAD,Load on inverter / bypass,Load on inverter
+08.07.2025 16:26:31,BATT,Battery,Battery okay
+08.07.2025 16:26:31,BAT-U,Battery undervoltage,Battery Voltage okay
+08.07.2025 16:26:31,BYP,Bypass operation (single point operation),Bypass not in Operation
+08.07.2025 16:26:31,M-BYP,Manual bypass,Manual Bypass not active
+08.07.2025 16:26:31,FAN,Fan,Okay
+08.07.2025 16:26:31,UPS,UPS,UPS is okay
+08.07.2025 16:26:31,TEMP,Overtemperature alarm,Temperature okay
+08.07.2025 16:26:32,PS,Power supply panel,Panel okay
+08.07.2025 16:26:32,PS-T,Power supply track circuits,Okay
+08.07.2025 16:26:32,PS-P,Power supply points,Okay
+08.07.2025 16:26:32,PS-S,Power supply signals,Okay
+08.07.2025 16:26:32,EL,Earth leakage,Earth leakage detected
+08.07.2025 16:26:32,MSA,Main supply A available,Mains A available
+08.07.2025 16:26:32,MSB,Main supply B available,Mains B available
+08.07.2025 16:26:32,MSA-F,Main supply A feeding,Mains A not feeding
+08.07.2025 16:26:32,LOAD,Load on inverter / bypass,Load on inverter
+08.07.2025 16:26:32,BATT,Battery,Battery okay
+08.07.2025 16:26:32,BAT-U,Battery undervoltage,Battery Voltage okay
+08.07.2025 16:26:32,BYP,Bypass operation (single point operation),Bypass not in Operation
+08.07.2025 16:26:32,M-BYP,Manual bypass,Manual Bypass not active
+08.07.2025 16:26:32,FAN,Fan,Okay
+08.07.2025 16:26:32,UPS,UPS,UPS is okay
+08.07.2025 16:26:32,TEMP,Overtemperature alarm,Temperature okay
+08.07.2025 16:26:33,PS,Power supply panel,Panel okay
+08.07.2025 16:26:33,PS-T,Power supply track circuits,Okay
+08.07.2025 16:26:33,PS-P,Power supply points,Okay
+08.07.2025 16:26:33,PS-S,Power supply signals,Okay
+08.07.2025 16:26:33,EL,Earth leakage,Earth leakage detected
+08.07.2025 16:26:33,MSA,Main supply A available,Mains A available
+08.07.2025 16:26:33,MSB,Main supply B available,Mains B available
+08.07.2025 16:26:33,MSA-F,Main supply A feeding,Mains A not feeding
+08.07.2025 16:26:33,LOAD,Load on inverter / bypass,Load on inverter
+08.07.2025 16:26:33,BATT,Battery,Battery okay
+08.07.2025 16:26:33,BAT-U,Battery undervoltage,Battery Voltage okay
+08.07.2025 16:26:33,BAT-O,Battery operation,Battery not in operation
+08.07.2025 16:26:33,BYP,Bypass operation (single point operation),Bypass not in Operation
+08.07.2025 16:26:33,M-BYP,Manual bypass,Manual Bypass not active
+08.07.2025 16:26:33,FAN,Fan,Okay
+08.07.2025 16:26:33,UPS,UPS,UPS is okay
+08.07.2025 16:26:33,TEMP,Overtemperature alarm,Temperature okay
+08.07.2025 16:26:34,PS,Power supply panel,Panel okay
+08.07.2025 16:26:34,PS-T,Power supply track circuits,Okay
+08.07.2025 16:26:34,PS-P,Power supply points,Okay
+08.07.2025 16:26:34,PS-S,Power supply signals,Okay
+08.07.2025 16:26:34,EL,Earth leakage,Earth leakage detected
+08.07.2025 16:26:34,MSA,Main supply A available,Mains A available
+08.07.2025 16:26:34,MSB,Main supply B available,Mains B available
+08.07.2025 16:26:34,MSA-F,Main supply A feeding,Mains A not feeding
+08.07.2025 16:26:34,LOAD,Load on inverter / bypass,Load on inverter
+08.07.2025 16:26:34,BATT,Battery,Battery okay
+08.07.2025 16:26:34,BAT-U,Battery undervoltage,Battery Voltage okay
+08.07.2025 16:26:34,BAT-O,Battery operation,Battery not in operation
+08.07.2025 16:26:34,BYP,Bypass operation (single point operation),Bypass not in Operation
+08.07.2025 16:26:34,M-BYP,Manual bypass,Manual Bypass not active
+08.07.2025 16:26:34,FAN,Fan,Okay
+08.07.2025 16:26:34,UPS,UPS,UPS is okay
+08.07.2025 16:26:34,TEMP,Overtemperature alarm,Temperature okay
+08.07.2025 16:26:34,PS,Power supply panel,Panel okay
+08.07.2025 16:26:34,PS-T,Power supply track circuits,Okay
+08.07.2025 16:26:34,PS-P,Power supply points,Okay
+08.07.2025 16:26:34,PS-S,Power supply signals,Okay
+08.07.2025 16:26:34,EL,Earth leakage,Earth leakage detected
+08.07.2025 16:26:34,MSA,Main supply A available,Mains A available
+08.07.2025 16:26:34,MSB,Main supply B available,Mains B available
+08.07.2025 16:26:34,MSA-F,Main supply A feeding,Mains A not feeding
+08.07.2025 16:26:34,LOAD,Load on inverter / bypass,Load on inverter
+08.07.2025 16:26:34,BATT,Battery,Battery okay
+08.07.2025 16:26:34,BAT-U,Battery undervoltage,Battery Voltage okay
+08.07.2025 16:26:34,BAT-O,Battery operation,Battery not in operation
+08.07.2025 16:26:34,BYP,Bypass operation (single point operation),Bypass not in Operation
+08.07.2025 16:26:34,M-BYP,Manual bypass,Manual Bypass not active
+08.07.2025 16:26:34,FAN,Fan,Okay
+08.07.2025 16:26:34,UPS,UPS,UPS is okay
+08.07.2025 16:26:34,TEMP,Overtemperature alarm,Temperature okay
+08.07.2025 16:26:35,PS,Power supply panel,Panel okay
+08.07.2025 16:26:35,PS-T,Power supply track circuits,Okay
+08.07.2025 16:26:35,PS-P,Power supply points,Okay
+08.07.2025 16:26:35,PS-S,Power supply signals,Okay
+08.07.2025 16:26:35,EL,Earth leakage,Earth leakage detected
+08.07.2025 16:26:35,MSA,Main supply A available,Mains A available
+08.07.2025 16:26:35,MSB,Main supply B available,Mains B available
+08.07.2025 16:26:35,MSA-F,Main supply A feeding,Mains A not feeding
+08.07.2025 16:26:35,LOAD,Load on inverter / bypass,Load on inverter
+08.07.2025 16:26:35,BATT,Battery,Battery okay
+08.07.2025 16:26:35,BAT-U,Battery undervoltage,Battery Voltage okay
+08.07.2025 16:26:35,BAT-O,Battery operation,Battery not in operation
+08.07.2025 16:26:35,BYP,Bypass operation (single point operation),Bypass not in Operation
+08.07.2025 16:26:35,M-BYP,Manual bypass,Manual Bypass not active
+08.07.2025 16:26:35,FAN,Fan,Okay
+08.07.2025 16:26:35,UPS,UPS,UPS is okay
+08.07.2025 16:26:35,TEMP,Overtemperature alarm,Temperature okay
+08.07.2025 16:26:36,PS,Power supply panel,Panel okay
+08.07.2025 16:26:36,PS-T,Power supply track circuits,Okay
+08.07.2025 16:26:36,PS-P,Power supply points,Okay
+08.07.2025 16:26:36,PS-S,Power supply signals,Okay
+08.07.2025 16:26:36,EL,Earth leakage,Earth leakage detected
+08.07.2025 16:26:36,MSA,Main supply A available,Mains A available
+08.07.2025 16:26:36,MSB,Main supply B available,Mains B available
+08.07.2025 16:26:36,MSA-F,Main supply A feeding,Mains A not feeding
+08.07.2025 16:26:36,LOAD,Load on inverter / bypass,Load on inverter
+08.07.2025 16:26:36,BATT,Battery,Battery okay
+08.07.2025 16:26:36,BAT-U,Battery undervoltage,Battery Voltage okay
+08.07.2025 16:26:36,BAT-O,Battery operation,Battery not in operation
+08.07.2025 16:26:36,BYP,Bypass operation (single point operation),Bypass not in Operation
+08.07.2025 16:26:36,M-BYP,Manual bypass,Manual Bypass not active
+08.07.2025 16:26:36,FAN,Fan,Okay
+08.07.2025 16:26:36,UPS,UPS,UPS is okay
+08.07.2025 16:26:36,TEMP,Overtemperature alarm,Temperature okay
+08.07.2025 16:26:36,PS,Power supply panel,Panel okay
+08.07.2025 16:26:36,PS-T,Power supply track circuits,Okay
+08.07.2025 16:26:36,PS-P,Power supply points,Okay
+08.07.2025 16:26:36,PS-S,Power supply signals,Okay
+08.07.2025 16:26:36,EL,Earth leakage,Earth leakage detected
+08.07.2025 16:26:36,MSA,Main supply A available,Mains A available
+08.07.2025 16:26:36,MSB,Main supply B available,Mains B available
+08.07.2025 16:26:36,MSA-F,Main supply A feeding,Mains A not feeding
+08.07.2025 16:26:36,LOAD,Load on inverter / bypass,Load on inverter
+08.07.2025 16:26:36,BATT,Battery,Battery okay
+08.07.2025 16:26:36,BAT-U,Battery undervoltage,Battery Voltage okay
+08.07.2025 16:26:36,BAT-O,Battery operation,Battery not in operation
+08.07.2025 16:26:36,BYP,Bypass operation (single point operation),Bypass not in Operation
+08.07.2025 16:26:36,M-BYP,Manual bypass,Manual Bypass not active
+08.07.2025 16:26:36,FAN,Fan,Okay
+08.07.2025 16:26:36,UPS,UPS,UPS is okay
+08.07.2025 16:26:36,TEMP,Overtemperature alarm,Temperature okay
+08.07.2025 16:26:37,PS,Power supply panel,Panel okay
+08.07.2025 16:26:37,PS-T,Power supply track circuits,Okay
+08.07.2025 16:26:37,PS-P,Power supply points,Okay
+08.07.2025 16:26:37,PS-S,Power supply signals,Okay
+08.07.2025 16:26:37,EL,Earth leakage,Earth leakage detected
+08.07.2025 16:26:37,MSA,Main supply A available,Mains A available
+08.07.2025 16:26:37,MSB,Main supply B available,Mains B available
+08.07.2025 16:26:37,MSA-F,Main supply A feeding,Mains A not feeding
+08.07.2025 16:26:37,LOAD,Load on inverter / bypass,Load on inverter
+08.07.2025 16:26:37,BATT,Battery,Battery okay
+08.07.2025 16:26:37,BAT-U,Battery undervoltage,Battery Voltage okay
+08.07.2025 16:26:37,BAT-O,Battery operation,Battery not in operation
+08.07.2025 16:26:37,BYP,Bypass operation (single point operation),Bypass not in Operation
+08.07.2025 16:26:37,M-BYP,Manual bypass,Manual Bypass not active
+08.07.2025 16:26:37,FAN,Fan,Okay
+08.07.2025 16:26:37,UPS,UPS,UPS is okay
+08.07.2025 16:26:37,TEMP,Overtemperature alarm,Temperature okay
+08.07.2025 16:26:37,PS,Power supply panel,Panel okay
+08.07.2025 16:26:37,PS-T,Power supply track circuits,Okay
+08.07.2025 16:26:37,PS-P,Power supply points,Okay
+08.07.2025 16:26:37,PS-S,Power supply signals,Okay
+08.07.2025 16:26:37,EL,Earth leakage,Earth leakage detected
+08.07.2025 16:26:37,MSA,Main supply A available,Mains A available
+08.07.2025 16:26:37,MSB,Main supply B available,Mains B available
+08.07.2025 16:26:37,MSA-F,Main supply A feeding,Mains A not feeding
+08.07.2025 16:26:37,LOAD,Load on inverter / bypass,Load on inverter
+08.07.2025 16:26:37,BATT,Battery,Battery okay
+08.07.2025 16:26:37,BAT-U,Battery undervoltage,Battery Voltage okay
+08.07.2025 16:26:37,BAT-O,Battery operation,Battery not in operation
+08.07.2025 16:26:37,BYP,Bypass operation (single point operation),Bypass not in Operation
+08.07.2025 16:26:37,M-BYP,Manual bypass,Manual Bypass not active
+08.07.2025 16:26:37,FAN,Fan,Okay
+08.07.2025 16:26:37,UPS,UPS,UPS is okay
+08.07.2025 16:26:37,TEMP,Overtemperature alarm,Temperature okay
+08.07.2025 16:26:38,PS,Power supply panel,Panel okay
+08.07.2025 16:26:38,PS-T,Power supply track circuits,Okay
+08.07.2025 16:26:38,PS-P,Power supply points,Okay
+08.07.2025 16:26:38,PS-S,Power supply signals,Okay
+08.07.2025 16:26:38,EL,Earth leakage,Earth leakage detected
+08.07.2025 16:26:38,MSA,Main supply A available,Mains A available
+08.07.2025 16:26:38,MSB,Main supply B available,Mains B available
+08.07.2025 16:26:38,MSA-F,Main supply A feeding,Mains A not feeding
+08.07.2025 16:26:38,LOAD,Load on inverter / bypass,Load on inverter
+08.07.2025 16:26:38,BATT,Battery,Battery okay
+08.07.2025 16:26:38,BAT-U,Battery undervoltage,Battery Voltage okay
+08.07.2025 16:26:38,BAT-O,Battery operation,Battery not in operation
+08.07.2025 16:26:38,BYP,Bypass operation (single point operation),Bypass not in Operation
+08.07.2025 16:26:38,M-BYP,Manual bypass,Manual Bypass not active
+08.07.2025 16:26:38,FAN,Fan,Okay
+08.07.2025 16:26:38,UPS,UPS,UPS is okay
+08.07.2025 16:26:38,TEMP,Overtemperature alarm,Temperature okay
+08.07.2025 16:26:39,PS,Power supply panel,Panel okay
+08.07.2025 16:26:39,PS-T,Power supply track circuits,Okay
+08.07.2025 16:26:39,PS-P,Power supply points,Okay
+08.07.2025 16:26:39,PS-S,Power supply signals,Okay
+08.07.2025 16:26:39,EL,Earth leakage,Earth leakage detected
+08.07.2025 16:26:39,MSA,Main supply A available,Mains A available
+08.07.2025 16:26:39,MSB,Main supply B available,Mains B available
+08.07.2025 16:26:39,MSA-F,Main supply A feeding,Mains A not feeding
+08.07.2025 16:26:39,LOAD,Load on inverter / bypass,Load on inverter
+08.07.2025 16:26:39,BATT,Battery,Battery okay
+08.07.2025 16:26:39,BAT-U,Battery undervoltage,Battery Voltage okay
+08.07.2025 16:26:39,BAT-O,Battery operation,Battery not in operation
+08.07.2025 16:26:39,BYP,Bypass operation (single point operation),Bypass not in Operation
+08.07.2025 16:26:39,M-BYP,Manual bypass,Manual Bypass not active
+08.07.2025 16:26:39,FAN,Fan,Okay
+08.07.2025 16:26:39,UPS,UPS,UPS is okay
+08.07.2025 16:26:39,TEMP,Overtemperature alarm,Temperature okay
+08.07.2025 16:26:39,PS,Power supply panel,Panel okay
+08.07.2025 16:26:39,PS-T,Power supply track circuits,Okay
+08.07.2025 16:26:39,PS-P,Power supply points,Okay
+08.07.2025 16:26:39,PS-S,Power supply signals,Okay
+08.07.2025 16:26:39,EL,Earth leakage,Earth leakage detected
+08.07.2025 16:26:39,MSA,Main supply A available,Mains A available
+08.07.2025 16:26:39,MSB,Main supply B available,Mains B available
+08.07.2025 16:26:39,MSA-F,Main supply A feeding,Mains A not feeding
+08.07.2025 16:26:39,LOAD,Load on inverter / bypass,Load on inverter
+08.07.2025 16:26:39,BATT,Battery,Battery okay
+08.07.2025 16:26:39,BAT-U,Battery undervoltage,Battery Voltage okay
+08.07.2025 16:26:39,BAT-O,Battery operation,Battery not in operation
+08.07.2025 16:26:39,BYP,Bypass operation (single point operation),Bypass not in Operation
+08.07.2025 16:26:39,M-BYP,Manual bypass,Manual Bypass not active
+08.07.2025 16:26:39,FAN,Fan,Okay
+08.07.2025 16:26:39,UPS,UPS,UPS is okay
+08.07.2025 16:26:39,TEMP,Overtemperature alarm,Temperature okay
+08.07.2025 16:26:40,PS,Power supply panel,Panel okay
+08.07.2025 16:26:40,PS-T,Power supply track circuits,Okay
+08.07.2025 16:26:40,PS-P,Power supply points,Okay
+08.07.2025 16:26:40,PS-S,Power supply signals,Okay
+08.07.2025 16:26:40,EL,Earth leakage,Earth leakage detected
+08.07.2025 16:26:40,MSA,Main supply A available,Mains A available
+08.07.2025 16:26:40,MSB,Main supply B available,Mains B available
+08.07.2025 16:26:40,MSA-F,Main supply A feeding,Mains A not feeding
+08.07.2025 16:26:40,LOAD,Load on inverter / bypass,Load on inverter
+08.07.2025 16:26:40,BATT,Battery,Battery okay
+08.07.2025 16:26:40,BAT-U,Battery undervoltage,Battery Voltage okay
+08.07.2025 16:26:40,BAT-O,Battery operation,Battery not in operation
+08.07.2025 16:26:40,BYP,Bypass operation (single point operation),Bypass not in Operation
+08.07.2025 16:26:40,M-BYP,Manual bypass,Manual Bypass not active
+08.07.2025 16:26:40,FAN,Fan,Okay
+08.07.2025 16:26:40,UPS,UPS,UPS is okay
+08.07.2025 16:26:40,TEMP,Overtemperature alarm,Temperature okay
+08.07.2025 16:26:41,PS,Power supply panel,Panel okay
+08.07.2025 16:26:41,PS-T,Power supply track circuits,Okay
+08.07.2025 16:26:41,PS-P,Power supply points,Okay
+08.07.2025 16:26:41,PS-S,Power supply signals,Okay
+08.07.2025 16:26:41,EL,Earth leakage,Earth leakage detected
+08.07.2025 16:26:41,MSA,Main supply A available,Mains A available
+08.07.2025 16:26:41,MSB,Main supply B available,Mains B available
+08.07.2025 16:26:41,MSA-F,Main supply A feeding,Mains A not feeding
+08.07.2025 16:26:41,LOAD,Load on inverter / bypass,Load on inverter
+08.07.2025 16:26:41,BATT,Battery,Battery okay
+08.07.2025 16:26:41,BAT-U,Battery undervoltage,Battery Voltage okay
+08.07.2025 16:26:41,BAT-O,Battery operation,Battery not in operation
+08.07.2025 16:26:41,BYP,Bypass operation (single point operation),Bypass not in Operation
+08.07.2025 16:26:41,M-BYP,Manual bypass,Manual Bypass not active
+08.07.2025 16:26:41,FAN,Fan,Okay
+08.07.2025 16:26:41,UPS,UPS,UPS is okay
+08.07.2025 16:26:41,TEMP,Overtemperature alarm,Temperature okay
+08.07.2025 16:26:41,PS,Power supply panel,Panel okay
+08.07.2025 16:26:41,PS-T,Power supply track circuits,Okay
+08.07.2025 16:26:41,PS-P,Power supply points,Okay
+08.07.2025 16:26:41,PS-S,Power supply signals,Okay
+08.07.2025 16:26:41,EL,Earth leakage,Earth leakage detected
+08.07.2025 16:26:41,MSA,Main supply A available,Mains A available
+08.07.2025 16:26:41,MSB,Main supply B available,Mains B available
+08.07.2025 16:26:41,MSA-F,Main supply A feeding,Mains A not feeding
+08.07.2025 16:26:41,LOAD,Load on inverter / bypass,Load on inverter
+08.07.2025 16:26:41,BATT,Battery,Battery okay
+08.07.2025 16:26:41,BAT-U,Battery undervoltage,Battery Voltage okay
+08.07.2025 16:26:41,BAT-O,Battery operation,Battery not in operation
+08.07.2025 16:26:41,BYP,Bypass operation (single point operation),Bypass not in Operation
+08.07.2025 16:26:41,M-BYP,Manual bypass,Manual Bypass not active
+08.07.2025 16:26:41,FAN,Fan,Okay
+08.07.2025 16:26:41,UPS,UPS,UPS is okay
+08.07.2025 16:26:41,TEMP,Overtemperature alarm,Temperature okay
+08.07.2025 16:26:42,PS,Power supply panel,Panel okay
+08.07.2025 16:26:42,PS-T,Power supply track circuits,Okay
+08.07.2025 16:26:42,PS-P,Power supply points,Okay
+08.07.2025 16:26:42,PS-S,Power supply signals,Okay
+08.07.2025 16:26:42,EL,Earth leakage,Earth leakage detected
+08.07.2025 16:26:42,MSA,Main supply A available,Mains A available
+08.07.2025 16:26:42,MSB,Main supply B available,Mains B available
+08.07.2025 16:26:42,MSA-F,Main supply A feeding,Mains A not feeding
+08.07.2025 16:26:42,LOAD,Load on inverter / bypass,Load on inverter
+08.07.2025 16:26:42,BATT,Battery,Battery okay
+08.07.2025 16:26:42,BAT-U,Battery undervoltage,Battery Voltage okay
+08.07.2025 16:26:42,BAT-O,Battery operation,Battery not in operation
+08.07.2025 16:26:42,BYP,Bypass operation (single point operation),Bypass not in Operation
+08.07.2025 16:26:42,M-BYP,Manual bypass,Manual Bypass not active
+08.07.2025 16:26:42,FAN,Fan,Okay
+08.07.2025 16:26:42,UPS,UPS,UPS is okay
+08.07.2025 16:26:42,TEMP,Overtemperature alarm,Temperature okay
+08.07.2025 16:26:43,PS,Power supply panel,Panel okay
+08.07.2025 16:26:43,PS-T,Power supply track circuits,Okay
+08.07.2025 16:26:43,PS-P,Power supply points,Okay
+08.07.2025 16:26:43,PS-S,Power supply signals,Okay
+08.07.2025 16:26:43,EL,Earth leakage,Earth leakage detected
+08.07.2025 16:26:43,MSA,Main supply A available,Mains A available
+08.07.2025 16:26:43,MSB,Main supply B available,Mains B available
+08.07.2025 16:26:43,MSA-F,Main supply A feeding,Mains A not feeding
+08.07.2025 16:26:43,LOAD,Load on inverter / bypass,Load on inverter
+08.07.2025 16:26:43,BATT,Battery,Battery okay
+08.07.2025 16:26:43,BAT-U,Battery undervoltage,Battery Voltage okay
+08.07.2025 16:26:43,BAT-O,Battery operation,Battery not in operation
+08.07.2025 16:26:43,BYP,Bypass operation (single point operation),Bypass not in Operation
+08.07.2025 16:26:43,M-BYP,Manual bypass,Manual Bypass not active
+08.07.2025 16:26:43,FAN,Fan,Okay
+08.07.2025 16:26:43,UPS,UPS,UPS is okay
+08.07.2025 16:26:43,TEMP,Overtemperature alarm,Temperature okay
+08.07.2025 16:26:43,PS,Power supply panel,Panel okay
+08.07.2025 16:26:43,PS-T,Power supply track circuits,Okay
+08.07.2025 16:26:43,PS-P,Power supply points,Okay
+08.07.2025 16:26:43,PS-S,Power supply signals,Okay
+08.07.2025 16:26:43,EL,Earth leakage,Earth leakage detected
+08.07.2025 16:26:43,MSA,Main supply A available,Mains A available
+08.07.2025 16:26:43,MSB,Main supply B available,Mains B available
+08.07.2025 16:26:43,MSA-F,Main supply A feeding,Mains A not feeding
+08.07.2025 16:26:43,LOAD,Load on inverter / bypass,Load on inverter
+08.07.2025 16:26:43,BATT,Battery,Battery okay
+08.07.2025 16:26:43,BAT-U,Battery undervoltage,Battery Voltage okay
+08.07.2025 16:26:43,BAT-O,Battery operation,Battery not in operation
+08.07.2025 16:26:43,BYP,Bypass operation (single point operation),Bypass not in Operation
+08.07.2025 16:26:43,M-BYP,Manual bypass,Manual Bypass not active
+08.07.2025 16:26:43,FAN,Fan,Okay
+08.07.2025 16:26:43,UPS,UPS,UPS is okay
+08.07.2025 16:26:43,TEMP,Overtemperature alarm,Temperature okay
+08.07.2025 16:26:44,PS,Power supply panel,Panel okay
+08.07.2025 16:26:44,PS-T,Power supply track circuits,Okay
+08.07.2025 16:26:44,PS-P,Power supply points,Okay
+08.07.2025 16:26:44,PS-S,Power supply signals,Okay
+08.07.2025 16:26:44,EL,Earth leakage,Earth leakage detected
+08.07.2025 16:26:44,MSA,Main supply A available,Mains A available
+08.07.2025 16:26:44,MSB,Main supply B available,Mains B available
+08.07.2025 16:26:44,MSA-F,Main supply A feeding,Mains A not feeding
+08.07.2025 16:26:44,LOAD,Load on inverter / bypass,Load on inverter
+08.07.2025 16:26:44,BATT,Battery,Battery okay
+08.07.2025 16:26:44,BAT-U,Battery undervoltage,Battery Voltage okay
+08.07.2025 16:26:44,BAT-O,Battery operation,Battery not in operation
+08.07.2025 16:26:44,BYP,Bypass operation (single point operation),Bypass not in Operation
+08.07.2025 16:26:44,M-BYP,Manual bypass,Manual Bypass not active
+08.07.2025 16:26:44,FAN,Fan,Okay
+08.07.2025 16:26:44,UPS,UPS,UPS is okay
+08.07.2025 16:26:44,TEMP,Overtemperature alarm,Temperature okay
+08.07.2025 16:26:44,PS,Power supply panel,Panel okay
+08.07.2025 16:26:44,PS-T,Power supply track circuits,Okay
+08.07.2025 16:26:44,PS-P,Power supply points,Okay
+08.07.2025 16:26:44,PS-S,Power supply signals,Okay
+08.07.2025 16:26:44,EL,Earth leakage,Earth leakage detected
+08.07.2025 16:26:44,MSA,Main supply A available,Mains A available
+08.07.2025 16:26:44,MSB,Main supply B available,Mains B available
+08.07.2025 16:26:44,MSA-F,Main supply A feeding,Mains A not feeding
+08.07.2025 16:26:44,LOAD,Load on inverter / bypass,Load on inverter
+08.07.2025 16:26:44,BATT,Battery,Battery okay
+08.07.2025 16:26:44,BAT-U,Battery undervoltage,Battery Voltage okay
+08.07.2025 16:26:44,BAT-O,Battery operation,Battery not in operation
+08.07.2025 16:26:44,BYP,Bypass operation (single point operation),Bypass not in Operation
+08.07.2025 16:26:44,M-BYP,Manual bypass,Manual Bypass not active
+08.07.2025 16:26:44,FAN,Fan,Okay
+08.07.2025 16:26:44,UPS,UPS,UPS is okay
+08.07.2025 16:26:44,TEMP,Overtemperature alarm,Temperature okay
+08.07.2025 16:26:45,PS,Power supply panel,Panel okay
+08.07.2025 16:26:45,PS-T,Power supply track circuits,Okay
+08.07.2025 16:26:45,PS-P,Power supply points,Okay
+08.07.2025 16:26:45,PS-S,Power supply signals,Okay
+08.07.2025 16:26:45,EL,Earth leakage,Earth leakage detected
+08.07.2025 16:26:45,MSA,Main supply A available,Mains A available
+08.07.2025 16:26:45,MSB,Main supply B available,Mains B available
+08.07.2025 16:26:45,MSA-F,Main supply A feeding,Mains A not feeding
+08.07.2025 16:26:45,LOAD,Load on inverter / bypass,Load on inverter
+08.07.2025 16:26:45,BATT,Battery,Battery okay
+08.07.2025 16:26:45,BAT-U,Battery undervoltage,Battery Voltage okay
+08.07.2025 16:26:45,BAT-O,Battery operation,Battery not in operation
+08.07.2025 16:26:45,BYP,Bypass operation (single point operation),Bypass not in Operation
+08.07.2025 16:26:45,M-BYP,Manual bypass,Manual Bypass not active
+08.07.2025 16:26:45,FAN,Fan,Okay
+08.07.2025 16:26:45,UPS,UPS,UPS is okay
+08.07.2025 16:26:45,TEMP,Overtemperature alarm,Temperature okay
+08.07.2025 16:26:46,PS,Power supply panel,Panel okay
+08.07.2025 16:26:46,PS-T,Power supply track circuits,Okay
+08.07.2025 16:26:46,PS-P,Power supply points,Okay
+08.07.2025 16:26:46,PS-S,Power supply signals,Okay
+08.07.2025 16:26:46,EL,Earth leakage,Earth leakage detected
+08.07.2025 16:26:46,MSA,Main supply A available,Mains A available
+08.07.2025 16:26:46,MSB,Main supply B available,Mains B available
+08.07.2025 16:26:46,MSA-F,Main supply A feeding,Mains A not feeding
+08.07.2025 16:26:46,LOAD,Load on inverter / bypass,Load on inverter
+08.07.2025 16:26:46,BATT,Battery,Battery okay
+08.07.2025 16:26:46,BAT-U,Battery undervoltage,Battery Voltage okay
+08.07.2025 16:26:46,BYP,Bypass operation (single point operation),Bypass not in Operation
+08.07.2025 16:26:46,M-BYP,Manual bypass,Manual Bypass not active
+08.07.2025 16:26:46,FAN,Fan,Okay
+08.07.2025 16:26:46,UPS,UPS,UPS is okay
+08.07.2025 16:26:46,TEMP,Overtemperature alarm,Temperature okay
+08.07.2025 16:26:46,PS,Power supply panel,Panel okay
+08.07.2025 16:26:46,PS-T,Power supply track circuits,Okay
+08.07.2025 16:26:46,PS-P,Power supply points,Okay
+08.07.2025 16:26:46,PS-S,Power supply signals,Okay
+08.07.2025 16:26:46,EL,Earth leakage,Earth leakage detected
+08.07.2025 16:26:46,MSA,Main supply A available,Mains A available
+08.07.2025 16:26:46,MSB,Main supply B available,Mains B available
+08.07.2025 16:26:46,MSA-F,Main supply A feeding,Mains A not feeding
+08.07.2025 16:26:46,LOAD,Load on inverter / bypass,Load on inverter
+08.07.2025 16:26:46,BATT,Battery,Battery okay
+08.07.2025 16:26:46,BAT-U,Battery undervoltage,Battery Voltage okay
+08.07.2025 16:26:46,BAT-O,Battery operation,Battery not in operation
+08.07.2025 16:26:46,BYP,Bypass operation (single point operation),Bypass not in Operation
+08.07.2025 16:26:46,M-BYP,Manual bypass,Manual Bypass not active
+08.07.2025 16:26:46,FAN,Fan,Okay
+08.07.2025 16:26:46,UPS,UPS,UPS is okay
+08.07.2025 16:26:46,TEMP,Overtemperature alarm,Temperature okay
+08.07.2025 16:26:47,PS,Power supply panel,Panel okay
+08.07.2025 16:26:47,PS-T,Power supply track circuits,Okay
+08.07.2025 16:26:47,PS-P,Power supply points,Okay
+08.07.2025 16:26:47,PS-S,Power supply signals,Okay
+08.07.2025 16:26:47,EL,Earth leakage,Earth leakage detected
+08.07.2025 16:26:47,MSA,Main supply A available,Mains A available
+08.07.2025 16:26:47,MSB,Main supply B available,Mains B available
+08.07.2025 16:26:47,MSA-F,Main supply A feeding,Mains A not feeding
+08.07.2025 16:26:47,LOAD,Load on inverter / bypass,Load on inverter
+08.07.2025 16:26:47,BATT,Battery,Battery okay
+08.07.2025 16:26:47,BAT-U,Battery undervoltage,Battery Voltage okay
+08.07.2025 16:26:47,BAT-O,Battery operation,Battery not in operation
+08.07.2025 16:26:47,BYP,Bypass operation (single point operation),Bypass not in Operation
+08.07.2025 16:26:47,M-BYP,Manual bypass,Manual Bypass not active
+08.07.2025 16:26:47,FAN,Fan,Okay
+08.07.2025 16:26:47,UPS,UPS,UPS is okay
+08.07.2025 16:26:47,TEMP,Overtemperature alarm,Temperature okay
+08.07.2025 16:25:47,PS,Power supply panel,Panel okay
+08.07.2025 16:25:47,PS-T,Power supply track circuits,Okay
+08.07.2025 16:25:47,PS-P,Power supply points,Okay
+08.07.2025 16:25:47,PS-S,Power supply signals,Okay
+08.07.2025 16:25:47,EL,Earth leakage,Earth leakage detected
+08.07.2025 16:25:47,MSA,Main supply A available,Mains A available
+08.07.2025 16:25:47,MSB,Main supply B available,Mains B available
+08.07.2025 16:25:47,MSA-F,Main supply A feeding,Mains A not feeding
+08.07.2025 16:25:47,LOAD,Load on inverter / bypass,Load on inverter
+08.07.2025 16:25:47,BATT,Battery,Battery okay
+08.07.2025 16:25:47,BAT-U,Battery undervoltage,Battery Voltage okay
+08.07.2025 16:25:47,BAT-O,Battery operation,Battery not in operation
+08.07.2025 16:25:47,BYP,Bypass operation (single point operation),Bypass not in Operation
+08.07.2025 16:25:47,M-BYP,Manual bypass,Manual Bypass not active
+08.07.2025 16:25:47,FAN,Fan,Okay
+08.07.2025 16:25:47,UPS,UPS,UPS is okay
+08.07.2025 16:25:47,TEMP,Overtemperature alarm,Temperature okay
+08.07.2025 16:25:48,PS,Power supply panel,Panel okay
+08.07.2025 16:25:48,PS-T,Power supply track circuits,Okay
+08.07.2025 16:25:48,PS-P,Power supply points,Okay
+08.07.2025 16:25:48,PS-S,Power supply signals,Okay
+08.07.2025 16:25:48,EL,Earth leakage,Earth leakage detected
+08.07.2025 16:25:48,MSA,Main supply A available,Mains A available
+08.07.2025 16:25:48,MSB,Main supply B available,Mains B available
+08.07.2025 16:25:48,MSA-F,Main supply A feeding,Mains A not feeding
+08.07.2025 16:25:48,LOAD,Load on inverter / bypass,Load on inverter
+08.07.2025 16:25:48,BATT,Battery,Battery okay
+08.07.2025 16:25:48,BAT-U,Battery undervoltage,Battery Voltage okay
+08.07.2025 16:25:48,BAT-O,Battery operation,Battery not in operation
+08.07.2025 16:25:48,BYP,Bypass operation (single point operation),Bypass not in Operation
+08.07.2025 16:25:48,M-BYP,Manual bypass,Manual Bypass not active
+08.07.2025 16:25:48,FAN,Fan,Okay
+08.07.2025 16:25:48,UPS,UPS,UPS is okay
+08.07.2025 16:25:48,TEMP,Overtemperature alarm,Temperature okay
+08.07.2025 16:25:49,PS,Power supply panel,Panel okay
+08.07.2025 16:25:49,PS-T,Power supply track circuits,Okay
+08.07.2025 16:25:49,PS-P,Power supply points,Okay
+08.07.2025 16:25:49,PS-S,Power supply signals,Okay
+08.07.2025 16:25:49,EL,Earth leakage,Earth leakage detected
+08.07.2025 16:25:49,MSA,Main supply A available,Mains A available
+08.07.2025 16:25:49,MSB,Main supply B available,Mains B available
+08.07.2025 16:25:49,MSA-F,Main supply A feeding,Mains A not feeding
+08.07.2025 16:25:49,LOAD,Load on inverter / bypass,Load on inverter
+08.07.2025 16:25:49,BATT,Battery,Battery okay
+08.07.2025 16:25:49,BAT-U,Battery undervoltage,Battery Voltage okay
+08.07.2025 16:25:49,BAT-O,Battery operation,Battery not in operation
+08.07.2025 16:25:49,BYP,Bypass operation (single point operation),Bypass not in Operation
+08.07.2025 16:25:49,M-BYP,Manual bypass,Manual Bypass not active
+08.07.2025 16:25:49,FAN,Fan,Okay
+08.07.2025 16:25:49,UPS,UPS,UPS is okay
+08.07.2025 16:25:49,TEMP,Overtemperature alarm,Temperature okay
+08.07.2025 16:25:50,PS,Power supply panel,Panel okay
+08.07.2025 16:25:50,PS-T,Power supply track circuits,Okay
+08.07.2025 16:25:50,PS-P,Power supply points,Okay
+08.07.2025 16:25:50,PS-S,Power supply signals,Okay
+08.07.2025 16:25:50,EL,Earth leakage,Earth leakage detected
+08.07.2025 16:25:50,MSA,Main supply A available,Mains A available
+08.07.2025 16:25:50,MSB,Main supply B available,Mains B available
+08.07.2025 16:25:50,MSA-F,Main supply A feeding,Mains A not feeding
+08.07.2025 16:25:50,LOAD,Load on inverter / bypass,Load on inverter
+08.07.2025 16:25:50,BATT,Battery,Battery okay
+08.07.2025 16:25:50,BAT-U,Battery undervoltage,Battery Voltage okay
+08.07.2025 16:25:50,BAT-O,Battery operation,Battery not in operation
+08.07.2025 16:25:50,BYP,Bypass operation (single point operation),Bypass not in Operation
+08.07.2025 16:25:50,M-BYP,Manual bypass,Manual Bypass not active
+08.07.2025 16:25:50,FAN,Fan,Okay
+08.07.2025 16:25:50,UPS,UPS,UPS is okay
+08.07.2025 16:25:50,TEMP,Overtemperature alarm,Temperature okay
+08.07.2025 16:25:50,PS,Power supply panel,Panel okay
+08.07.2025 16:25:50,PS-T,Power supply track circuits,Okay
+08.07.2025 16:25:50,PS-P,Power supply points,Okay
+08.07.2025 16:25:50,PS-S,Power supply signals,Okay
+08.07.2025 16:25:50,EL,Earth leakage,Earth leakage detected
+08.07.2025 16:25:50,MSA,Main supply A available,Mains A available
+08.07.2025 16:25:50,MSB,Main supply B available,Mains B available
+08.07.2025 16:25:50,MSA-F,Main supply A feeding,Mains A not feeding
+08.07.2025 16:25:50,LOAD,Load on inverter / bypass,Load on inverter
+08.07.2025 16:25:50,BATT,Battery,Battery okay
+08.07.2025 16:25:50,BAT-U,Battery undervoltage,Battery Voltage okay
+08.07.2025 16:25:50,BAT-O,Battery operation,Battery not in operation
+08.07.2025 16:25:50,BYP,Bypass operation (single point operation),Bypass not in Operation
+08.07.2025 16:25:50,M-BYP,Manual bypass,Manual Bypass not active
+08.07.2025 16:25:50,FAN,Fan,Okay
+08.07.2025 16:25:50,UPS,UPS,UPS is okay
+08.07.2025 16:25:50,TEMP,Overtemperature alarm,Temperature okay
+08.07.2025 16:25:51,PS,Power supply panel,Panel okay
+08.07.2025 16:25:51,PS-T,Power supply track circuits,Okay
+08.07.2025 16:25:51,PS-P,Power supply points,Okay
+08.07.2025 16:25:51,PS-S,Power supply signals,Okay
+08.07.2025 16:25:51,EL,Earth leakage,Earth leakage detected
+08.07.2025 16:25:51,MSA,Main supply A available,Mains A available
+08.07.2025 16:25:51,MSB,Main supply B available,Mains B available
+08.07.2025 16:25:51,MSA-F,Main supply A feeding,Mains A not feeding
+08.07.2025 16:25:51,LOAD,Load on inverter / bypass,Load on inverter
+08.07.2025 16:25:51,BATT,Battery,Battery okay
+08.07.2025 16:25:51,BAT-U,Battery undervoltage,Battery Voltage okay
+08.07.2025 16:25:51,BAT-O,Battery operation,Battery not in operation
+08.07.2025 16:25:51,BYP,Bypass operation (single point operation),Bypass not in Operation
+08.07.2025 16:25:51,M-BYP,Manual bypass,Manual Bypass not active
+08.07.2025 16:25:51,FAN,Fan,Okay
+08.07.2025 16:25:51,UPS,UPS,UPS is okay
+08.07.2025 16:25:51,TEMP,Overtemperature alarm,Temperature okay
+08.07.2025 16:25:52,PS,Power supply panel,Panel okay
+08.07.2025 16:25:52,PS-T,Power supply track circuits,Okay
+08.07.2025 16:25:52,PS-P,Power supply points,Okay
+08.07.2025 16:25:52,PS-S,Power supply signals,Okay
+08.07.2025 16:25:52,EL,Earth leakage,Earth leakage detected
+08.07.2025 16:25:52,MSA,Main supply A available,Mains A available
+08.07.2025 16:25:52,MSB,Main supply B available,Mains B available
+08.07.2025 16:25:52,MSA-F,Main supply A feeding,Mains A not feeding
+08.07.2025 16:25:52,LOAD,Load on inverter / bypass,Load on inverter
+08.07.2025 16:25:52,BATT,Battery,Battery okay
+08.07.2025 16:25:52,BAT-U,Battery undervoltage,Battery Voltage okay
+08.07.2025 16:25:52,BAT-O,Battery operation,Battery not in operation
+08.07.2025 16:25:52,BYP,Bypass operation (single point operation),Bypass not in Operation
+08.07.2025 16:25:52,M-BYP,Manual bypass,Manual Bypass not active
+08.07.2025 16:25:52,FAN,Fan,Okay
+08.07.2025 16:25:52,UPS,UPS,UPS is okay
+08.07.2025 16:25:52,TEMP,Overtemperature alarm,Temperature okay
+08.07.2025 16:25:52,PS,Power supply panel,Panel okay
+08.07.2025 16:25:52,PS-T,Power supply track circuits,Okay
+08.07.2025 16:25:52,PS-P,Power supply points,Okay
+08.07.2025 16:25:52,PS-S,Power supply signals,Okay
+08.07.2025 16:25:52,EL,Earth leakage,Earth leakage detected
+08.07.2025 16:25:52,MSA,Main supply A available,Mains A available
+08.07.2025 16:25:52,MSB,Main supply B available,Mains B available
+08.07.2025 16:25:52,MSA-F,Main supply A feeding,Mains A not feeding
+08.07.2025 16:25:52,LOAD,Load on inverter / bypass,Load on inverter
+08.07.2025 16:25:52,BATT,Battery,Battery okay
+08.07.2025 16:25:52,BAT-U,Battery undervoltage,Battery Voltage okay
+08.07.2025 16:25:52,BAT-O,Battery operation,Battery not in operation
+08.07.2025 16:25:52,BYP,Bypass operation (single point operation),Bypass not in Operation
+08.07.2025 16:25:52,M-BYP,Manual bypass,Manual Bypass not active
+08.07.2025 16:25:52,FAN,Fan,Okay
+08.07.2025 16:25:52,UPS,UPS,UPS is okay
+08.07.2025 16:25:52,TEMP,Overtemperature alarm,Temperature okay
+08.07.2025 16:25:53,PS,Power supply panel,Panel okay
+08.07.2025 16:25:53,PS-T,Power supply track circuits,Okay
+08.07.2025 16:25:53,PS-P,Power supply points,Okay
+08.07.2025 16:25:53,PS-S,Power supply signals,Okay
+08.07.2025 16:25:53,EL,Earth leakage,Earth leakage detected
+08.07.2025 16:25:53,MSA,Main supply A available,Mains A available
+08.07.2025 16:25:53,MSB,Main supply B available,Mains B available
+08.07.2025 16:25:53,MSA-F,Main supply A feeding,Mains A not feeding
+08.07.2025 16:25:53,MSB,Main supply B available,Mains B available
+08.07.2025 16:25:53,LOAD,Load on inverter / bypass,Load on inverter
+08.07.2025 16:25:53,BATT,Battery,Battery okay
+08.07.2025 16:25:53,BAT-U,Battery undervoltage,Battery Voltage okay
+08.07.2025 16:25:53,BAT-O,Battery operation,Battery not in operation
+08.07.2025 16:25:53,BYP,Bypass operation (single point operation),Bypass not in Operation
+08.07.2025 16:25:53,M-BYP,Manual bypass,Manual Bypass not active
+08.07.2025 16:25:53,FAN,Fan,Okay
+08.07.2025 16:25:53,UPS,UPS,UPS is okay
+08.07.2025 16:25:53,TEMP,Overtemperature alarm,Temperature okay
+08.07.2025 16:25:54,PS,Power supply panel,Panel okay
+08.07.2025 16:25:54,PS-T,Power supply track circuits,Okay
+08.07.2025 16:25:54,PS-P,Power supply points,Okay
+08.07.2025 16:25:54,PS-S,Power supply signals,Okay
+08.07.2025 16:25:54,EL,Earth leakage,Earth leakage detected
+08.07.2025 16:25:54,MSA,Main supply A available,Mains A available
+08.07.2025 16:25:54,MSB,Main supply B available,Mains B available
+08.07.2025 16:25:54,MSA-F,Main supply A feeding,Mains A not feeding
+08.07.2025 16:25:54,MSB,Main supply B available,Mains B available
+08.07.2025 16:25:54,LOAD,Load on inverter / bypass,Load on inverter
+08.07.2025 16:25:54,BATT,Battery,Battery okay
+08.07.2025 16:25:54,BAT-U,Battery undervoltage,Battery Voltage okay
+08.07.2025 16:25:54,BYP,Bypass operation (single point operation),Bypass not in Operation
+08.07.2025 16:25:54,M-BYP,Manual bypass,Manual Bypass not active
+08.07.2025 16:25:54,FAN,Fan,Okay
+08.07.2025 16:25:54,UPS,UPS,UPS is okay
+08.07.2025 16:25:54,TEMP,Overtemperature alarm,Temperature okay
+08.07.2025 16:25:54,PS,Power supply panel,Panel okay
+08.07.2025 16:25:54,PS-T,Power supply track circuits,Okay
+08.07.2025 16:25:54,PS-P,Power supply points,Okay
+08.07.2025 16:25:54,PS-S,Power supply signals,Okay
+08.07.2025 16:25:54,EL,Earth leakage,Earth leakage detected
+08.07.2025 16:25:54,MSA,Main supply A available,Mains A available
+08.07.2025 16:25:54,MSB,Main supply B available,Mains B available
+08.07.2025 16:25:54,MSA-F,Main supply A feeding,Mains A not feeding
+08.07.2025 16:25:54,MSB,Main supply B available,Mains B available
+08.07.2025 16:25:54,LOAD,Load on inverter / bypass,Load on inverter
+08.07.2025 16:25:54,BATT,Battery,Battery okay
+08.07.2025 16:25:54,BAT-U,Battery undervoltage,Battery Voltage okay
+08.07.2025 16:25:54,BAT-O,Battery operation,Battery not in operation
+08.07.2025 16:25:54,BYP,Bypass operation (single point operation),Bypass not in Operation
+08.07.2025 16:25:54,M-BYP,Manual bypass,Manual Bypass not active
+08.07.2025 16:25:54,FAN,Fan,Okay
+08.07.2025 16:25:54,UPS,UPS,UPS is okay
+08.07.2025 16:25:54,TEMP,Overtemperature alarm,Temperature okay
+08.07.2025 16:25:55,PS,Power supply panel,Panel okay
+08.07.2025 16:25:55,PS-T,Power supply track circuits,Okay
+08.07.2025 16:25:55,PS-P,Power supply points,Okay
+08.07.2025 16:25:55,PS-S,Power supply signals,Okay
+08.07.2025 16:25:55,EL,Earth leakage,Earth leakage detected
+08.07.2025 16:25:55,MSA,Main supply A available,Mains A available
+08.07.2025 16:25:55,MSB,Main supply B available,Mains B available
+08.07.2025 16:25:55,MSA-F,Main supply A feeding,Mains A not feeding
+08.07.2025 16:25:55,LOAD,Load on inverter / bypass,Load on inverter
+08.07.2025 16:25:55,BATT,Battery,Battery okay
+08.07.2025 16:25:55,BAT-U,Battery undervoltage,Battery Voltage okay
+08.07.2025 16:25:55,BAT-O,Battery operation,Battery not in operation
+08.07.2025 16:25:55,BYP,Bypass operation (single point operation),Bypass not in Operation
+08.07.2025 16:25:55,M-BYP,Manual bypass,Manual Bypass not active
+08.07.2025 16:25:55,FAN,Fan,Okay
+08.07.2025 16:25:55,UPS,UPS,UPS is okay
+08.07.2025 16:25:55,TEMP,Overtemperature alarm,Temperature okay
+08.07.2025 16:25:55,PS,Power supply panel,Panel okay
+08.07.2025 16:25:55,PS-T,Power supply track circuits,Okay
+08.07.2025 16:25:55,PS-P,Power supply points,Okay
+08.07.2025 16:25:55,PS-S,Power supply signals,Okay
+08.07.2025 16:25:55,EL,Earth leakage,Earth leakage detected
+08.07.2025 16:25:55,MSA,Main supply A available,Mains A available
+08.07.2025 16:25:55,MSB,Main supply B available,Mains B available
+08.07.2025 16:25:55,MSA-F,Main supply A feeding,Mains A not feeding
+08.07.2025 16:25:55,LOAD,Load on inverter / bypass,Load on inverter
+08.07.2025 16:25:55,BATT,Battery,Battery okay
+08.07.2025 16:25:55,BAT-U,Battery undervoltage,Battery Voltage okay
+08.07.2025 16:25:55,BAT-O,Battery operation,Battery not in operation
+08.07.2025 16:25:55,BYP,Bypass operation (single point operation),Bypass not in Operation
+08.07.2025 16:25:55,M-BYP,Manual bypass,Manual Bypass not active
+08.07.2025 16:25:55,FAN,Fan,Okay
+08.07.2025 16:25:55,UPS,UPS,UPS is okay
+08.07.2025 16:25:55,TEMP,Overtemperature alarm,Temperature okay
+08.07.2025 16:25:57,PS,Power supply panel,Panel okay
+08.07.2025 16:25:57,PS-T,Power supply track circuits,Okay
+08.07.2025 16:25:57,PS-P,Power supply points,Okay
+08.07.2025 16:25:57,PS-S,Power supply signals,Okay
+08.07.2025 16:25:57,EL,Earth leakage,Earth leakage detected
+08.07.2025 16:25:57,MSA,Main supply A available,Mains A available
+08.07.2025 16:25:57,MSB,Main supply B available,Mains B available
+08.07.2025 16:25:57,MSA-F,Main supply A feeding,Mains A not feeding
+08.07.2025 16:25:57,LOAD,Load on inverter / bypass,Load on inverter
+08.07.2025 16:25:57,BATT,Battery,Battery okay
+08.07.2025 16:25:57,BAT-U,Battery undervoltage,Battery Voltage okay
+08.07.2025 16:25:57,BYP,Bypass operation (single point operation),Bypass not in Operation
+08.07.2025 16:25:57,M-BYP,Manual bypass,Manual Bypass not active
+08.07.2025 16:25:57,FAN,Fan,Okay
+08.07.2025 16:25:57,UPS,UPS,UPS is okay
+08.07.2025 16:25:57,TEMP,Overtemperature alarm,Temperature okay
+08.07.2025 16:25:58,PS,Power supply panel,Panel okay
+08.07.2025 16:25:58,PS-T,Power supply track circuits,Okay
+08.07.2025 16:25:58,PS-P,Power supply points,Okay
+08.07.2025 16:25:58,PS-S,Power supply signals,Okay
+08.07.2025 16:25:58,EL,Earth leakage,Earth leakage detected
+08.07.2025 16:25:58,MSA,Main supply A available,Mains A available
+08.07.2025 16:25:58,MSB,Main supply B available,Mains B available
+08.07.2025 16:25:58,MSA-F,Main supply A feeding,Mains A not feeding
+08.07.2025 16:25:58,LOAD,Load on inverter / bypass,Load on inverter
+08.07.2025 16:25:58,BATT,Battery,Battery okay
+08.07.2025 16:25:58,BAT-U,Battery undervoltage,Battery Voltage okay
+08.07.2025 16:25:58,BAT-O,Battery operation,Battery not in operation
+08.07.2025 16:25:58,BYP,Bypass operation (single point operation),Bypass not in Operation
+08.07.2025 16:25:58,M-BYP,Manual bypass,Manual Bypass not active
+08.07.2025 16:25:58,FAN,Fan,Okay
+08.07.2025 16:25:58,UPS,UPS,UPS is okay
+08.07.2025 16:25:58,TEMP,Overtemperature alarm,Temperature okay
+08.07.2025 16:26:01,PS,Power supply panel,Panel okay
+08.07.2025 16:26:01,PS-T,Power supply track circuits,Okay
+08.07.2025 16:26:01,PS-P,Power supply points,Okay
+08.07.2025 16:26:01,PS-S,Power supply signals,Okay
+08.07.2025 16:26:01,EL,Earth leakage,Earth leakage detected
+08.07.2025 16:26:01,MSA,Main supply A available,Mains A available
+08.07.2025 16:26:01,MSB,Main supply B available,Mains B available
+08.07.2025 16:26:01,MSA-F,Main supply A feeding,Mains A not feeding
+08.07.2025 16:26:01,LOAD,Load on inverter / bypass,Load on inverter
+08.07.2025 16:26:01,BATT,Battery,Battery okay
+08.07.2025 16:26:01,BAT-U,Battery undervoltage,Battery Voltage okay
+08.07.2025 16:26:01,BAT-O,Battery operation,Battery not in operation
+08.07.2025 16:26:01,BYP,Bypass operation (single point operation),Bypass not in Operation
+08.07.2025 16:26:01,M-BYP,Manual bypass,Manual Bypass not active
+08.07.2025 16:26:01,FAN,Fan,Okay
+08.07.2025 16:26:01,UPS,UPS,UPS is okay
+08.07.2025 16:26:01,TEMP,Overtemperature alarm,Temperature okay
+08.07.2025 16:26:03,PS,Power supply panel,Panel okay
+08.07.2025 16:26:03,PS-T,Power supply track circuits,Okay
+08.07.2025 16:26:03,PS-P,Power supply points,Okay
+08.07.2025 16:26:03,PS-S,Power supply signals,Okay
+08.07.2025 16:26:03,EL,Earth leakage,Earth leakage detected
+08.07.2025 16:26:03,MSA,Main supply A available,Mains A available
+08.07.2025 16:26:03,MSB,Main supply B available,Mains B available
+08.07.2025 16:26:03,MSA-F,Main supply A feeding,Mains A not feeding
+08.07.2025 16:26:03,LOAD,Load on inverter / bypass,Load on inverter
+08.07.2025 16:26:03,BATT,Battery,Battery okay
+08.07.2025 16:26:03,BAT-U,Battery undervoltage,Battery Voltage okay
+08.07.2025 16:26:03,BAT-O,Battery operation,Battery not in operation
+08.07.2025 16:26:03,BYP,Bypass operation (single point operation),Bypass not in Operation
+08.07.2025 16:26:03,M-BYP,Manual bypass,Manual Bypass not active
+08.07.2025 16:26:03,FAN,Fan,Okay
+08.07.2025 16:26:03,UPS,UPS,UPS is okay
+08.07.2025 16:26:03,TEMP,Overtemperature alarm,Temperature okay
+08.07.2025 16:26:04,PS,Power supply panel,Panel okay
+08.07.2025 16:26:04,PS-T,Power supply track circuits,Okay
+08.07.2025 16:26:04,PS-P,Power supply points,Okay
+08.07.2025 16:26:04,PS-S,Power supply signals,Okay
+08.07.2025 16:26:04,EL,Earth leakage,Earth leakage detected
+08.07.2025 16:26:04,MSA,Main supply A available,Mains A available
+08.07.2025 16:26:04,MSB,Main supply B available,Mains B available
+08.07.2025 16:26:04,MSA-F,Main supply A feeding,Mains A not feeding
+08.07.2025 16:26:04,LOAD,Load on inverter / bypass,Load on inverter
+08.07.2025 16:26:04,BATT,Battery,Battery okay
+08.07.2025 16:26:04,BAT-U,Battery undervoltage,Battery Voltage okay
+08.07.2025 16:26:04,BAT-O,Battery operation,Battery not in operation
+08.07.2025 16:26:04,BYP,Bypass operation (single point operation),Bypass not in Operation
+08.07.2025 16:26:04,M-BYP,Manual bypass,Manual Bypass not active
+08.07.2025 16:26:04,FAN,Fan,Okay
+08.07.2025 16:26:04,UPS,UPS,UPS is okay
+08.07.2025 16:26:04,TEMP,Overtemperature alarm,Temperature okay
+08.07.2025 16:26:05,PS,Power supply panel,Panel okay
+08.07.2025 16:26:05,PS-T,Power supply track circuits,Okay
+08.07.2025 16:26:05,PS-P,Power supply points,Okay
+08.07.2025 16:26:05,PS-S,Power supply signals,Okay
+08.07.2025 16:26:05,EL,Earth leakage,Earth leakage detected
+08.07.2025 16:26:05,MSA,Main supply A available,Mains A available
+08.07.2025 16:26:05,MSB,Main supply B available,Mains B available
+08.07.2025 16:26:05,MSA-F,Main supply A feeding,Mains A not feeding
+08.07.2025 16:26:05,LOAD,Load on inverter / bypass,Load on inverter
+08.07.2025 16:26:05,BATT,Battery,Battery okay
+08.07.2025 16:26:05,BAT-U,Battery undervoltage,Battery Voltage okay
+08.07.2025 16:26:05,BYP,Bypass operation (single point operation),Bypass not in Operation
+08.07.2025 16:26:05,M-BYP,Manual bypass,Manual Bypass not active
+08.07.2025 16:26:05,FAN,Fan,Okay
+08.07.2025 16:26:05,UPS,UPS,UPS is okay
+08.07.2025 16:26:05,TEMP,Overtemperature alarm,Temperature okay
+08.07.2025 16:26:06,PS,Power supply panel,Panel okay
+08.07.2025 16:26:06,PS-T,Power supply track circuits,Okay
+08.07.2025 16:26:06,PS-P,Power supply points,Okay
+08.07.2025 16:26:06,PS-S,Power supply signals,Okay
+08.07.2025 16:26:06,EL,Earth leakage,Earth leakage detected
+08.07.2025 16:26:06,MSA,Main supply A available,Mains A available
+08.07.2025 16:26:06,MSB,Main supply B available,Mains B available
+08.07.2025 16:26:06,MSA-F,Main supply A feeding,Mains A not feeding
+08.07.2025 16:26:06,LOAD,Load on inverter / bypass,Load on inverter
+08.07.2025 16:26:06,BATT,Battery,Battery okay
+08.07.2025 16:26:06,BAT-U,Battery undervoltage,Battery Voltage okay
+08.07.2025 16:26:06,BAT-O,Battery operation,Battery not in operation
+08.07.2025 16:26:06,BYP,Bypass operation (single point operation),Bypass not in Operation
+08.07.2025 16:26:06,M-BYP,Manual bypass,Manual Bypass not active
+08.07.2025 16:26:06,FAN,Fan,Okay
+08.07.2025 16:26:06,UPS,UPS,UPS is okay
+08.07.2025 16:26:06,TEMP,Overtemperature alarm,Temperature okay
+08.07.2025 16:26:07,PS,Power supply panel,Panel okay
+08.07.2025 16:26:07,PS-T,Power supply track circuits,Okay
+08.07.2025 16:26:07,PS-P,Power supply points,Okay
+08.07.2025 16:26:07,PS-S,Power supply signals,Okay
+08.07.2025 16:26:07,EL,Earth leakage,Earth leakage detected
+08.07.2025 16:26:07,MSA,Main supply A available,Mains A available
+08.07.2025 16:26:07,MSB,Main supply B available,Mains B available
+08.07.2025 16:26:07,MSA-F,Main supply A feeding,Mains A not feeding
+08.07.2025 16:26:07,MSB,Main supply B available,Mains B available
+08.07.2025 16:26:07,LOAD,Load on inverter / bypass,Load on inverter
+08.07.2025 16:26:07,BATT,Battery,Battery okay
+08.07.2025 16:26:07,BAT-U,Battery undervoltage,Battery Voltage okay
+08.07.2025 16:26:07,BAT-O,Battery operation,Battery not in operation
+08.07.2025 16:26:07,BYP,Bypass operation (single point operation),Bypass not in Operation
+08.07.2025 16:26:07,M-BYP,Manual bypass,Manual Bypass not active
+08.07.2025 16:26:07,FAN,Fan,Okay
+08.07.2025 16:26:07,UPS,UPS,UPS is okay
+08.07.2025 16:26:07,TEMP,Overtemperature alarm,Temperature okay
+08.07.2025 16:26:08,PS,Power supply panel,Panel okay
+08.07.2025 16:26:08,PS-T,Power supply track circuits,Okay
+08.07.2025 16:26:08,PS-P,Power supply points,Okay
+08.07.2025 16:26:08,PS-S,Power supply signals,Okay
+08.07.2025 16:26:08,EL,Earth leakage,Earth leakage detected
+08.07.2025 16:26:08,MSA,Main supply A available,Mains A available
+08.07.2025 16:26:08,MSB,Main supply B available,Mains B available
+08.07.2025 16:26:08,MSA-F,Main supply A feeding,Mains A not feeding
+08.07.2025 16:26:08,MSB,Main supply B available,Mains B available
+08.07.2025 16:26:08,LOAD,Load on inverter / bypass,Load on inverter
+08.07.2025 16:26:08,BATT,Battery,Battery okay
+08.07.2025 16:26:08,BAT-U,Battery undervoltage,Battery Voltage okay
+08.07.2025 16:26:08,BAT-O,Battery operation,Battery not in operation
+08.07.2025 16:26:08,BYP,Bypass operation (single point operation),Bypass not in Operation
+08.07.2025 16:26:08,M-BYP,Manual bypass,Manual Bypass not active
+08.07.2025 16:26:08,FAN,Fan,Okay
+08.07.2025 16:26:08,UPS,UPS,UPS is okay
+08.07.2025 16:26:08,TEMP,Overtemperature alarm,Temperature okay
+08.07.2025 16:26:09,PS,Power supply panel,Panel okay
+08.07.2025 16:26:09,PS-T,Power supply track circuits,Okay
+08.07.2025 16:26:09,PS-P,Power supply points,Okay
+08.07.2025 16:26:09,PS-S,Power supply signals,Okay
+08.07.2025 16:26:09,EL,Earth leakage,Earth leakage detected
+08.07.2025 16:26:09,MSA,Main supply A available,Mains A available
+08.07.2025 16:26:09,MSB,Main supply B available,Mains B available
+08.07.2025 16:26:09,MSA-F,Main supply A feeding,Mains A not feeding
+08.07.2025 16:26:09,LOAD,Load on inverter / bypass,Load on inverter
+08.07.2025 16:26:09,BATT,Battery,Battery okay
+08.07.2025 16:26:09,BAT-U,Battery undervoltage,Battery Voltage okay
+08.07.2025 16:26:09,BAT-O,Battery operation,Battery not in operation
+08.07.2025 16:26:09,BYP,Bypass operation (single point operation),Bypass not in Operation
+08.07.2025 16:26:09,M-BYP,Manual bypass,Manual Bypass not active
+08.07.2025 16:26:09,FAN,Fan,Okay
+08.07.2025 16:26:09,UPS,UPS,UPS is okay
+08.07.2025 16:26:09,TEMP,Overtemperature alarm,Temperature okay
+08.07.2025 16:26:11,PS,Power supply panel,Panel okay
+08.07.2025 16:26:11,PS-T,Power supply track circuits,Okay
+08.07.2025 16:26:11,PS-P,Power supply points,Okay
+08.07.2025 16:26:11,PS-S,Power supply signals,Okay
+08.07.2025 16:26:11,EL,Earth leakage,Earth leakage detected
+08.07.2025 16:26:11,MSA,Main supply A available,Mains A available
+08.07.2025 16:26:11,MSB,Main supply B available,Mains B available
+08.07.2025 16:26:11,MSA-F,Main supply A feeding,Mains A not feeding
+08.07.2025 16:26:11,LOAD,Load on inverter / bypass,Load on inverter
+08.07.2025 16:26:11,BATT,Battery,Battery okay
+08.07.2025 16:26:11,BAT-U,Battery undervoltage,Battery Voltage okay
+08.07.2025 16:26:11,BAT-O,Battery operation,Battery not in operation
+08.07.2025 16:26:11,BYP,Bypass operation (single point operation),Bypass not in Operation
+08.07.2025 16:26:11,M-BYP,Manual bypass,Manual Bypass not active
+08.07.2025 16:26:11,FAN,Fan,Okay
+08.07.2025 16:26:11,UPS,UPS,UPS is okay
+08.07.2025 16:26:11,TEMP,Overtemperature alarm,Temperature okay
+08.07.2025 16:26:12,PS,Power supply panel,Panel okay
+08.07.2025 16:26:12,PS-T,Power supply track circuits,Okay
+08.07.2025 16:26:12,PS-P,Power supply points,Okay
+08.07.2025 16:26:12,PS-S,Power supply signals,Okay
+08.07.2025 16:26:12,EL,Earth leakage,Earth leakage detected
+08.07.2025 16:26:12,MSA,Main supply A available,Mains A available
+08.07.2025 16:26:12,MSB,Main supply B available,Mains B available
+08.07.2025 16:26:12,MSA-F,Main supply A feeding,Mains A not feeding
+08.07.2025 16:26:12,MSB,Main supply B available,Mains B available
+08.07.2025 16:26:12,LOAD,Load on inverter / bypass,Load on inverter
+08.07.2025 16:26:12,BATT,Battery,Battery okay
+08.07.2025 16:26:12,BAT-U,Battery undervoltage,Battery Voltage okay
+08.07.2025 16:26:12,BAT-O,Battery operation,Battery not in operation
+08.07.2025 16:26:12,BYP,Bypass operation (single point operation),Bypass not in Operation
+08.07.2025 16:26:12,M-BYP,Manual bypass,Manual Bypass not active
+08.07.2025 16:26:12,FAN,Fan,Okay
+08.07.2025 16:26:12,UPS,UPS,UPS is okay
+08.07.2025 16:26:12,TEMP,Overtemperature alarm,Temperature okay
+08.07.2025 16:26:13,PS,Power supply panel,Panel okay
+08.07.2025 16:26:13,PS-T,Power supply track circuits,Okay
+08.07.2025 16:26:13,PS-P,Power supply points,Okay
+08.07.2025 16:26:13,PS-S,Power supply signals,Okay
+08.07.2025 16:26:13,EL,Earth leakage,Earth leakage detected
+08.07.2025 16:26:13,MSA,Main supply A available,Mains A available
+08.07.2025 16:26:13,MSB,Main supply B available,Mains B available
+08.07.2025 16:26:13,MSA-F,Main supply A feeding,Mains A not feeding
+08.07.2025 16:26:13,LOAD,Load on inverter / bypass,Load on inverter
+08.07.2025 16:26:13,BATT,Battery,Battery okay
+08.07.2025 16:26:13,BAT-U,Battery undervoltage,Battery Voltage okay
+08.07.2025 16:26:13,BAT-O,Battery operation,Battery not in operation
+08.07.2025 16:26:13,BYP,Bypass operation (single point operation),Bypass not in Operation
+08.07.2025 16:26:13,M-BYP,Manual bypass,Manual Bypass not active
+08.07.2025 16:26:13,FAN,Fan,Okay
+08.07.2025 16:26:13,UPS,UPS,UPS is okay
+08.07.2025 16:26:13,TEMP,Overtemperature alarm,Temperature okay
+08.07.2025 16:26:14,PS,Power supply panel,Panel okay
+08.07.2025 16:26:14,PS-T,Power supply track circuits,Okay
+08.07.2025 16:26:14,PS-P,Power supply points,Okay
+08.07.2025 16:26:14,PS-S,Power supply signals,Okay
+08.07.2025 16:26:14,EL,Earth leakage,Earth leakage detected
+08.07.2025 16:26:14,MSA,Main supply A available,Mains A available
+08.07.2025 16:26:14,MSB,Main supply B available,Mains B available
+08.07.2025 16:26:14,MSA-F,Main supply A feeding,Mains A not feeding
+08.07.2025 16:26:14,LOAD,Load on inverter / bypass,Load on inverter
+08.07.2025 16:26:14,BATT,Battery,Battery okay
+08.07.2025 16:26:14,BAT-U,Battery undervoltage,Battery Voltage okay
+08.07.2025 16:26:14,BAT-O,Battery operation,Battery not in operation
+08.07.2025 16:26:14,BYP,Bypass operation (single point operation),Bypass not in Operation
+08.07.2025 16:26:14,M-BYP,Manual bypass,Manual Bypass not active
+08.07.2025 16:26:14,FAN,Fan,Okay
+08.07.2025 16:26:14,UPS,UPS,UPS is okay
+08.07.2025 16:26:14,TEMP,Overtemperature alarm,Temperature okay
+08.07.2025 16:26:15,PS,Power supply panel,Panel okay
+08.07.2025 16:26:15,PS-T,Power supply track circuits,Okay
+08.07.2025 16:26:15,PS-P,Power supply points,Okay
+08.07.2025 16:26:15,PS-S,Power supply signals,Okay
+08.07.2025 16:26:15,EL,Earth leakage,Earth leakage detected
+08.07.2025 16:26:15,MSA,Main supply A available,Mains A available
+08.07.2025 16:26:15,MSB,Main supply B available,Mains B available
+08.07.2025 16:26:15,MSA-F,Main supply A feeding,Mains A not feeding
+08.07.2025 16:26:15,LOAD,Load on inverter / bypass,Load on inverter
+08.07.2025 16:26:15,BATT,Battery,Battery okay
+08.07.2025 16:26:15,BAT-U,Battery undervoltage,Battery Voltage okay
+08.07.2025 16:26:15,BAT-O,Battery operation,Battery not in operation
+08.07.2025 16:26:15,BYP,Bypass operation (single point operation),Bypass not in Operation
+08.07.2025 16:26:15,M-BYP,Manual bypass,Manual Bypass not active
+08.07.2025 16:26:15,FAN,Fan,Okay
+08.07.2025 16:26:15,UPS,UPS,UPS is okay
+08.07.2025 16:26:15,TEMP,Overtemperature alarm,Temperature okay
+08.07.2025 16:26:15,PS,Power supply panel,Panel okay
+08.07.2025 16:26:15,PS-T,Power supply track circuits,Okay
+08.07.2025 16:26:15,PS-P,Power supply points,Okay
+08.07.2025 16:26:15,PS-S,Power supply signals,Okay
+08.07.2025 16:26:15,EL,Earth leakage,Earth leakage detected
+08.07.2025 16:26:15,MSA,Main supply A available,Mains A available
+08.07.2025 16:26:15,MSB,Main supply B available,Mains B available
+08.07.2025 16:26:15,MSA-F,Main supply A feeding,Mains A not feeding
+08.07.2025 16:26:15,LOAD,Load on inverter / bypass,Load on inverter
+08.07.2025 16:26:15,BATT,Battery,Battery okay
+08.07.2025 16:26:15,BAT-U,Battery undervoltage,Battery Voltage okay
+08.07.2025 16:26:15,BAT-O,Battery operation,Battery not in operation
+08.07.2025 16:26:15,BYP,Bypass operation (single point operation),Bypass not in Operation
+08.07.2025 16:26:15,M-BYP,Manual bypass,Manual Bypass not active
+08.07.2025 16:26:15,FAN,Fan,Okay
+08.07.2025 16:26:15,UPS,UPS,UPS is okay
+08.07.2025 16:26:15,TEMP,Overtemperature alarm,Temperature okay
+08.07.2025 16:26:16,PS,Power supply panel,Panel okay
+08.07.2025 16:26:16,PS-T,Power supply track circuits,Okay
+08.07.2025 16:26:16,PS-P,Power supply points,Okay
+08.07.2025 16:26:16,PS-S,Power supply signals,Okay
+08.07.2025 16:26:16,EL,Earth leakage,Earth leakage detected
+08.07.2025 16:26:16,MSA,Main supply A available,Mains A available
+08.07.2025 16:26:16,MSB,Main supply B available,Mains B available
+08.07.2025 16:26:16,MSA-F,Main supply A feeding,Mains A not feeding
+08.07.2025 16:26:16,LOAD,Load on inverter / bypass,Load on inverter
+08.07.2025 16:26:16,BATT,Battery,Battery okay
+08.07.2025 16:26:16,BAT-U,Battery undervoltage,Battery Voltage okay
+08.07.2025 16:26:16,BAT-O,Battery operation,Battery not in operation
+08.07.2025 16:26:16,BYP,Bypass operation (single point operation),Bypass not in Operation
+08.07.2025 16:26:16,M-BYP,Manual bypass,Manual Bypass not active
+08.07.2025 16:26:16,FAN,Fan,Okay
+08.07.2025 16:26:16,UPS,UPS,UPS is okay
+08.07.2025 16:26:16,TEMP,Overtemperature alarm,Temperature okay
+08.07.2025 16:26:17,PS,Power supply panel,Panel okay
+08.07.2025 16:26:17,PS-T,Power supply track circuits,Okay
+08.07.2025 16:26:17,PS-P,Power supply points,Okay
+08.07.2025 16:26:17,PS-S,Power supply signals,Okay
+08.07.2025 16:26:17,EL,Earth leakage,Earth leakage detected
+08.07.2025 16:26:17,MSA,Main supply A available,Mains A available
+08.07.2025 16:26:17,MSB,Main supply B available,Mains B available
+08.07.2025 16:26:17,MSA-F,Main supply A feeding,Mains A not feeding
+08.07.2025 16:26:17,LOAD,Load on inverter / bypass,Load on inverter
+08.07.2025 16:26:17,BATT,Battery,Battery okay
+08.07.2025 16:26:17,BAT-U,Battery undervoltage,Battery Voltage okay
+08.07.2025 16:26:17,BAT-O,Battery operation,Battery not in operation
+08.07.2025 16:26:17,BYP,Bypass operation (single point operation),Bypass not in Operation
+08.07.2025 16:26:17,M-BYP,Manual bypass,Manual Bypass not active
+08.07.2025 16:26:17,FAN,Fan,Okay
+08.07.2025 16:26:17,UPS,UPS,UPS is okay
+08.07.2025 16:26:17,TEMP,Overtemperature alarm,Temperature okay

@@ -1,0 +1,186 @@
+Date/Time,Area,Sub Area,Object,Text,suggested Action
+,,,,Set train dwell and trip time
+18/10/2024 17:12:12,WCUTTS,WCUTTS,TRAIN28,Record required command from terminal ADM
+,,,,Set train dwell and trip time
+18/10/2024 17:12:17,WCUTTS,WCUTTS,TRAIN4,Record required command from terminal ADM
+,,,,Set train dwell and trip time
+18/10/2024 17:12:30,SHT,SHT,1522-1510,Record required command from terminal TC2-OCC
+,,,,Set route
+18/10/2024 17:12:33,WCUTTS,WCUTTS,TRAIN26,Record required command from terminal ADM
+18/10/2024 17:12:34,WCUTTS,WCUTTS,TRAIN20,Record required command from terminal ADM
+,,,,Set train dwell and trip time
+18/10/2024 17:12:36,WCUTTS,WCUTTS,TRAIN21,Record required command from terminal ADM
+18/10/2024 17:12:43,WCUTTS,WCUTTS,TRAIN7,Record required command from terminal ADM
+18/10/2024 17:12:44,WCUTTS,WCUTTS,TRAIN13,Record required command from terminal ADM
+18/10/2024 17:12:44,WCUTTS,WCUTTS,TRAIN13,Record required command from terminal ADM
+,,,,Set train dwell and trip time
+18/10/2024 17:12:46,WCUTTS,WCUTTS,TRAIN1O,Record required command from terminal ADM
+,,,,Set train dwell and trip time
+18/10/2024 17:12:50,WCUTTS,WCUTTS,TRAIN34,Record required command from terminal ADM
+18/10/2024 17:12:56,WCUTTS,WCUTTS,TRAIN33,Record required command from terminal ADM
+18/10/2024 17:12:57,WCUTTS,WCUTTS,TRAIN35,Record required command from terminal ADM
+18/10/2024 17:12:57,WCUTTS,WCUTTS,TRAIN5,Record required command from terminal ADM
+,,,,Set train dwell and trip time
+18/10/2024 17:12:57,WCUTTS,WCUTTS,TRAIN5,Record required command from terminal ADM
+,,,,Set train dwell and trip time
+18/10/2024 17:13:04,WCUTTS,WCUTTS,TRAIN17,Record required command from terminal ADM
+,,,,Set train dwell and trip time
+18/10/2024 17:13:09,WCUTTS,WCUTTS,TRAIN23,Record required command from terminal ADM
+18/10/2024 17:13:10,WCUTTS,WCUTTS,TRAIN32,Record required command from terminal ADM
+18/10/2024 17:13:13,WCUTTS,WCUTTS,TRAIN37,Record required command from terminal ADM
+18/10/2024 17:13:17,WCUTTS,WCUTTS,TRAIN21,Record required command from terminal ADM
+18/10/2024 17:13:17,WCUTTS,WCUTTS,TRAIN21,Record required command from terminal ADM
+18/10/2024 17:13:20,WCUTTS,WCUTTS,TRAIN12,Record required command from terminal ADM
+18/10/2024 17:13:24,WCUTTS,WCUTTS,TRAIN22,Record required command from terminal ADM
+18/10/2024 17:13:26,WCUTTS,WCUTTS,TRAIN34,Record required command from terminal ADM
+18/10/2024 17:13:26,WCUTTS,WCUTTS,TRAIN34,Record required command from terminal ADM
+18/10/2024 17:13:27,WCUTTS,WCUTTS,TRAIN13,Record required command from terminal ADM
+18/10/2024 17:13:39,WCUTTS,WCUTTS,TRAIN16,Record required command from terminal ADM
+18/10/2024 17:13:39,WCUTTS,WCUTTS,TRAIN35,Record required command from terminal ADM
+18/10/2024 17:13:39,WCUTTS,WCUTTS,TRAIN35,Record required command from terminal ADM
+18/10/2024 17:13:43,WCUTTS,WCUTTS,TRAIN33,Record required command from terminal ADM
+18/10/2024 17:13:43,WCUTTS,WCUTTS,TRAIN33,Record required command from terminal ADM
+18/10/2024 17:13:47,WCUTTS,WCUTTS,TRAIN17,Record required command from terminal ADM
+18/10/2024 17:13:47,WCUTTS,WCUTTS,TRAIN17,Record required command from terminal ADM
+18/10/2024 17:13:58,WCUTTS,WCUTTS,TRAIN4,Record required command from terminal ADM
+18/10/2024 17:13:58,WCUTTS,WCUTTS,TRAIN4,Record required command from terminal ADM
+,,,,Set train dwell and trip time
+18/10/2024 17:13:59,WCUTTS,WCUTTS,TRAIN32,Record required command from terminal ADM
+,,,,Set train dwell and trip time
+18/10/2024 17:13:59,NHUH,ADM,AAC / AAC,Old JM0374 (1342614) automatically replaced with JL0391 (0012615)
+18/10/2024 17:14:02,WCUTTS,WCUTTS,TRAIN5,Record required command from terminal ADM
+,,,,Request new arrival event
+18/10/2024 17:14:02,WCUTTS,WCUTTS,TRAIN5,Record required command from terminal ADM
+,,,,Set train mission code
+18/10/2024 17:14:02,SYSTEM,X-Terms,TC4-OCC,Release hold/skip for all trains set at platform TAP_1
+18/10/2024 17:14:05,WCUTTS,WCUTTS,TRAIN5,Record required command from terminal ADM
+,,,,Set train dwell and trip time
+18/10/2024 17:14:06,WCUTTS,WCUTTS,TRAIN1O,Record required command from terminal ADM
+,,,,Set train dwell and trip time
+18/10/2024 17:14:08,WCUTTS,WCUTTS,TRAIN7,Record required command from terminal ADM
+,,,,Set train dwell and trip time
+18/10/2024 17:14:12,WCUTTS,WCUTTS,TRAIN15,Record required command from terminal ADM
+,,,,Set train dwell and trip time
+18/10/2024 17:14:12,WCUTTS,WCUTTS,TRAIN18,Record required command from terminal ADM
+,,,,Set train dwell and trip time
+18/10/2024 17:14:12,WCUTTS,WCUTTS,TRAIN18,Record required command from terminal ADM
+18/10/2024 17:14:16,WCUTTS,WCUTTS,TRAIN19,Record required command from terminal ADM
+18/10/2024 17:14:22,WCUTTS,WCUTTS,TRAIN5,Record required command from terminal ADM
+18/10/2024 17:14:24,WCUTTS,WCUTTS,TRAIN27,Record required command from terminal ADM
+18/10/2024 17:14:24,WCUTTS,WCUTTS,TRAIN27,Record required command from terminal ADM
+18/10/2024 17:14:32,WCUTTS,WCUTTS,TRAIN2,Record required command from terminal ADM
+18/10/2024 17:14:32,WCUTTS,WCUTTS,TRAIN2,Record required command from terminal ADM
+18/10/2024 17:14:36,WCUTTS,WCUTTS,TRAIN16,Record required command from terminal ADM
+18/10/2024 17:14:36,WCUTTS,WCUTTS,TRAIN16,Record required command from terminal ADM
+,,,,Set train dwell and trip time
+18/10/2024 17:14:36,RAC,RAC,1732-1522,Record required command from terminal TC2-OCC
+,,,,Set route
+18/10/2024 17:14:37,SHS,LMC,LBG_A / LBG,TGMT stepped JL0408 (1340916) from LBG_C /LBG
+18/10/2024 17:14:36,RAC,RAC,1732-1522,Record required command from terminal TC2-OCC
+,,,,Set route
+18/10/2024 17:14:37,SHS,LMC,LBG A / LBG,TGMT stepped JL0408 (1340916) from LBG_C /LBG
+18/10/2024 17:14:42,WCUTTS,WCUTTS,TRAIN21,Record required command from terminal ADM
+,,,,Set train dwell and trip time
+18/10/2024 17:14:37,SHS,LMC,LBGA/LBG,TGMT stepped JL0408 (1340916) from LBG_C /LBG
+18/10/2024 17:14:42,WCUTTS,WCUTTS,TRAIN21,Record required command from terminal ADM
+,,,,Set train dwell and trip time
+18/10/2024 17:14:44,RAC,RAC,5707 / NC,Record required command from terminal TC2-OCC
+,,,,Throw point to normal position
+,,,,Set train dwell and trip time
+18/10/2024 17:14:44,RAC,RAC,5707 /NC,Record required command from terminal TC2-OCC
+,,,,Throw point to normal position
+18/10/2024 17:14:50,WCUTTS,WCUTTS,TRAIN7,Record required command from terminal ADM
+,,,,Set train dwell and trip time
+18/10/2024 17:14:51,RAC,RAC,5739 / PG,Record required command from terminal TC2-OCC
+18/10/2024 17:14:52,WCUTTS,WCUTTS,TRAIN12,Record required command from terminal ADM
+,,,,Throw point to normal position
+18/10/2024 17:14:58,WCUTTS,WCUTTS,TRAIN10,Record required command from terminal ADM
+,,,,Set train dwell and trip time
+18/10/2024 17:14:58,WCUTTS,WCUTTS,TRAIN4,Record required command from terminal ADM
+,,,,Set train dwell and trip time
+18/10/2024 17:15:04,WCUTTS,WCUTTS,TRAIN18,Record required command from terminal ADM
+18/10/2024 17:15:04,WCUTTS,WCUTTS,TRAIN19,Record required command from terminal ADM
+18/10/2024 17:15:04,WCUTTS,WCUTTS,TRAIN19,Record required command from terminal ADM
+,,,,Set train dwell and trip time
+18/10/2024 17:15:04,SHS,LOW,ZV_A/ZV,TGMT stepped JM0406 (1343114) from ZV_C /ZV
+18/10/2024 17:15:06,WCUTTS,WCUTTS,TRAIN28,Record required command from terminal ADM
+18/10/2024 17:15:04,SHS,LOW,ZVA/ZV,TGMT stepped JM0406 (1343114) from ZV_C /ZV
+18/10/2024 17:15:06,WCUTTS,WCUTTS,TRAIN28,Record required command from terminal ADM
+,,,,Set train dwell and trip time
+18/10/2024 17:15:11,WCUTTS,WCUTTS,TRAIN31,Record required command from terminal ADM
+18/10/2024 17:15:06,WCUTTS,WCUTTS,TRAIN28,Record required command from terminal ADM
+,,,,Set train dwell and trip time
+18/10/2024 17:15:11,WCUTTS,WCUTTS,TRAIN31,Record required command from terminal ADM
+,,,,Set train dwell and trip time
+18/10/2024 17:15:16,WCUTTS,WCUTTS,TRAIN5,Record required command from terminal ADM
+,,,,Set train dwell and trip time
+18/10/2024 17:15:11,WCUTTS,WCUTTS,TRAIN31,Record required command from terminal ADM
+,,,,Set train dwell and trip time
+18/10/2024 17:15:16,WCUTTS,WCUTTS,TRAIN5,Record required command from terminal ADM
+,,,,Set train dwell and trip time
+18/10/2024 17:15:31,WCUTTS,WCUTTS,TRAIN32,Record required command from terminal ADM
+18/10/2024 17:15:32,WCUTTS,WCUTTS,TRAIN33,Record required command from terminal ADM
+18/10/2024 17:15:32,WCUTTS,WCUTTS,TRAIN33,Record required command from terminal ADM
+18/10/2024 17:15:33,WCUTTS,WCUTTS,TRAIN17,Record required command from terminal ADM
+18/10/2024 17:15:33,WCUTTS,WCUTTS,TRAIN17,Record required command from terminal ADM
+18/10/2024 17:15:37,WCUTTS,WCUTTS,TRAIN12,Record required command from terminal ADM
+18/10/2024 17:15:37,WCUTTS,WCUTTS,TRAIN12,Record required command from terminal ADM
+18/10/2024 17:15:40,WCUTTS,WCUTTS,TRAIN21,Record required command from terminal ADM
+18/10/2024 17:15:37,WCUTTS,WCUTTS,TRAIN12,Record required command from terminal ADM
+,,,,Set train dwell and trip time
+18/10/2024 17:15:40,WCUTTS,WCUTTS,TRAIN21,Record required command from terminal ADM
+,,,,Set train dwell and trip time
+18/10/2024 17:15:45,WCUTTS,WCUTTS,TRAIN3,Record required command from terminal ADM
+,,,,Set train dwell and trip time
+18/10/2024 17:15:45,WCUTTS,WCUTTS,TRAIN3,Record required command from terminal ADM
+,,,,Set train dwell and trip time
+18/10/2024 17:15:46,WCUTTS,WCUTTS,TRAIN28,Record required command from terminal ADM
+,,,,Set train dwell and trip time
+18/10/2024 17:15:49,RAC,,WCU_RAC,E256: Suspicion mark removed (OBCU ID nnnnn)
+,,,,U4: Suspicion mark in rear removed: Proving absence of hidden train
+18/10/2024 17:15:52,WCUTTS,WCUTTS,TRAIN34,Record required command from terminal ADM
+,,,,U4: Suspicion mark in rear removed: Proving absence of hidden train
+18/10/2024 17:15:52,WCUTTS,WCUTTS,TRAIN34,Record required command from terminal ADM
+,,,,Set train dwell and trip time
+18/10/2024 17:15:56,WCUTTS,WCUTTS,TRAIN6,Record required command from terminal ADM
+,,,,Set train dwell and trip time
+18/10/2024 17:15:57,WCUTTS,WCUTTS,TRAIN15,Record required command from terminal ADM
+18/10/2024 17:15:58,WCUTTS,WCUTTS,TRAIN20,Record required command from terminal ADM
+18/10/2024 17:15:58,WCUTTS,WCUTTS,TRAIN20,Record required command from terminal ADM
+,,,,Set train dwell and trip time
+18/10/2024 17:16:01,WCUTTS,WCUTTS,TRAIN31,Record required command from terminal ADM
+,,,,Set train dwell and trip time
+18/10/2024 17:16:05,WCUTTS,WCUTTS,TRAIN37,Record required command from terminal ADM
+18/10/2024 17:16:01,WCUTTS,WCUTTS,TRAIN31,Record required command from terminal ADM
+18/10/2024 17:16:05,WCUTTS,WCUTTS,TRAIN37,Record required command from terminal ADM
+18/10/2024 17:16:09,SHT,KOT,5312 / FT,TGMT stepped JM0384 (1342514) from FV_A /FV
+18/10/2024 17:16:05,WCUTTS,WCUTTS,TRAIN37,Record required command from terminal ADM
+18/10/2024 17:16:09,SHT,KOT,5312 / FT,TGMT stepped JM0384 (1342514) from FV_A /FV
+18/10/2024 17:16:13,WCUTTS,WCUTTS,TRAIN33,Record required command from terminal ADM
+,,,,Set train dwell and trip time
+,,,,Set train dwell and trip time
+18/10/2024 17:16:14,WCUTTS,WCUTTS,TRAIN35,Record required command from terminal ADM
+,,,,Set train dwell and trip time
+18/10/2024 17:16:15,WCUTTS,WCUTTS,TRAIN13,Record required command from terminal ADM
+18/10/2024 17:16:15,WCUTTS,WCUTTS,TRAIN13,Record required command from terminal ADM
+18/10/2024 17:16:17,WCUTTS,WCUTTS,TRAIN5,Record required command from terminal ADM
+18/10/2024 17:16:17,WCUTTS,WCUTTS,TRAIN5,Record required command from terminal ADM
+18/10/2024 17:16:28,WCUTTS,WCUTTS,TRAIN17,Record required command from terminal ADM
+18/10/2024 17:16:28,WCUTTS,WCUTTS,TRAIN17,Record required command from terminal ADM
+18/10/2024 17:16:34,WCUTTS,WCUTTS,TRAIN2,Record required command from terminal ADM
+,,,,U205: Time for throw over has expired
+18/10/2024 17:16:37,SHS,LOW,6501 / ZD,S9: Point did not move from left in time
+,,,,K1: Point machine
+18/10/2024 17:16:38,WCUTTS,WCUTTS,TRAIN6,Record required command from terminal ADM
+18/10/2024 17:16:38,WCUTTS,WCUTTS,TRAIN6,Record required command from terminal ADM
+,,,,Set train dwell and trip time
+18/10/2024 17:16:40,WCUTTS,WCUTTS,TRAIN19,Record required command from terminal ADM
+,,,,Set train dwell and trip time
+18/10/2024 17:16:41,SHT,SHT,1522,Record required command from terminal TC2-OCC
+18/10/2024 17:16:42,WCUTTS,WCUTTS,TRAIN13,Record required command from terminal ADM
+18/10/2024 17:16:44,WCUTTS,WCUTTS,TRAIN23,Record required command from terminal ADM
+18/10/2024 17:16:47,WCUTTS,WCUTTS,OBCU_A1_24,S517: MVB link ok
+,,,,Set route
+18/10/2024 17:16:48,WCUTTS,WCUTTS,TRAIN20,Record required command from terminal ADM
+,,,,Set train dwell and trip time
+18/10/2024 17:16:49,WCUTTS,WCUTTS,TRAIN15,Record required command from terminal ADM
