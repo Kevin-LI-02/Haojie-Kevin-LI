@@ -58,6 +58,9 @@
   - 构建基于PaddleOCR+OpenCV的界面信息解析pipeline
   - 实现屏幕关键状态信息实时提取、结构化解析与报警推送
 
+📂 **项目代码**：👉 [`/EYES-T`](https://github.com/Kevin-LI-02/Haojie-Kevin-LI/tree/main/EYES-T)
+包含OCR识别模块、报警推送系统完整实现、部署教程
+
 - **项目展示**：
   
   <div align="center">
@@ -94,6 +97,9 @@
 - **核心贡献**：
   - 设计RAG架构实现故障操作流程的实时检索与智能问答
   - 显著提升运维人员故障排查效率
+
+📂 **项目代码**：👉 [`/AI_Assistant`](https://github.com/Kevin-LI-02/Haojie-Kevin-LI/tree/main/AI_Assistant)  
+包含：RAG检索系统、ChromaDB知识库构建、Qwen2.5-7B本地部署、Flask Web服务、部署教程
 
 - **成果展示**：
   
@@ -140,7 +146,7 @@
   - **使mIoU提升约3%**，显著提升复杂光照与边缘场景下freespace感知鲁棒性
   - 参与构建数据闭环系统，使模型迭代效率提升近一倍
   - 开发自动化脚本用于benchmark对比与问题数据可视化分析
-- **项目展示**：*由于涉及到公司保密数据，不便进行展示。*
+- **项目展示**：由于涉及到公司保密数据，不便进行展示。
 
 ---
 
@@ -153,6 +159,10 @@
   - 设计基于双目视觉的水下感知系统，利用ArucoMarker实现高精度建图与视觉定位（marker_mapper）
   - 基于YOLOv8构建水下目标检测算法，实现实时检测与识别
   - 完成算法在仿生蝠鲼航行器平台的部署与集成
+
+📂 **项目代码**：👉 [`/marker_mapper`](https://github.com/Kevin-LI-02/Haojie-Kevin-LI/tree/main/marker_mapper) 
+包含：双目视觉定位模块、ArucoMarker建图、ROS部署代码、部署教程
+
 - **项目展示**：
   
   <div align="center">
