@@ -58,7 +58,7 @@
   - 构建基于PaddleOCR+OpenCV的界面信息解析pipeline
   - 实现屏幕关键状态信息实时提取、结构化解析与报警推送
 
-📂 **项目代码**：👉 [`/EYES-T`](https://github.com/Kevin-LI-02/Haojie-Kevin-LI/tree/main/EYES-T)
+📂 **项目代码**：👉 [`/EYES_T`](https://github.com/Kevin-LI-02/Haojie-Kevin-LI/tree/main/EYES_T)
 包含OCR识别模块、报警推送系统完整实现、部署教程
 
 - **项目展示**：
