@@ -1,7 +1,0 @@
-Parameter,Content
-WeChat Webhook URL,https://qyapi.weixin.qq.com/cgi-bin/webhook/send?key=b05a8fb5-5469-49b1-ad91-7fbc0738eb26
-Receiver Email,eal.bjtu@gmail.com
-Smtp server,smtp.163.com
-Smtp port,465
-Sender email,lihaojie0044@163.com
-Sender password,AQri6kUXQ4tK9nNC
