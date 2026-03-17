@@ -1,0 +1,33 @@
+# AI Assistant 依赖包列表
+# 使用 pip install -r requirements.txt 安装
+
+# Web 框架
+Flask==3.0.0
+flask-cors==4.0.0
+
+# 数据处理
+pandas==2.2.3
+numpy==2.0.1
+
+# 向量数据库
+chromadb==0.4.22
+
+# 文本嵌入
+sentence-transformers==2.3.1
+
+# HTTP 请求
+requests==2.32.3
+
+# 文档处理
+python-docx==1.2.0
+PyMuPDF>=1.19.0
+openpyxl==3.1.5
+
+# 工具库
+python-dateutil==2.9.0
+
+# 注意：
+# 1. Ollama 需要单独安装：https://ollama.ai/
+# 2. 运行前确保 Ollama 服务已启动：ollama serve
+# 3. 下载所需模型：ollama pull llama2
+
