@@ -66,7 +66,7 @@
 ##### 🏗️ EYES-T系统架构图
 ![EYES-T系统架构图](https://github.com/Kevin-LI-02/Haojie-Kevin-LI/raw/main/assets/images/eyes_architecture.png)
 
-##### 🎥 日内瓦展示视频
+##### 🎥 日内瓦展示视频【视频，点击即可跳转查看】
 [![日内瓦展示视频](https://github.com/Kevin-LI-02/Haojie-Kevin-LI/raw/main/assets/images/geneva_cover.png)](https://youtu.be/v1CZFK0PGQE)
 
 ##### 📸 日内瓦发明展现场
@@ -93,7 +93,7 @@
 ##### 🔄 RAG架构图
 ![RAG架构图](https://github.com/Kevin-LI-02/Haojie-Kevin-LI/raw/main/assets/images/rag_architecture.png)
 
-##### 🎥 AI Assistant演示
+##### 🎥 AI Assistant演示【视频，点击即可跳转查看】
 [![AI Assistant演示](https://github.com/Kevin-LI-02/Haojie-Kevin-LI/raw/main/assets/images/ai_assistant_cover.png)](https://youtu.be/mdYtj0TcpKo)
 
 #### 🏆 **项目成果**
@@ -136,16 +136,16 @@
 ##### 🖼️ 双目避障效果图
 ![双目避障效果图](https://github.com/Kevin-LI-02/Haojie-Kevin-LI/raw/main/assets/images/bizhang.jpg)
 
-##### 🎥 三维地图构建
+##### 🎥 三维地图构建【视频，点击即可跳转查看】
 [![三维地图构建](https://github.com/Kevin-LI-02/Haojie-Kevin-LI/raw/main/assets/images/marker_mapper.png)](https://youtu.be/OCBbE1mW5t8)
 
-##### 🎥 水下定位第一视角
+##### 🎥 水下定位第一视角【视频，点击即可跳转查看】
 [![水下定位第一视角](https://github.com/Kevin-LI-02/Haojie-Kevin-LI/raw/main/assets/images/dingwei.png)](https://youtu.be/2mvpK0r1WKU)
 
-##### 🎥 水下目标检测与跟踪
+##### 🎥 水下目标检测与跟踪【视频，点击即可跳转查看】
 [![水下目标检测与跟踪](https://github.com/Kevin-LI-02/Haojie-Kevin-LI/raw/main/assets/images/underwater_detection.png)](https://youtu.be/-q-ojGpyATA)
 
-##### 🎥 航行器自主游动
+##### 🎥 航行器自主游动【视频，点击即可跳转查看】
 [![航行器自主游动](https://github.com/Kevin-LI-02/Haojie-Kevin-LI/raw/main/assets/images/robot_fish.png)](https://youtu.be/oO9jJrEBqqY)
 
 - **论文成果**：机器人领域国际顶会 **IROS论文1篇**
@@ -169,7 +169,7 @@
 - **核心贡献**：融合飞行高度计和激光雷达点云的SLAM建图算法研发
 - **项目展示**：
 
-##### 🎥 SLAM建图动态演示
+##### 🎥 SLAM建图动态演示【视频，点击即可跳转查看】
 [![SLAM建图动态演示](https://github.com/Kevin-LI-02/Haojie-Kevin-LI/raw/main/assets/images/slam.png)](https://youtu.be/RI4ZS93DJ8A)
 
 ---
