@@ -67,20 +67,20 @@
     <table>
       <tr>
         <td align="center">
-          <a href="链接放这里">
-            <img src="链接放这里" width="250"/><br/>
-            🎥 日内瓦展示视频
+          <a href="https://youtu.be/v1CZFK0PGQE" target="_blank">
+            <img src="https://github.com/Kevin-LI-02/Haojie-Kevin-LI/raw/main/assets/images/geneva_cover.png" width="250"/><br/>
+            🎥 日内瓦展示视频（YouTube）
           </a>
         </td>
         <td align="center">
-          <a href="链接放这里">
-            <img src="链接放这里" width="250"/><br/>
+          <a href="https://github.com/Kevin-LI-02/Haojie-Kevin-LI/raw/main/assets/images/eyes_architecture.png">
+            <img src="https://github.com/Kevin-LI-02/Haojie-Kevin-LI/raw/main/assets/images/eyes_architecture.png" width="250"/><br/>
             🏗️ EYES-T系统架构图
           </a>
         </td>
         <td align="center">
-          <a href="链接放这里">
-            <img src="链接放这里" width="250"/><br/>
+          <a href="https://github.com/Kevin-LI-02/Haojie-Kevin-LI/raw/main/assets/images/geneva_photos.png">
+            <img src="https://github.com/Kevin-LI-02/Haojie-Kevin-LI/raw/main/assets/images/geneva_photos.png" width="250"/><br/>
             📸 日内瓦发明展现场
           </a>
         </td>
@@ -107,20 +107,20 @@
     <table>
       <tr>
         <td align="center">
-          <a href="链接放这里">
-            <img src="链接放这里" width="250"/><br/>
-            🤖 AI Assistant截图
+          <a href="https://youtu.be/mdYtj0TcpKo" target="_blank">
+            <img src="https://github.com/Kevin-LI-02/Haojie-Kevin-LI/raw/main/assets/images/ai_assistant_cover.png" width="250"/><br/>
+            🎥 AI Assistant演示（YouTube）
           </a>
         </td>
         <td align="center">
-          <a href="链接放这里">
-            <img src="链接放这里" width="250"/><br/>
+          <a href="https://github.com/Kevin-LI-02/Haojie-Kevin-LI/raw/main/assets/images/ai_assistant_architecture.png">
+            <img src="https://github.com/Kevin-LI-02/Haojie-Kevin-LI/raw/main/assets/images/ai_assistant_architecture.png" width="250"/><br/>
             🏗️ AI Assistant系统架构图
           </a>
         </td>
         <td align="center">
-          <a href="链接放这里">
-            <img src="链接放这里" width="250"/><br/>
+          <a href="https://github.com/Kevin-LI-02/Haojie-Kevin-LI/raw/main/assets/images/rag_architecture.png">
+            <img src="https://github.com/Kevin-LI-02/Haojie-Kevin-LI/raw/main/assets/images/rag_architecture.png" width="250"/><br/>
             🔄 RAG架构图
           </a>
         </td>
@@ -169,26 +169,33 @@
     <table>
       <tr>
         <td align="center">
-          <a href="链接放这里">
-            <img src="链接放这里" width="250"/><br/>
-            🎥 水下检测视频
+          <a href="https://github.com/Kevin-LI-02/Haojie-Kevin-LI/raw/main/assets/videos/underwater_detection.mp4">
+            <img src="https://github.com/Kevin-LI-02/Haojie-Kevin-LI/raw/main/assets/images/bizhang.jpg" width="200"/><br/>
+            🎥 水下目标检测与跟踪
           </a>
         </td>
         <td align="center">
-          <a href="链接放这里">
-            <img src="链接放这里" width="250"/><br/>
-            🗺️ 定位建图视频
+          <a href="https://github.com/Kevin-LI-02/Haojie-Kevin-LI/raw/main/assets/videos/marker_mapping.mp4">
+            <img src="https://github.com/Kevin-LI-02/Haojie-Kevin-LI/raw/main/assets/images/bizhang.jpg" width="200"/><br/>
+            🗺️ 三维地图构建
           </a>
         </td>
         <td align="center">
-          <a href="链接放这里">
-            <img src="链接放这里" width="250"/><br/>
-            📸 实际实验照片
+          <a href="https://github.com/Kevin-LI-02/Haojie-Kevin-LI/raw/main/assets/videos/dingwei.mp4">
+            <img src="https://github.com/Kevin-LI-02/Haojie-Kevin-LI/raw/main/assets/images/bizhang.jpg" width="200"/><br/>
+            📍 水下定位第一视角
+          </a>
+        </td>
+        <td align="center">
+          <a href="https://github.com/Kevin-LI-02/Haojie-Kevin-LI/raw/main/assets/videos/robot_fish.mp4">
+            <img src="https://github.com/Kevin-LI-02/Haojie-Kevin-LI/raw/main/assets/images/bizhang.jpg" width="200"/><br/>
+            🐟 航行器自主游动
           </a>
         </td>
       </tr>
     </table>
   </div>
+
 
 - **论文成果**：机器人领域国际顶会 **IROS论文1篇**
 
@@ -215,15 +222,9 @@
     <table>
       <tr>
         <td align="center">
-          <a href="链接放这里">
-            <img src="链接放这里" width="300"/><br/>
-            🚁 无人机架构展示
-          </a>
-        </td>
-        <td align="center">
-          <a href="链接放这里">
-            <img src="链接放这里" width="300"/><br/>
-            🗺️ SLAM建图动图
+          <a href="https://github.com/Kevin-LI-02/Haojie-Kevin-LI/raw/main/assets/videos/slam.mp4">
+            <img src="https://github.com/Kevin-LI-02/Haojie-Kevin-LI/raw/main/assets/images/bizhang.jpg" width="400"/><br/>
+            🗺️ SLAM建图动态演示
           </a>
         </td>
       </tr>
