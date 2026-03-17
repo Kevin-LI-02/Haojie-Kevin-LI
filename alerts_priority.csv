@@ -1,0 +1,967 @@
+alert text,priority,suggested action 
+Set train dwell and trip time,1,检查列车停站时间设置是否合理，并重新计算行车间隔
+logon,3,3
+Record required command from terminal ADM,1,1
+Record required command from terminal TC2-OCC,3,3
+Record required command from terminal TC3-OCC,3,3
+Set route,3,3
+Enforce stop platform with doors open,3,3
+Set train mission code,3,3
+Old JM0374 (1342614) automatically replaced with JL0391 (0012615),3,3
+Release hold/skip for all trains set at platform TAP_1,3,3
+TGMT stepped JL0408 (1340916) from LBG_C /LBG,3,3
+Throw point to normal position,3,3
+TGMT stepped JM0406 (1343114) from ZV_C /ZV,3,3
+U4: Suspicion mark in rear removed: Proving absence of hidden train,3,3
+TGMT stepped JM0384 (1342514) from FV_A /FV,3,3
+K1: Point machine,3,3
+U205: Time for throw over has expired,3,3
+S517:MVB link ok,3,3
+K2:0BCU_ATO,3,3
+S777:TMS link ok,3,3
+K3:0BCU ITF,3,3
+Hold all trains with door open set at platform SHT_3,3,3
+TGMT stepped JA0390 (1354101) from KV/KV,3,3
+K3:OBCU_ITF,3,3
+K1:OBCU_ATP,3,3
+E7: stopping point missed Count 1,3,3
+U1793: Up to overrun limit,3,3
+E129:Alarm(0BCU_ID: 32803),3,3
+U33027:Violation of platform stopping window,3,3
+TGMT stepped JM0384 (1342514) from FP / FP,3,3
+Hold all trains with door open set at platform NHUH_4,3,3
+Cancel route,3,3
+Hold all trains with door open set at platform ADM_7,3,3
+TGMT stepped JM0387 (0051015) from EL_B / EL,3,3
+S8: Point did not move from right in time,1,检查道岔驱动装置是否正常工作，如有故障立即上报并切换手动模式。
+S8: Point did not move from right in time cleared,3,3
+S9: Point did not move from left in time,1,1
+S9: Point did not move from left in time cleared,3,3
+S10: Right throwing without end position,1,1
+S10: Right throwing without end position cleared,3,3
+S11: Left throwing without end position,1,1
+S11: Left throwing without end position cleared,3,3
+S12: Point machine trailed,1,1
+S12: Point machine trailed cleared,3,3
+S13: Point machine disturbed,1,1
+S13: Point machine disturbed cleared,3,3
+S14: Left position due to trailing,1,1
+S14: Left position due to trailing cleared,3,3
+S15: Right position due to trailing,1,1
+S15: Right position due to trailing cleared,3,3
+S17: Illegal operating mode,1,1
+S17: Illegal operating mode cleared,3,3
+S22: Module switched off,1,1
+S22: Module switched on,3,3
+S25: Connection to point faulty,1,1
+S25: Connection to point ok,3,3
+S26: No indication voltage for indicator 1,1,1
+S26: Indication voltage for indicator 1 ok,3,3
+S27: No indication voltage for indicator 2,1,1
+S27: Indication voltage for indicator 2 ok,3,3
+S28: No indication voltage for indicator 1,1,1
+S28: Indication voltage for indicator 1 ok,3,3
+S29: No indication voltage for indicator 2,1,1
+S29: Indication voltage for indicator 2 ok,3,3
+S30: Position detection not valid,1,1
+S30: Position detected,3,3
+E203: Turn off of control current,1,1
+S0: Lamp failure,2,2
+S0: Lamp failure cleared,3,3
+S5: Block while deleting,2,2
+S5: Block while deleting cleared,3,3
+S9: Main filament disturbed switched to auxiliary filament,3,3
+S9: Main filament ok,3,3
+S12: No test within failure detection time,2,2
+S12: No test within failure detection time cleared,3,3
+S15: Unit deactivated,2,2
+S15: Unit deactivated cleared,3,3
+S18: Power supply failure,2,2
+S18: Power supply failure cleared,3,3
+S19: Unit failure,2,2
+S19: Unit failure cleared,3,3
+S20: Fault in the outer system,2,2
+S20: Fault in the outer system cleared,3,3
+S21: Intercore contact,2,2
+S21: Intercore contact cleared,3,3
+S22: Intercore or module faulty,2,2
+S22: Intercore or module fault cleared,3,3
+S0: Out of Correspondence error message after OoCT,1,1
+S0: Out of Correspondence error message after OoCT cleared,3,3
+S1: TVS detected as 'Never Reporting Block',1,1
+S1: 'Never reporting block' ok,3,3
+S2: TVS detected as 'Always Reporting Block',1,1
+S2: 'Always reporting block' ok,3,3
+Abnormal PSD opening in alarm,1,1
+Abnormal PSD opening no alarm,3,3
+E1: PSD abnormal opening detected on platform track,1,1
+E2: MGF abnormal extended alarm detected on platform track,1,1
+S1: EB applied: serious failure,1,1
+S2: EB applied: speed supervision,1,1
+S3: EB applied: rollback supervision,1,1
+S4: EB applied: doors supervision,1,1
+S5: EB applied: delocalization,1,1
+S6: EB applied: missed main signal balise,1,1
+S11: EB: HW failure: EB-Readback failed,1,1
+Snn: No emergency brake,3,3
+S28: EB: Plateau speed violated,1,1
+S29: EB: POR violated,1,1
+S30: EB: POP violated: OBCU_MAL: CTC: Radio loss (Freshness timeout),1,1
+S31: EB: POP violated: OBCU_MAL: CTC: RAUZ restrictive,1,1
+S32: EB: POP violated: OBCU_MAL: CTC: 'TSR is 0',1,1
+S33: EB: POP violated: OBCU_MAL: CTC: Sig. restr. w. OL supervision,1,1
+S34: EB: POP violated: OBCU_MAL: CTC: Sig.  restr. wo. OL supervision,1,1
+S35: EB: POP violated: OBCU_MAL: CTC: Point restrictive,1,1
+S36: EB: POP violated: OBCU_MAL: CTC: Crossing restrictive,1,1
+S37: EB: POP violated: OBCU_MAL: CTC: Conditional restriction COR,1,1
+S38: EB: POP violated: OBCU_MAL: CTC: ACC without reversal MA,1,1
+S39: EB: POP violated: OBCU_MAL: CTC: Neighb. TDB sect. not available,1,1
+S40: EB: POP violated: OBCU_MAL: CTC: No MA after redund. changeover,1,1
+S41: POP violated: OBCU: No MA after redundancy changeover ,1,1
+S49: EB: POP violated: WCU_MAL: CTC: Undefined WCU_MAL  ,1,1
+S50: EB: POP violated: WCU_MAL: CTC: Zero length WCU_MAL,1,1
+S51: EB: POP violated: WCU_MAL: CTC: Type 'Automatic train' ,1,1
+S52: EB: POP violated: WCU_MAL: CTC: Type 'Manual controlled train',1,1
+S53: EB: POP violated: WCU_MAL: CTC: Type 'Non-reporting train',1,1
+S54: EB: POP violated: WCU_MAL: CTC: Type 'Signal w. OL supervision',1,1
+S55: EB: POP violated: WCU_MAL: CTC: Type 'Signal wo. OL supervision',1,1
+S56: EB: POP violated: WCU_MAL: CTC: Type 'Other IXL condition',1,1
+S57: EB: POP violated: WCU_MAL: CTC: Type 'Points not supervised',1,1
+S58: EB: POP violated: WCU_MAL: CTC: Type 'RAUZ restrictive',1,1
+S59: EB: POP violated: WCU_MAL: CTC: Type 'TSR is 0',1,1
+S60: EB: POP violated: WCU_MAL: CTC: Type WCU_ATP boundary',1,1
+S69: EB: ODO failure,1,1
+S70: EB: ODO failure radar disqualified,1,1
+S71: EB: ODO failure WIG disturbed,1,1
+S72: EB: ODO sensor fusion failure,1,1
+S73: EB: Delocalization due to unknown point position,1,1
+S80: EB: Delocalization due to TDB-Upload,1,1
+S81: EB: Delocalization after redundancy changeover,1,1
+S82: EB: Delocalization due to balise read outside expect. window ,1,1
+S83: EB: Delocalization due to known but unexpected Balise read,1,1
+S84: EB: Delocalization due to BTM failure: (HW failure),1,1
+S85: EB: Delocalization due to BTM failure (OBCU restart request),1,1
+S86: EB: Train consist disrupted,1,1
+S87: EB: Uncertainty interval exceeded ,1,1
+S88: EB: Delocalization due to invalid TDB version of current section,1,1
+S89: Missed main signal Balise,1,1
+S90: Balise: LEU failure (default telegram received),1,1
+S91: Maximum reposition distance exceeded,1,1
+S92: EB: Maximum allowed rollback distance/tolerance exceeded,1,1
+S93: EB: Train doors are open while not at standstill,1,1
+S94: EB: PSDs are open while not at standstill,1,1
+S95: EB: EB due to EB test,1,1
+S96: EB: Conditional Stop (PAD activation),1,1
+S97: EB: Immediate Stop (Emergency push button operated),1,1
+S98: EB: Remote Stop,1,1
+S99: Evacuation in progress,1,1
+S100: EB: RSRM distance is exceeded,1,1
+S101: EB: Forward distance supervision violation in RM,1,1
+S102: EB: Evacuation in progress,1,1
+"S103: EB: Standstill protection, propulsion cut-off is not available",1,1
+S104: EB: Cab activated in RSRM,1,1
+S105: EB: Standstill reached in RSRM,1,1
+S106: EB: Loss of TTS link in RSRM,1,1
+S107: EB: Standstill is left while EB reported by RST during DTRO,1,1
+S109: EB of passive OBCU due to activated EB test 0,1,1
+S8: Point did not move from right in time,3,3
+S8: Point did not move from right in time cleared,3,3
+S9: Point did not move from left in time,3,3
+S9: Point did not move from left in time cleared,3,3
+S10: Right throwing without end position,3,3
+S10: Right throwing without end position cleared,3,3
+S11: Left throwing without end position,3,3
+S11: Left throwing without end position cleared,3,3
+S12: Point machine trailed,3,3
+S12: Point machine trailed cleared,3,3
+S13: Point machine disturbed,3,3
+S13: Point machine disturbed cleared,3,3
+S14: Left position due to trailing,3,3
+S14: Left position due to trailing cleared,3,3
+S15: Right position due to trailing,3,3
+S15: Right position due to trailing cleared,3,3
+S17: Illegal operating mode,3,3
+S17: Illegal operating mode cleared,3,3
+S22: Unit deactivated,3,3
+S22: Unit deactivated cleared,3,3
+S23: Invalid position indication module faulty,3,3
+S23: Invalid position indication module ok,3,3
+S24: Invalid position indication module faulty,3,3
+S24: Invalid position indication module ok,3,3
+S25: Connection to point faulty,3,3
+S25: Connection to point ok,3,3
+S26: No indication voltage for indicator 1,3,3
+S26: Indication voltage for indicator 1 ok,3,3
+S27: No indication voltage for indicator 2,3,3
+S27: Indication voltage for indicator 2 ok,3,3
+S28: No indication voltage for indicator 1,3,3
+S28: Indication voltage for indicator 1 ok,3,3
+S29: No indication voltage for indicator 2,3,3
+S29: Indication voltage for indicator 2 ok,3,3
+S30: Position detection not valid,3,3
+S30: Position detected,3,3
+S31: Error during checkup,3,3
+S31: Error during checkup cleared,3,3
+E100: No daily checkup,3,3
+E200: Error at checkup,3,3
+E201: No checkup,3,3
+E203: Turn off of control current,3,3
+S0: Lamp failure,3,3
+S0: Lamp failure cleared,3,3
+S5: Block while deleting,3,3
+S5: Block while deleting cleared,3,3
+S9: Main filament failed or significant part of LED signal failed,3,3
+S9: Main filament or LED signal ok,3,3
+S12: No test within failure detection time,3,3
+S12: No test within failure detection time cleared,3,3
+S15: Unit deactivated,3,3
+S15: Unit deactivated cleared,3,3
+S18: Power supply failure,3,3
+S18: Power supply failure cleared,3,3
+S19: Unit failure,3,3
+S19: Unit failure cleared,3,3
+S20: Fault in the outer system,3,3
+S20: Fault in the outer system cleared,3,3
+S21: Intercore contact,3,3
+S21: Intercore contact cleared,3,3
+S22: Intercore or module faulty,3,3
+S22: Intercore or module fault cleared,3,3
+E11: No daily checkup,3,3
+E206: Parameter combination inadmissible,3,3
+S0: Out of Correspondence error message after OoCT,3,3
+S0: Out of Correspondence error message after OoCT cleared,3,3
+S1: TVS detected as 'Never Reporting Block',3,3
+S1: 'Never reporting block' ok,3,3
+S2: TVS detected as 'Always Reporting Block',3,3
+S2: 'Always reporting block' ok,3,3
+E1: Plausibility Tracking Inconsistency (LTE ID: nnnnn),3,3
+Abnormal PSD opening in alarm,3,3
+Abnormal PSD opening no alarm,3,3
+E0: Alarm switch check not executed,3,3
+E1: PSD abnormal opening detected on platform track,3,3
+E2: MGF abnormal extended alarm detected on platform track,3,3
+Abnormal MGF extension in alarm,3,3
+Abnormal MGF extension no alarm,3,3
+S10: Faulty digital input (antivalence fault),3,3
+S10: Faulty digital input (antivalence fault) cleared,3,3
+S11: Disturbed,3,3
+S11: Not disturbed,3,3
+S12: Unit deactivated,3,3
+S12: Unit deactivated cleared,3,3
+S13: Oscillating input,3,3
+S13: Oscillating input cleared,3,3
+S1: WCU_TTS busy,3,3
+S1: WCU TTS ok,3,3
+S30: Redundancy loss of adjacent WCU_ATP,3,3
+S30: Redundancy of adjacent WCU_ATP ok,3,3
+S50: Connection loss of adjacent WCU_ATP,3,3
+S50: Connection of adjacent WCU_ATP ok,3,3
+E1: Unknown OBCU (OBCU ID: nnnnn),3,3
+E2: OBCU connected (OBCU ID: nnnnn),3,3
+E3: OBCU released (OBCU ID: nnnnn),3,3
+E4: OBCU rejected (OBCU ID: nnnnn),3,3
+E256: Suspicion mark removed (OBCU ID nnnnn),3,3
+E257: Suspicion mark inserted (OBCU ID: nnnnn),3,3
+S1: Computer failure,3,3
+S1: Computer ok,3,3
+S2: Collective failure,3,3
+S2: Collective ok,3,3
+S255: Connection lost,3,3
+S255: Connection ok,3,3
+E253: Computer information,3,3
+S255: Connection lost,3,3
+S255: Connection ok,3,3
+E254: Redundancy state,3,3
+Z2: Connection XR1 to SR failed,3,3
+Z2: Connection XR1 to SR ok,3,3
+Z3: Connection XR2 to SR failed,3,3
+Z3: Connection XR2 to SR ok,3,3
+Z4: Connection XR1 to Ethernet 1 failed,3,3
+Z4: Connection XR1 to Ethernet 1 ok,3,3
+Z5: Connection XR2 to Ethernet 1 failed,3,3
+Z5: Connection XR2 to Ethernet 1 ok,3,3
+Z6: Connection XR3 to Ethernet 1 failed,3,3
+Z6: Connection XR3 to Ethernet 1 ok,3,3
+Z7: Connection XR4 to Ethernet 1 failed,3,3
+Z7: Connection XR4 to Ethernet 1 ok,3,3
+Z8: Connection XR1 to Ethernet 2 failed,3,3
+Z8: Connection XR1 to Ethernet 2 ok,3,3
+Z9: Connection XR2 to Ethernet 2 failed,3,3
+Z9: Connection XR2 to Ethernet 2 ok,3,3
+Z10: Connection XR3 to Ethernet 2 failed,3,3
+Z10: Connection XR3 to Ethernet 2 ok,3,3
+Z11: Connection XR4 to Ethernet 2 failed,3,3
+Z11: Connection XR4 to Ethernet 2 ok,3,3
+Z20: Connection channel A failed,3,3
+Z20: Connection channel A ok,3,3
+Z21: Connection channel B failed,3,3
+Z21: Connection channel B ok,3,3
+Z25: Connection channel C failed,3,3
+Z25: Connection channel C ok,3,3
+Z26: Connection channel D failed,3,3
+Z26: Connection channel D ok,3,3
+S1: ECC group failure,3,3
+S1: ECC group ok,3,3
+Z1: Interlocking redundancy disturbed,3,3
+Z1: Interlocking redundancy ok,3,3
+General inquiry started,3,3
+General inquiry completed,3,3
+Power supply failure,3,3
+Power supply ok,3,3
+Signal power supply failure,3,3
+Signal power supply ok,3,3
+Point power supply failure,3,3
+Point power supply ok,3,3
+Track circuit power supply failure,3,3
+Track circuit power supply ok,3,3
+Disturbed,3,3
+Not disturbed,3,3
+Earth leakage,3,3
+Earth leakage cleared,3,3
+Battery undervoltage,3,3
+Battery ok,3,3
+Main supply A not available,3,3
+Main supply A available,3,3
+Main supply B not available,3,3
+Main supply B available,3,3
+Main supply A not feeding,3,3
+Main supply A feeding,3,3
+Main supply B not feeding,3,3
+Main supply B feeding,3,3
+Load on bypass,3,3
+Load on inverter,3,3
+Battery operation ,3,3
+Battery not in operation,3,3
+Manual bypass on,3,3
+Manual bypass off,3,3
+UPS failure,3,3
+UPS ok,3,3
+Battery failure,3,3
+Battery ok,3,3
+Overtemperature alarm,3,3
+Overtemperature alarm cleared,3,3
+Bypass in operation,3,3
+Bypass not in operation,3,3
+Main backup feeding failure,3,3
+Main backup feeding ok,3,3
+Fan failure,3,3
+Fan ok,3,3
+Disturbed,3,3
+Not disturbed,3,3
+Activated,3,3
+Reset,3,3
+S11: EB: HW failure: EB-Readback failed,3,3
+S11: No emergency brake,3,3
+S12: EB: FDI procedure in progress,3,3
+S12: No emergency brake,3,3
+S13: EB: WMA synchronisation problem on redundancy changeover,3,3
+S13: No emergency brake,3,3
+S14: EB: Moving with deactivated cabs,3,3
+S14: No emergency brake,3,3
+S15: EB: Moving with two activated cabs,3,3
+S15: No emergency brake,3,3
+S16: EB: Moving while waiting for RM acknowledgment,3,3
+S16: No emergency brake,3,3
+S17: EB: Moving while ACC in progress,3,3
+S17: No emergency brake,3,3
+S19: Moving while incomplete train consist at start-up,3,3
+S19: No emergency brake,3,3
+S20: EB: Moving while TDB-Upload in progress,3,3
+S20: No emergency brake,3,3
+S22: EB: Moving while train consist determination in progress,3,3
+S22: No emergency brake,3,3
+S23: EB: Moving while IO test in progress,3,3
+S23: No emergency brake,3,3
+S24: EB: Moving while switchover to OTC in progress,3,3
+S24: No emergency brake,3,3
+S25: EB: Moving while DDI active,3,3
+S25: No emergency brake,3,3
+S26: EB: Moving while NR responsibility not confirmed,3,3
+S26: No emergency brake,3,3
+S27: EB: Moving while standstill supervision requested by OBCU_ITF,3,3
+S27: No emergency brake,3,3
+S28: EB: Plateau speed violated,3,3
+S28: No emergency brake,3,3
+S29: EB: POR violated,3,3
+S29: No emergency brake,3,3
+S30: EB: POP violated: OBCU_MAL: CTC: Radio loss (Freshness timeout),3,3
+S30: No emergency brake,3,3
+S31: EB: POP violated: OBCU_MAL: CTC: RAUZ restrictive,3,3
+S31: No emergency brake,3,3
+S32: EB: POP violated: OBCU_MAL: CTC: 'TSR is 0',3,3
+S32: No emergency brake,3,3
+S33: EB: POP violated: OBCU_MAL: CTC: Sig. restr. w. OL supervision,3,3
+S33: No emergency brake,3,3
+S34: EB: POP violated: OBCU_MAL: CTC: Sig.  restr. wo. OL supervision,3,3
+S34: No emergency brake,3,3
+S35: EB: POP violated: OBCU_MAL: CTC: Point restrictive,3,3
+S35: No emergency brake,3,3
+S36: EB: POP violated: OBCU_MAL: CTC: Crossing restrictive,3,3
+S36: No emergency brake,3,3
+S37: EB: POP violated: OBCU_MAL: CTC: Conditional restriction COR,3,3
+S37: No emergency brake,3,3
+S38: EB: POP violated: OBCU_MAL: CTC: ACC without reversal MA,3,3
+S38: No emergency brake,3,3
+S39: EB: POP violated: OBCU_MAL: CTC: Neighb. TDB sect. not available,3,3
+S39: No emergency brake,3,3
+S40: EB: POP violated: OBCU_MAL: CTC: No MA after redund. changeover,3,3
+S40: No emergency brake,3,3
+S49: EB: POP violated: WCU_MAL: CTC: Undefined WCU_MAL  ,3,3
+S49: No emergency brake,3,3
+S50: EB: POP violated: WCU_MAL: CTC: Zero length WCU_MAL,3,3
+S50: No emergency brake,3,3
+S51: EB: POP violated: WCU_MAL: CTC: Type 'Automatic train' ,3,3
+S51: No emergency brake,3,3
+S52: EB: POP violated: WCU_MAL: CTC: Type 'Manual controlled train',3,3
+S52: No emergency brake,3,3
+S53: EB: POP violated: WCU_MAL: CTC: Type 'Non-reporting train',3,3
+S53: No emergency brake,3,3
+S54: EB: POP violated: WCU_MAL: CTC: Type 'Signal w. OL supervision',3,3
+S54: No emergency brake,3,3
+S55: EB: POP violated: WCU_MAL: CTC: Type 'Signal wo. OL supervision',3,3
+S55: No emergency brake,3,3
+S56: EB: POP violated: WCU_MAL: CTC: Type 'Other IXL condition',3,3
+S56: No emergency brake,3,3
+S57: EB: POP violated: WCU_MAL: CTC: Type 'Points not supervised',3,3
+S57: No emergency brake,3,3
+S58: EB: POP violated: WCU_MAL: CTC: Type 'RAUZ restrictive',3,3
+S58: No emergency brake,3,3
+S59: EB: POP violated: WCU_MAL: CTC: Type 'TSR is 0',3,3
+S59: No emergency brake,3,3
+S60: EB: POP violated: WCU_MAL: CTC: Type WCU_ATP boundary',3,3
+S60: No emergency brake,3,3
+S62: EB: POP violated: OBCU_MAL: CTC: 'Mode not allowed',3,3
+S62: No emergency brake,3,3
+S63: EB: POP violated: OBCU_MAL: CTC: 'FAO not allowed',3,3
+S63: No emergency brake,3,3
+S69: EB: ODO failure,3,3
+S69: No emergency brake,3,3
+S70: EB: ODO failure radar disqualified,3,3
+S70: No emergency brake,3,3
+S71: EB: ODO failure WIG disturbed,3,3
+S71: No emergency brake,3,3
+S72: EB: ODO sensor fusion failure,3,3
+S72: No emergency brake,3,3
+S73: EB: Delocalization due to unknown point position,3,3
+S73: No emergency brake,3,3
+S80: EB: Delocalization due to TDB-Upload,3,3
+S80: No emergency brake,3,3
+S81: EB: Delocalization after redundancy changeover,3,3
+S81: No emergency brake,3,3
+S82: EB: Delocalization due to balise read outside expect. window ,3,3
+S82: No emergency brake,3,3
+S83: EB: Delocalization due to known but unexpected Balise read,3,3
+S83: No emergency brake,3,3
+S84: EB: Delocalization due to BTM failure: (HW failure),3,3
+S84: No emergency brake,3,3
+S85: EB: Delocalization due to BTM failure (OBCU restart request),3,3
+S85: No emergency brake,3,3
+S86: EB: Train consist disrupted,3,3
+S86: No emergency brake,3,3
+S87: EB: Uncertainty interval exceeded ,3,3
+S87: No emergency brake,3,3
+S88: EB: Delocalization due to invalid TDB version of current section,3,3
+S88: No emergency brake,3,3
+S92: EB: Maximum allowed rollback distance/tolerance exceeded,3,3
+S92: No emergency brake,3,3
+S93: EB: Train doors are open while not at standstill,3,3
+S93: No emergency brake,3,3
+S94: EB: PSDs are open while not at standstill,3,3
+S94: No emergency brake,3,3
+S95: EB: EB due to EB test,3,3
+S95: No emergency brake,3,3
+S96: EB: Conditional Stop (PAD activation),3,3
+S96: No emergency brake,3,3
+S97: EB: Immediate Stop (Emergency push button operated),3,3
+S97: No emergency brake,3,3
+S98: EB: Remote Stop,3,3
+S98: No emergency brake,3,3
+S100: EB: RSRM distance is exceeded,3,3
+S100: No emergency brake,3,3
+S101: EB: Forward distance supervision violation in RMR,3,3
+S101: No emergency brake,3,3
+S102: EB: Evacuation in progress,3,3
+S102: No emergency brake,3,3
+"S103: EB: Standstill protection, propulsion cut-off is not available",3,3
+S103: No emergency brake,3,3
+S104: EB: Cab activated in RSRM,3,3
+S104: No emergency brake,3,3
+S105: EB: Standstill reached in RSRM,3,3
+S105: No emergency brake,3,
+S106: EB: Loss of TTS link in RSRM,3,
+S106: No emergency brake,3,
+S107: EB: Standstill is left while EB reported by RST during DTRO,3,
+S107: No emergency brake,3,
+S109: EB: ATP gets active due to redundancy take over in RSRM,3,
+S109: No emergency brake,3,
+S113: EB: Max number of consecutive rollback EBs exceeded,3,
+S113: No emergency brake,3,
+S114: EB: Max number FW distance violations in RMR exceeded,3,
+S114: No emergency brake,3,
+S120: EB: Moving while cab activation in FAO,3,
+S120: No emergency brake,3,
+S122: EB: Moving while Standstill supervision is activated,3,
+S122: No emergency brake,3,
+S128: EB: EB of passive OBCU,3,
+S128: No emergency brake,3,
+S129: EB: EB on passive OBCU due to EB on an active OBCU,3,
+S129: No emergency brake,3,
+S132: EB: Permanent EB in PM,3,
+S132: No emergency brake,3,
+S133: EB: Permanent EB in NR,3,
+S133: No emergency brake,3,
+E7: Stopping point missed Count nnn,3,
+E9: Low adhesion type n significance n,3,
+E11: Early EB after platform departure,3,
+E14: Mutual Tests Result of OBCU nnnnn,3,
+"E128: Balise Error (OBCU_ID: nnnnn, Balise_ID: nnnnn, Antenna: n)",3,
+E129: Alarm (OBCU_ID: nnnnn),3,
+E130: Button reactivation (OBCU_ID: nnnnn),3,
+E131: Redundancy loss (OBCU_ID: nnnnn),3,
+"E132: ATP or odometry shutdown (OBCU_ID: nnnnn, Shutdown ID: nnnnn)",3,
+E133: NV_MAL / OSP exceeded (OBCU_ID: nnnnn),3,
+E134: Mutual Tests (OBCU_ID: nnnnn),3,
+Detrainment door opened,3,
+Detrainment door closed,3,
+Smoke detected,3,
+No smoke detected,3,
+Passenger Alarm Device activated,3,
+Passenger Alarm Device deactivated,3,
+TMS bogie1 air spring deflated,3,
+TMS bogie1 air spring not deflated,3,
+TMS bogie2 air spring deflated,3,
+TMS bogie2 air spring not deflated,3,
+TMS brake jam detected,3,
+TMS brake jam not detected,3,
+BECU bogie1 not released in speed,3,
+BECU bogie1 released in speed,3,
+BECU bogie2 not released in speed,3,
+BECU bogie2 released in speed,3,
+VCC PWM generator failure 1,3,
+No VCC PWM generator failure 1,3,
+VCC PWM generator failure 2,3,
+No VCC PWM generator failure 2,3,
+C/I PWMFG PWM signal from hardwire failure,3,
+No C/I PWMFG PWM signal from hardwire failure,3,
+VCC pantograph auto-drop detected,3,
+VCC pantograph auto-drop not detected,3,
+S257: Balise receiver device disturbed,3,
+S257: Balise receiver device ok,3,
+S258: Balise transmitter device disturbed,3,
+S258: Balise transmitter device ok,3,
+S259: Balise antenna disturbed,3,
+S259: Balise antenna ok,3,
+S261: Balise antenna cable disturbed,3,
+S261: Balise antenna cable ok,3,
+S263: Power Supply  (24V Balise)  disturbed,3,
+S263: Power Supply  (24V Balise)  ok,3,
+S264: Power Supply (5V Balise) disturbed,3,
+S264: Power Supply (5V Balise) ok,3,
+S265: Balise LBTM device disturbed,3,
+S265: Balise LBTM device ok,3,
+S266: OPG1 disturbed,3,
+S266: OPG1 ok,3,
+S267: OPG2 disturbed,3,
+S267: OPG2 ok,3,
+S268: Radar1 disturbed,3,
+S268: Radar1 ok,3,
+S269: Radar2 disturbed,3,
+S269: Radar2 ok,3,
+S270: ODO5 device disturbed,3,
+S270: ODO5 device ok,3,
+S271: SERIO5L device disturbed,3,
+S271: SERIO5L device ok,3,
+S272: Track data base (TDB) check failed,3,
+S272: Track data base (TDB) check successful,3,
+S273: 1st DIO5 device disturbed,3,
+S273: 1st DIO5 device ok,3,
+S274: 2nd DIO5 device disturbed,3,
+S274: 2nd DIO5 device ok,3,
+S275: 3rd DIO5 device disturbed,3,
+S275: 3rd DIO5 device ok,3,
+S276: 1st SRAUS5 device disturbed,3,
+S276: 1st SRAUS5 device ok,3,
+S277: 2nd SRAUS5 device disturbed,3,
+S277: 2nd SRAUS5 device ok,3,
+S278: EB readback does not fit with EB output,3,
+S278: EB readback ok,3,
+S279: Fan device disturbed,3,
+S279: Fan device ok,3,
+S280: Near cab active input disturbed ,3,
+S280: Near cab active input ok,3,
+S281: Far cab active input disturbed,3,
+S281: Far cab active input ok,3,
+S282: EB vehicle control input disturbed,3,
+S282: EB vehicle control input ok,3,
+S283: Doors closed and locked input disturbed,3,
+S283: Doors closed and locked input ok,3,
+S284: Evacuation request input disturbed,3,
+S284: Evacuation request input ok,3,
+S285: Near Acknowledge button disturbed,3,
+S285: Near Acknowledge button ok,3,
+S286: Near ATO release disturbed,3,
+S286: Near ATO release ok,3,
+S287: Near ATO start button disturbed,3,
+S287: Near ATO start button ok,3,
+S288: Train integrity input disturbed,3,
+S288: Train integrity input ok,3,
+S289: EB internal readback input disturbed,3,
+S289: EB internal readback input ok,3,
+S290: Fan input disturbed,3,
+S290: Fan input ok,3,
+S291: Conditional stop input disturbed,3,
+S291: Conditional stop input ok,3,
+S292: Immediate stop input disturbed,3,
+S292: Immediate stop input ok,3,
+S293: Redundancy status 2 input disturbed,3,
+S293: Redundancy status 2 input ok,3,
+S294: Redundancy status 1 input disturbed,3,
+S294: Redundancy status 1 input ok,3,
+S299: OTC input disturbed,3,
+S299: OTC input ok,3,
+S300: Far acknowledge button disturbed,3,
+S300: Far Acknowledge button ok,3,
+S301: Far ATO release disturbed,3,
+S301: Far ATO release ok,3,
+S302: Far ATO start button disturbed,3,
+S302: Far ATO start button ok,3,
+S305: Remote inputs disturbed,3,
+S305: Remote inputs ok,3,
+S306: Autocalibration warning OPG1,3,
+S306: Autocalibration warning OPG1 ok,3,
+S307: Autocalibration reaction OPG1,3,
+S307: Autocalibration reaction OPG1 ok,3,
+S308: Autocalibration warning OPG2,3,
+S308: Autocalibration warning OPG2 ok,3,
+S309: Autocalibration reaction OPG2,3,
+S309: Autocalibration reaction OPG2 ok,3,
+S310: Near enforce RM switch disturbed,3,
+S310: Near enforce RM switch ok,3,
+S311: Far enforce RM switch disturbed,3,
+S311: Far enforce RM switch ok,3,
+S312: Readback propulsion release input disturbed,3,
+S312: Readback propulsion release input ok,3,
+S315: Smoke detection input disturbed,3,
+S315: Smoke Detection input ok,3,
+S316: Detrainment door closed and locked indication input disturbed,3,
+S316: Detrainment door closed and locked indication input ok,3,
+S319: Fan input disturbed,3,
+S319: Fan input ok,3,
+S320: Bad accuracy for OPG 1,3,
+S320: Accuracy for OPG 1 ok,3,
+S321: Bad accuracy for OPG 2,3,
+S321: Accuracy for OPG 2 ok,3,
+S322: Crosstalk detected,3,
+S322: Crosstalk ok,3,
+S323: Safety proving circuit input disturbed,3,
+S323: Safety proving circuit input ok,3,
+S329: Sleep status input disturbed,3,
+S329: Sleep status input ok,3,
+S330: Train ready input disturbed,3,
+S330: Train ready input ok,3,
+S331: BTM plausibility check failed,3,
+S331: BTM plausibility check ok,3,
+S348: Propulsion release readback does not fit to output,3,
+S348: Propulsion release readback ok,3,
+S513: ATO not available (Fault status: n),3,
+S513: ATO available,3,
+S514: ATO track data base (TDB) check failed (Fault status: n),3,
+S514: ATO track data base (TDB) check ok,3,
+S515: ITF / ATP link failed (Fault status: n),3,
+S515: ITF / ATP link ok,3,
+S516: F401 module disturbed (Fault status: n),3,
+S516: F401 module disturbed ok,3,
+S517: MVB link error detected (Fault status: n),3,
+S517: MVB link ok,3,
+S769: CPU device disturbed (Fault status: n),3,
+S769: CPU device ok,3,
+S770: SERIAL board disturbed (Fault status: n),3,
+S770: SERIAL board ok,3,
+S773: Sudden power down (Fault status: n),3,
+S773: Power ok,3,
+S774: ATP link disturbed (Link status: n),3,
+S774: ATP link ok,3,
+S775: ATO link disturbed (Link status: n),3,
+S775: ATO link ok,3,
+S776: Neighbor OBCU link disturbed (Link status: n),3,
+S776: Neighbour OBCU link ok,3,
+S777: TMS link disturbed,3,
+S777: TMS link ok,3,
+S778: Near HMI link disturbed (Link status: n),3,
+S778: Near HMI link ok,3,
+S779: Far HMI link disturbed (Link status: n),3,
+S779: Far HMI link ok,3,
+S780: Track data base (TDB) check failed (Fault status: n),3,
+S780: Track data base (TDB) check ok,3,
+S782: Near RCS TU link disturbed (Link status: n),3,
+S782: Near RCS TU link ok,3,
+S783: Far RCS TU link disturbed (Link status: n),3,
+S783: Far RCS TU link ok,3,
+S784: RCS TU gateway A link disturbed (Link status: n),3,
+S784: RCS TU gateway A link ok,3,
+S785: RCS TU gateway B link disturbed (Link status: n),3,
+S785: RCS TU gateway B link ok,3,
+S786: OCN?A failure (Link status: n),3,
+S786: OCN?A failure ok,3,
+S787: OCN?B failure (Link status: n),3,
+S787: OCN?B failure ok,3,
+S1025: HMI_A1 - OBCU_A1 connection failure - OCN A (Link status: n),3,
+S1025: HMI_A1 - OBCU_A1 connection failure - OCN A Link ok,3,
+S1026: HMI_A1 - OBCU_A1 connection failure - OCN B (Link status: n),3,
+S1026: HMI_A1 - OBCU_A1 connection failure - OCN B Link ok,3,
+S1027: HMI_A1 - OBCU_A2 connection failure - OCN A (Link status: n),3,
+S1027: HMI_A1 - OBCU_A2 connection failure - OCN A Link ok,3,
+S1028: HMI_A1 - OBCU_A2 connection failure - OCN B (Link status: n),3,
+S1028: HMI_A1 - OBCU_A2 connection failure - OCN B Link ok,3,
+S1029: HMI_A2 - OBCU_A1 connection failure - OCN A (Link status: n),3,
+S1029: HMI_A2 - OBCU_A1 connection failure - OCN A Link ok,3,
+S1030: HMI_A2 - OBCU_A1 connection failure - OCN B (Link status: n),3,
+S1030: HMI_A2 - OBCU_A1 connection failure - OCN B Link ok,3,
+S1031: HMI_A2 - OBCU_A2 connection failure - OCN A (Link status: n),3,
+S1031: HMI_A2 - OBCU_A2 connection failure - OCN A Link ok,3,
+S1032: HMI_A2 - OBCU_A2 connection failure - OCN B (Link status: n),3,
+S1032: HMI_A2 - OBCU_A2 connection failure - OCN B Link ok,3,
+S1033: HMI A1: Host controller communication error (Status: n),3,
+S1033: HMI A1: Host controller communication ok,3,
+S1034: HMI A1: Temperature warning (Status: n),3,
+S1034: HMI A1: Temperature ok,3,
+S1035: HMI A1: Temperature exceeded 闂?TFT is switched off (Status: n),3,
+S1035: HMI A1: Temperature exceeded 闂?TFT is switched on,3,
+S1036: HMI A1: Temperature exceeded 闂?HMI is switched off (Status: n),3,
+S1036: HMI A1: Temperature exceeded 闂?HMI is switched on,3,
+S1037: HMI A1: General error (Status: n),3,
+S1037: HMI A1: No general error ,3,
+S1038: HMI A2: Host controller communication error (Status: n),3,
+S1038: HMI A2: Host controller communication ok,3,
+S1039: HMI A2: Temperature warning (Status: n),3,
+S1039: HMI A2: Temperature ok,3,
+S1040: HMI A2: Temperature exceeded 闂?TFT is switched off (Status: n),3,
+S1040: HMI A2: Temperature exceeded 闂?TFT is switched on,3,
+S1041: HMI A2: Temperature exceeded 闂?HMI is switched off (Status: n),3,
+S1041: HMI A2: Temperature exceeded 闂?HMI is switched on,3,
+S1042: HMI A2: General error (Status: n),3,
+S1042: HMI A2: No genaral error,3,
+Level crossing power failed,3,
+Level crossing power ok,3,
+Level crossing failed,3,
+Level crossing ok,3,
+UCR request and XYSR acknowledge for UP track inconsistent,3,
+UCR request and XYSR acknowledge for UP track ok,3,
+UCR request and XYSR acknowledge for DOWN track inconsistent,3,
+UCR request and XYSR acknowledge for DOWN track ok,3,
+UCR request and XYSR acknowledge for Depot Track inconsistent,3,
+UCR request and XYSR acknowledge for Depot Track ok,3,
+Remote Local Control status inconsistent,3,
+Remote Local Control status ok,3,
+Track Circuit Interrupter status undefined,3,
+Track Circuit Interrupter broken,3,
+Track Circuit Interrupter not broken,3,
+Lamp 1 proving failure,3,
+Lamp 1 proving ok,3,
+Lamp 2 proving failure,3,
+Lamp 2 proving ok,3,
+Lamp 3 proving failure,3,
+Lamp 3 proving ok,3,
+"Suppressor magnet active, inconsistent read back detected",3,
+"Suppressor magnet active, read back ok",3,
+"Suppressor magnet inactive, inconsistent read back detected",3,
+"Suppressor magnet inactive, read back ok",3,
+"Electro magnet active, inconsistent read back detected",3,
+"Electro magnet active, read back ok",3,
+"Electro magnet inactive, inconsistent read back detected",3,
+"Electro magnet inactive, read back ok",3,
+S10: Unit deactivated,3,
+S10: Unit deactivated cleared,3,
+E1: Unit deactivated,3,
+E2: Read back error,3,
+S0: Supervised condition failure,3,
+S0: Supervised condition ok,3,
+S1: Supervised condition 1 failure,3,
+S1: Supervised condition 1 ok,3,
+S2: Supervised condition 2 failure,3,
+S2: Supervised condition 2 ok,3,
+S3: Supervised condition 3 failure,3,
+S3: Supervised condition 3 ok,3,
+S4: Supervised condition 4 failure,3,
+S4: Supervised condition 4 ok,3,
+S5: Supervised condition 5 failure,3,
+S5: Supervised condition 5 ok,3,
+S6: Supervised condition 6 failure,3,
+S6: Supervised condition 6 ok,3,
+S7: Supervised condition 7 failure,3,
+S7: Supervised condition 7 ok,3,
+S8: Supervised condition 8 failure,3,
+S8: Supervised condition 8 ok,3,
+S9: Supervised condition 9 failure,3,
+S9: Supervised condition 9 ok,3,
+S10: Supervised condition 10 failure,3,
+S10: Supervised condition 10 ok,3,
+S11: Supervised condition 11 failure,3,
+S11: Supervised condition 11 ok,3,
+S12: Supervised condition 12 failure,3,
+S12: Supervised condition 12 ok,3,
+S13: Supervised condition 13 failure,3,
+S13: Supervised condition 13 ok,3,
+S14: Supervised condition 14 failure,3,
+S14: Supervised condition 14 ok,3,
+S15: Supervised condition 15 failure,3,
+S15: Supervised condition 15 ok,3,
+S16: Supervised condition 16 failure,3,
+S16: Supervised condition 16 ok,3,
+APG/PSD opening failure,3,
+APG/PSD opening ok,3,
+APG/PSD closing failure,3,
+APG/PSD closing ok,3,
+MGF extension failure,3,
+MGF extension ok,3,
+MGF retraction failure,3,
+MGF retraction ok,3,
+MGF Override key switch stuck,3,
+MGF Override key switch not stuck,3,
+MGF status override active,3,
+MGF status override not active,3,
+Key at signal switched to position SIGNAL NORMAL,3,
+Key at signal switched to position SIGNAL AT RED,3,
+Key at platform switched to position SIGNAL NORMAL,3,
+Key at platform switched to position SIGNAL AT RED,3,
+Floodgate not normal,3,
+Floodgate normal,3,
+Emergency override active,3,
+Emergency override not active,3,
+Main filament YE2 failed,3,
+Main filament YE2 ,3,
+FAO key switch stuck undefined,3,
+FAO key switch stuck,3,
+FAO key switch not stuck,3,
+Activated,3,
+Deactivated,3,
+SW status: not connected,3,
+SW status: active,3,
+SW status: stand-by,3,
+SW status: run-up,3,
+Connection channel 1 failed,3,
+Connection channel 1 ok,3,
+Connection channel 2 failed,3,
+Connection channel 2 ok,3,
+Not all functions available,3,
+All functions available,3,
+Disturbed,3,
+Not disturbed,3,
+Offline,3,
+Online,3,
+Hard disk: High occupancy level,3,
+Hard disk: Normal occupancy level,3,
+Hard disk: Critical occupancy level,3,
+Hard disk: Uncritical occupancy level,3,
+Control area not observed,3,
+Control area observed,3,
+System status disturbed,3,
+System status not disturbed,3,
+System status disturbed,3,
+System status not disturbed,3,
+System status disturbed,3,
+System status not disturbed,3,
+Disturbed,3,
+Not disturbed,3,
+OHL section de-energized,3,
+OHL section energized,3,
+One-channelled,3,
+Multi-channelled,3,
+Both channels not available,3,
+Both channels not available 2,3,
+Channel state A unknown,3,
+Channel A ok,3,
+Channel A disturbed,3,
+Channel state B unknown,3,
+Channel B ok,3,
+Channel B disturbed,3,
+xxnnnn (nnnnnnn) inserted by Xnn,3,
+xxnnnn (nnnnnnn)  deleted by Xnn,3,
+Old xxnnnn (nnnnnnn) replaced with xxnnnn (nnnnnnn) by Xnn,3,
+xxnnnn (nnnnnnn) switched to position n (from n) by Xnn,3,
+xxnnnn  (nnnnnnn) stepped from iii Tnnnn by Xnn,3,
+xxnnnn  (nnnnnnn) changed train direction to dddd by Xnn,3,
+xxnnnn  (nnnnnnn) train marked as attended by Xnn,3,
+xxnnnn  (nnnnnnn) train marked as non-attended by Xnn,3,
+Depot exit:  xxnnnn (nnnnnnn) replaced with xxnnnn (nnnnnnn) ,3,
+Depot entry:  xxnnnn (nnnnnnn) replaced with xxnnnn (nnnnnnn) ,3,
+Spurious train FFnnnn (Fnnnnnn) generated,3,
+xxnnnn (nnnnnnn) passed red signal iiii Snnnn,3,
+Old xxnnnn (nnnnnnn) automatically replaced with xxnnnn (nnnnnnn),3,
+xxnnnn (nnnnnnn) automatically inserted,3,
+xxnnnn (nnnnnnn) automatically deleted,3,
+TGMT stepped xxnnnn (nnnnnnn)  from Tnnnn,3,
+TGMT enter xxnnnn (nnnnnnn) with nnnn,3,
+Auto TD assignment: xxnnnn (nnnnnnn) replaced with xxnnnn (nnnnnnn),3,
+Auto TD assignment of xxnnnn (nnnnnnn) unsuccessful,3,
+xxnnnn (nnnnnnn) not controllable,3,
+Just now route setting not possible for xxnnnn (nnnnnnn),3,
+Route cannot be set for xxnnnn (nnnnnnn) due to long term obstacle,3,
+Interlocking refused route setting for xxnnnn (nnnnnnn),3,
+Destination track not scheduled for xxnnnn (nnnnnnn),3,
+Activation distance impassable ,3,
+No train length category for this number of cars,3,
+Junction mode: Priority for IC Through train activated by Xnn,3,
+Junction mode: Priority for IC Through train deactivated by Xnn,3,
+Junction mode: Route setting not possible for xxnnnn (nnnnnnn),3,
+ATR switched to manual regulation for all trains,3,
+ATR switched to timetable regulation for all trains,3,
+ATR switched to service recovery regulation for all trains,3,
+ATR switched to headway regulation for all trains,3,
+ATR switched to manual regulation for train xxnnnn (nnnnnnn),3,
+ATR switched to timetable regulation for train xxnnnn (nnnnnnn),3,
+Dwell time for all trains at platform sss_p set to nnnn s,3,
+Dwell time for train xxnnnn (nnnnnnn) at platform sss_p set to nnnn s,3,
+Travelling time for all trains from platform sss_p to platform sss_p set to nnnn s ,3,
+Travelling time for train xxnnnn (nnnnnnn) from platform sss_p to platform sss_p set to nnnn s ,3,
+Hold set at all platforms,3,
+Release hold/skip set at all platforms,3,
+Hold all trains with door open set at platform sss_p,3,
+Skip all trains set at platform sss_p,3,
+Release hold/skip for all trains set at platform sss_p,3,
+Hold all trains with door close set at platform sss_p,3,
+Hold with door open set for xxnnnn (nnnnnnn) at platform sss_p,3,
+Skip set for xxnnnn (nnnnnn) at platform sss_p,3,
+Automatic skip set for xxnnnn (nnnnnn) at platform sss_p,3,
+Release hold/skip for xxnnnn (nnnnnn) set at platform sss_p,3,
+Hold with door close set for xxnnnn (nnnnnnn) at platform sss_p,3,
+Timetable preselection changed for dd,3,
+New timetable loaded manually for 24 hours: ttttttttttttttttttt,3,
+New timetable loaded manually for 48 hours: ttttttttttttttttttt,3,
+Timetable generation for auto reformation activated,3,
+Timetable ttttttttttttttttttt modified by tttttttttt,3,
+Failed timetable modification on ttttttttttttttttttt by tttttttttt,3,
+New timetable loaded automatically for 24 hours: ttttttttttttttttttt,3,
+New timetable loaded automatically for 48 hours: ttttttttttttttttttt,3,
+Failed to activate timetable generation for auto reformation,3,
+xxnnnn (nnnnnnn) not in timetable,3,
+Number of available preselections low,3,
+Loading of timetable failed: ttttttttttttttttttt,3,
+Failed to change timetable preselection for dd,3,
+No recording possible on PC-COM ,3,
+Recording is running again on PC-COM,3,
+Noise reduction activated for NR_nnnnnn,3,
+Unable to activate noise reduction for NR_nnnnnn,3,
+Noise reduction deactivated for NR_nnnnnn,3,
+Unable to deactivate noise reduction for NR_nnnnnn,3,
+Noise reduction NR_nnnnnn defined,3,
+Noise reduction NR_nnnnnn modified,3,
+Noise reduction NR_nnnnnn deleted,3,
+"NR_nnnnnn is in conflict, smaller value nnn remains active",3,
+Responsibility resp activated,3,
+Responsibility resp deactivated,3,
+Access right accr activated,3,
+Access right accr deactivated,3,
+Username logon,3,
+Username logoff,3,
+User administration data changed Username by Xnn,3,
+Automatic TSR delayed to prevent EB,3,
+Automatic TSR: broken rail resolved,3,
+Override of automatic TSR on TVS nnnn,3,
+Change automatic TSR to nnn km/h on TVS nnnn,3,
+Cancel override of automatic TSR on TVS nnnn,3,
+Default automatic TSR value changed to nnn km/h,3,
+Detection technology of TVS nnnn changed to TechnologyType,3,
+TVS configuration imported from file FileName,3,
+TVS configuration exported to file FileName,3,
+Automatic TSR removed by interlocking on TVS nnnn,3,
