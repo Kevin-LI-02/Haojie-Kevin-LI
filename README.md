@@ -62,31 +62,15 @@
 包含OCR识别模块、报警推送系统完整实现、部署教程
 
 - **项目展示**：
-  
-  <div align="center">
-    <table>
-      <tr>
-        <td align="center">
-          <a href="https://youtu.be/v1CZFK0PGQE" target="_blank">
-            <img src="https://github.com/Kevin-LI-02/Haojie-Kevin-LI/raw/main/assets/images/geneva_cover.png" width="250"/><br/>
-            🎥 日内瓦展示视频（YouTube）
-          </a>
-        </td>
-        <td align="center">
-          <a href="https://github.com/Kevin-LI-02/Haojie-Kevin-LI/raw/main/assets/images/eyes_architecture.png">
-            <img src="https://github.com/Kevin-LI-02/Haojie-Kevin-LI/raw/main/assets/images/eyes_architecture.png" width="250"/><br/>
-            🏗️ EYES-T系统架构图
-          </a>
-        </td>
-        <td align="center">
-          <a href="https://github.com/Kevin-LI-02/Haojie-Kevin-LI/raw/main/assets/images/geneva_photos.png">
-            <img src="https://github.com/Kevin-LI-02/Haojie-Kevin-LI/raw/main/assets/images/geneva_photos.png" width="250"/><br/>
-            📸 日内瓦发明展现场
-          </a>
-        </td>
-      </tr>
-    </table>
-  </div>
+
+##### 🏗️ EYES-T系统架构图
+![EYES-T系统架构图](https://github.com/Kevin-LI-02/Haojie-Kevin-LI/raw/main/assets/images/eyes_architecture.png)
+
+##### 🎥 日内瓦展示视频
+[![日内瓦展示视频](https://github.com/Kevin-LI-02/Haojie-Kevin-LI/raw/main/assets/images/geneva_cover.png)](https://youtu.be/v1CZFK0PGQE)
+
+##### 📸 日内瓦发明展现场
+![日内瓦发明展现场](https://github.com/Kevin-LI-02/Haojie-Kevin-LI/raw/main/assets/images/geneva_photos.png)
 
 #### 📌 **智能运维助手 AI Assistant**
 - **技术栈**：`RAG` `LLM` `LangChain` `知识库构建`
@@ -101,32 +85,16 @@
 📂 **项目代码**：👉 [`/AI_Assistant`](https://github.com/Kevin-LI-02/Haojie-Kevin-LI/tree/main/AI_Assistant)  
 包含：RAG检索系统、ChromaDB知识库构建、Qwen2.5-7B本地部署、Flask Web服务、部署教程
 
-- **成果展示**：
-  
-  <div align="center">
-    <table>
-      <tr>
-        <td align="center">
-          <a href="https://youtu.be/mdYtj0TcpKo" target="_blank">
-            <img src="https://github.com/Kevin-LI-02/Haojie-Kevin-LI/raw/main/assets/images/ai_assistant_cover.png" width="250"/><br/>
-            🎥 AI Assistant演示（YouTube）
-          </a>
-        </td>
-        <td align="center">
-          <a href="https://github.com/Kevin-LI-02/Haojie-Kevin-LI/raw/main/assets/images/ai_assistant_architecture.png">
-            <img src="https://github.com/Kevin-LI-02/Haojie-Kevin-LI/raw/main/assets/images/ai_assistant_architecture.png" width="250"/><br/>
-            🏗️ AI Assistant系统架构图
-          </a>
-        </td>
-        <td align="center">
-          <a href="https://github.com/Kevin-LI-02/Haojie-Kevin-LI/raw/main/assets/images/rag_architecture.png">
-            <img src="https://github.com/Kevin-LI-02/Haojie-Kevin-LI/raw/main/assets/images/rag_architecture.png" width="250"/><br/>
-            🔄 RAG架构图
-          </a>
-        </td>
-      </tr>
-    </table>
-  </div>
+- **项目展示**：
+
+##### 🏗️ AI Assistant系统架构图
+![AI Assistant系统架构图](https://github.com/Kevin-LI-02/Haojie-Kevin-LI/raw/main/assets/images/ai_assistant_architecture.png)
+
+##### 🔄 RAG架构图
+![RAG架构图](https://github.com/Kevin-LI-02/Haojie-Kevin-LI/raw/main/assets/images/rag_architecture.png)
+
+##### 🎥 AI Assistant演示
+[![AI Assistant演示](https://github.com/Kevin-LI-02/Haojie-Kevin-LI/raw/main/assets/images/ai_assistant_cover.png)](https://youtu.be/mdYtj0TcpKo)
 
 #### 🏆 **项目成果**
 - 🥈 日内瓦国际发明展 **银奖**（学生第一发明人）
@@ -165,36 +133,20 @@
 
 - **项目展示**：
 
-<div align="center">
-  <table>
-    <tr>
-      <td align="center">
-        <a href="https://github.com/Kevin-LI-02/Haojie-Kevin-LI/raw/main/assets/videos/underwater_detection.mp4">
-          <img src="https://github.com/Kevin-LI-02/Haojie-Kevin-LI/raw/main/assets/images/video_placeholder.png" width="200" style="background: #f0f0f0; padding: 20px;"/><br/>
-          ▶️ 水下目标检测与跟踪
-        </a>
-      </td>
-      <td align="center">
-        <a href="https://github.com/Kevin-LI-02/Haojie-Kevin-LI/raw/main/assets/videos/marker_mapping.mp4">
-          <img src="https://github.com/Kevin-LI-02/Haojie-Kevin-LI/raw/main/assets/images/video_placeholder.png" width="200" style="background: #f0f0f0; padding: 20px;"/><br/>
-          ▶️ 三维地图构建
-        </a>
-      </td>
-      <td align="center">
-        <a href="https://github.com/Kevin-LI-02/Haojie-Kevin-LI/raw/main/assets/videos/dingwei.mp4">
-          <img src="https://github.com/Kevin-LI-02/Haojie-Kevin-LI/raw/main/assets/images/video_placeholder.png" width="200" style="background: #f0f0f0; padding: 20px;"/><br/>
-          ▶️ 水下定位第一视角
-        </a>
-      </td>
-      <td align="center">
-        <a href="https://github.com/Kevin-LI-02/Haojie-Kevin-LI/raw/main/assets/videos/robot_fish.mp4">
-          <img src="https://github.com/Kevin-LI-02/Haojie-Kevin-LI/raw/main/assets/images/video_placeholder.png" width="200" style="background: #f0f0f0; padding: 20px;"/><br/>
-          ▶️ 航行器自主游动
-        </a>
-      </td>
-    </tr>
-  </table>
-</div>
+##### 🖼️ 双目避障效果图
+![双目避障效果图](https://github.com/Kevin-LI-02/Haojie-Kevin-LI/raw/main/assets/images/bizhang.jpg)
+
+##### 🎥 三维地图构建
+[![三维地图构建](https://github.com/Kevin-LI-02/Haojie-Kevin-LI/raw/main/assets/images/marker_mapper.png)](https://youtu.be/OCBbE1mW5t8)
+
+##### 🎥 水下定位第一视角
+[![水下定位第一视角](https://github.com/Kevin-LI-02/Haojie-Kevin-LI/raw/main/assets/images/dingwei.png)](https://youtu.be/2mvpK0r1WKU)
+
+##### 🎥 水下目标检测与跟踪
+[![水下目标检测与跟踪](https://github.com/Kevin-LI-02/Haojie-Kevin-LI/raw/main/assets/images/underwater_detection.png)](https://youtu.be/-q-ojGpyATA)
+
+##### 🎥 航行器自主游动
+[![航行器自主游动](https://github.com/Kevin-LI-02/Haojie-Kevin-LI/raw/main/assets/images/robot_fish.png)](https://youtu.be/oO9jJrEBqqY)
 
 - **论文成果**：机器人领域国际顶会 **IROS论文1篇**
 
@@ -217,12 +169,9 @@
 - **核心贡献**：融合飞行高度计和激光雷达点云的SLAM建图算法研发
 - **项目展示**：
 
-<div align="center">
-  <a href="https://github.com/Kevin-LI-02/Haojie-Kevin-LI/raw/main/assets/videos/slam.mp4">
-    <img src="https://github.com/Kevin-LI-02/Haojie-Kevin-LI/raw/main/assets/images/video_placeholder.png" width="400" style="background: #f0f0f0; padding: 40px;"/><br/>
-    ▶️ SLAM建图动态演示
-  </a>
-</div>
+##### 🎥 SLAM建图动态演示
+[![SLAM建图动态演示](https://github.com/Kevin-LI-02/Haojie-Kevin-LI/raw/main/assets/images/slam.png)](https://youtu.be/RI4ZS93DJ8A)
+
 ---
 
 ## 📄 科研成果
