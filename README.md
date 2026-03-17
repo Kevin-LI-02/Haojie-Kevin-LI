@@ -168,34 +168,29 @@
   <div align="center">
     <table>
       <tr>
-        <td align="center">
-          <a href="https://github.com/Kevin-LI-02/Haojie-Kevin-LI/raw/main/assets/videos/underwater_detection.mp4">
-            <img src="https://github.com/Kevin-LI-02/Haojie-Kevin-LI/raw/main/assets/images/bizhang.jpg" width="200"/><br/>
-            🎥 水下目标检测与跟踪
-          </a>
+        <td align="center" width="25%">
+          <video src="https://github.com/Kevin-LI-02/Haojie-Kevin-LI/raw/main/assets/videos/underwater_detection.mp4" width="100%" controls preload="metadata"></video>
+          <br/>
+          🎥 水下目标检测与跟踪
         </td>
-        <td align="center">
-          <a href="https://github.com/Kevin-LI-02/Haojie-Kevin-LI/raw/main/assets/videos/marker_mapping.mp4">
-            <img src="https://github.com/Kevin-LI-02/Haojie-Kevin-LI/raw/main/assets/images/bizhang.jpg" width="200"/><br/>
-            🗺️ 三维地图构建
-          </a>
+        <td align="center" width="25%">
+          <video src="https://github.com/Kevin-LI-02/Haojie-Kevin-LI/raw/main/assets/videos/marker_mapping.mp4" width="100%" controls preload="metadata"></video>
+          <br/>
+          🗺️ 三维地图构建
         </td>
-        <td align="center">
-          <a href="https://github.com/Kevin-LI-02/Haojie-Kevin-LI/raw/main/assets/videos/dingwei.mp4">
-            <img src="https://github.com/Kevin-LI-02/Haojie-Kevin-LI/raw/main/assets/images/bizhang.jpg" width="200"/><br/>
-            📍 水下定位第一视角
-          </a>
+        <td align="center" width="25%">
+          <video src="https://github.com/Kevin-LI-02/Haojie-Kevin-LI/raw/main/assets/videos/dingwei.mp4" width="100%" controls preload="metadata"></video>
+          <br/>
+          📍 水下定位第一视角
         </td>
-        <td align="center">
-          <a href="https://github.com/Kevin-LI-02/Haojie-Kevin-LI/raw/main/assets/videos/robot_fish.mp4">
-            <img src="https://github.com/Kevin-LI-02/Haojie-Kevin-LI/raw/main/assets/images/bizhang.jpg" width="200"/><br/>
-            🐟 航行器自主游动
-          </a>
+        <td align="center" width="25%">
+          <video src="https://github.com/Kevin-LI-02/Haojie-Kevin-LI/raw/main/assets/videos/robot_fish.mp4" width="100%" controls preload="metadata"></video>
+          <br/>
+          🐟 航行器自主游动
         </td>
       </tr>
     </table>
   </div>
-
 
 - **论文成果**：机器人领域国际顶会 **IROS论文1篇**
 
@@ -219,18 +214,10 @@
 - **项目展示**：
   
   <div align="center">
-    <table>
-      <tr>
-        <td align="center">
-          <a href="https://github.com/Kevin-LI-02/Haojie-Kevin-LI/raw/main/assets/videos/slam.mp4">
-            <img src="https://github.com/Kevin-LI-02/Haojie-Kevin-LI/raw/main/assets/images/bizhang.jpg" width="400"/><br/>
-            🗺️ SLAM建图动态演示
-          </a>
-        </td>
-      </tr>
-    </table>
+    <video src="https://github.com/Kevin-LI-02/Haojie-Kevin-LI/raw/main/assets/videos/slam.mp4" width="80%" controls preload="metadata"></video>
+    <br/>
+    🗺️ SLAM建图动态演示
   </div>
-
 ---
 
 ## 📄 科研成果
