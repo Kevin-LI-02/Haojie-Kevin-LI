@@ -19,26 +19,27 @@
 
 ---
 
-## 🛠️ 技术能力矩阵
+## 🛠️ 技术能力
 
-```python
-class LiHaojie:
-    def __init__(self):
-        self.languages = ["Python", "C++", "MATLAB"]
-        self.frameworks = {
-            "cv": ["OpenCV", "PaddleOCR", "YOLOv8", "MobileNet/HRNet"],
-            "robotics": ["ROS", "SLAM", "Jetson Nano", "STM32", "Arduino"],
-            "llm": ["RAG", "LangChain", "Prompt Engineering"]
-        }
-        self.tools = ["Linux", "Git", "Docker", "LaTeX"]
-        self.skills = ["数据闭环构建", "CornerCase挖掘", "技术文档写作", "专利撰写"]
-    
-    def daily_routine(self):
-        while True:
-            self.teach_robots_to_see()
-            self.optimize_models()
-            self.write_papers_or_patents()
-```
+<div align="center">
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white)
+
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![PaddleOCR](https://img.shields.io/badge/PaddleOCR-013243?style=for-the-badge&logo=paddlepaddle&logoColor=white)
+![YOLOv8](https://img.shields.io/badge/YOLOv8-00FFFF?style=for-the-badge&logo=yolo&logoColor=black)
+
+![ROS](https://img.shields.io/badge/ROS-22314E?style=for-the-badge&logo=ros&logoColor=white)
+![SLAM](https://img.shields.io/badge/SLAM-FF6F00?style=for-the-badge&logo=robotframework&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white)
+
+</div>
 
 ## 💼 实习与项目精选
 
