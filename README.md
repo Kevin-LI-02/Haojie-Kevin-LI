@@ -38,6 +38,7 @@ class LiHaojie:
             self.teach_robots_to_see()
             self.optimize_models()
             self.write_papers_or_patents()
+```
 
 ## 💼 实习与项目精选
 
