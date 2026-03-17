@@ -164,33 +164,37 @@
 包含：双目视觉定位模块、ArucoMarker建图、ROS部署代码、部署教程
 
 - **项目展示**：
-  
-  <div align="center">
-    <table>
-      <tr>
-        <td align="center" width="25%">
-          <video src="https://github.com/Kevin-LI-02/Haojie-Kevin-LI/raw/main/assets/videos/underwater_detection.mp4" width="100%" controls preload="metadata"></video>
-          <br/>
-          🎥 水下目标检测与跟踪
-        </td>
-        <td align="center" width="25%">
-          <video src="https://github.com/Kevin-LI-02/Haojie-Kevin-LI/raw/main/assets/videos/marker_mapping.mp4" width="100%" controls preload="metadata"></video>
-          <br/>
-          🗺️ 三维地图构建
-        </td>
-        <td align="center" width="25%">
-          <video src="https://github.com/Kevin-LI-02/Haojie-Kevin-LI/raw/main/assets/videos/dingwei.mp4" width="100%" controls preload="metadata"></video>
-          <br/>
-          📍 水下定位第一视角
-        </td>
-        <td align="center" width="25%">
-          <video src="https://github.com/Kevin-LI-02/Haojie-Kevin-LI/raw/main/assets/videos/robot_fish.mp4" width="100%" controls preload="metadata"></video>
-          <br/>
-          🐟 航行器自主游动
-        </td>
-      </tr>
-    </table>
-  </div>
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center">
+        <a href="https://github.com/Kevin-LI-02/Haojie-Kevin-LI/raw/main/assets/videos/underwater_detection.mp4">
+          <img src="https://github.com/Kevin-LI-02/Haojie-Kevin-LI/raw/main/assets/images/video_placeholder.png" width="200" style="background: #f0f0f0; padding: 20px;"/><br/>
+          ▶️ 水下目标检测与跟踪
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://github.com/Kevin-LI-02/Haojie-Kevin-LI/raw/main/assets/videos/marker_mapping.mp4">
+          <img src="https://github.com/Kevin-LI-02/Haojie-Kevin-LI/raw/main/assets/images/video_placeholder.png" width="200" style="background: #f0f0f0; padding: 20px;"/><br/>
+          ▶️ 三维地图构建
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://github.com/Kevin-LI-02/Haojie-Kevin-LI/raw/main/assets/videos/dingwei.mp4">
+          <img src="https://github.com/Kevin-LI-02/Haojie-Kevin-LI/raw/main/assets/images/video_placeholder.png" width="200" style="background: #f0f0f0; padding: 20px;"/><br/>
+          ▶️ 水下定位第一视角
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://github.com/Kevin-LI-02/Haojie-Kevin-LI/raw/main/assets/videos/robot_fish.mp4">
+          <img src="https://github.com/Kevin-LI-02/Haojie-Kevin-LI/raw/main/assets/images/video_placeholder.png" width="200" style="background: #f0f0f0; padding: 20px;"/><br/>
+          ▶️ 航行器自主游动
+        </a>
+      </td>
+    </tr>
+  </table>
+</div>
 
 - **论文成果**：机器人领域国际顶会 **IROS论文1篇**
 
@@ -212,12 +216,13 @@
 - **项目描述**：无GPS信号下的塔内定位建图、路径规划与壁面破损检测
 - **核心贡献**：融合飞行高度计和激光雷达点云的SLAM建图算法研发
 - **项目展示**：
-  
-  <div align="center">
-    <video src="https://github.com/Kevin-LI-02/Haojie-Kevin-LI/raw/main/assets/videos/slam.mp4" width="80%" controls preload="metadata"></video>
-    <br/>
-    🗺️ SLAM建图动态演示
-  </div>
+
+<div align="center">
+  <a href="https://github.com/Kevin-LI-02/Haojie-Kevin-LI/raw/main/assets/videos/slam.mp4">
+    <img src="https://github.com/Kevin-LI-02/Haojie-Kevin-LI/raw/main/assets/images/video_placeholder.png" width="400" style="background: #f0f0f0; padding: 40px;"/><br/>
+    ▶️ SLAM建图动态演示
+  </a>
+</div>
 ---
 
 ## 📄 科研成果
