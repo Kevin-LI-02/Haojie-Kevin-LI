@@ -185,6 +185,12 @@
 ##### 🎥 自主运行无人车硬件架构图
 ![自主运行无人车硬件架构图](https://github.com/Kevin-LI-02/Haojie-Kevin-LI/raw/main/assets/images/hardware_framework.png)
 
+##### 🎥 激光雷达定位技术路线
+![激光雷达定位技术路线](https://github.com/Kevin-LI-02/Haojie-Kevin-LI/raw/main/assets/images/lidar_mapping.png)
+
+##### 🎥 点云地图构建效果图
+![点云地图构建效果图](https://github.com/Kevin-LI-02/Haojie-Kevin-LI/raw/main/assets/images/mapping.png)
+
 ##### 🎥 自主运行无人车实时运行效果【视频，点击即可跳转查看】
 [![自主运行无人车实时运行效果](https://github.com/Kevin-LI-02/Haojie-Kevin-LI/raw/main/assets/images/running_cover.png)](https://youtu.be/CzhMzXCxNCk)
 
