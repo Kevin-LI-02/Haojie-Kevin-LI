@@ -1,0 +1,5 @@
+alarm_id,alarm_type,alarm_level,message,duration_seconds
+ALM001,行人入侵,1,K10+200处发现轨道内有行人,5
+ALM002,设备故障,2,前方信号机发生故障,1
+ALM003,隧道烟雾,1,5号隧道内检测到不明烟雾,3
+ALM004,接触网异常,1,接触网电压异常波动,2
