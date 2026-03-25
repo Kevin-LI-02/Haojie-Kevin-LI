@@ -173,9 +173,20 @@
 
 - **项目展示**：
 
-##### 🖼️ 自主运行车辆项目介绍视频
-![双目避障效果图](https://github.com/Kevin-LI-02/Haojie-Kevin-LI/raw/main/assets/images/bizhang.jpg)
+##### 🖼️ 自主运行车辆项目介绍与展示【视频，点击即可跳转查看】
+[![自主运行车辆项目介绍与展示](https://github.com/Kevin-LI-02/Haojie-Kevin-LI/raw/main/assets/images/introduction_cover.png)](https://youtu.be/4bZtr9iaUI8)
 
+##### 🎥 车辆本体硬件架设图
+![车辆本体硬件架设图](https://github.com/Kevin-LI-02/Haojie-Kevin-LI/raw/main/assets/images/vehicle_hardware.png)
+
+##### 🎥 自主运行无人车功能架构图
+![自主运行无人车功能架构图](https://github.com/Kevin-LI-02/Haojie-Kevin-LI/raw/main/assets/images/function_framework.png)
+
+##### 🎥 自主运行无人车硬件架构图
+![自主运行无人车硬件架构图](https://github.com/Kevin-LI-02/Haojie-Kevin-LI/raw/main/assets/images/hardware_framework.png)
+
+##### 🎥 自主运行无人车实时运行效果【视频，点击即可跳转查看】
+[![自主运行无人车实时运行效果](https://github.com/Kevin-LI-02/Haojie-Kevin-LI/raw/main/assets/images/running_cover.png)](https://youtu.be/CzhMzXCxNCk)
 
 ---
 
