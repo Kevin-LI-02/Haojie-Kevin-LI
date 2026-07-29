@@ -1,4 +1,4 @@
-<img width="468" height="57" alt="image" src="https://github.com/user-attachments/assets/e87fd1aa-9d8e-4a3d-96e5-9fa9ea0b8239" /># 嗨，我是李浩杰！👋
+# 嗨，我是李浩杰！👋
 
 ### 🐟 一个试图让机器人学会“看世界”的计算机视觉研究生
 
